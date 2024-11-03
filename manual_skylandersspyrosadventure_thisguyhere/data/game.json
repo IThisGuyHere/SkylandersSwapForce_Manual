@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SkylandersSpyrosAdventure",
+  "creator": "ThisGuyHere",
+  "filler_item_name": "Sheep",
+  "starting_items": [
+    {
+      "items": [
+        "Progressive Chapter"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Character"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Element"
+      ],
+      "random": 1
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+[
+	{
+		"count": "22",
+		"name": "Progressive Chapter",
+		"category": [
+			"Chapter"
+		],
+		"progression": true
+	},
+	
+
+	{
+		"count": "1",
+		"name": "Empire of Ice",
+		"category": [
+			"Empire of Ice Pack", "Chapter"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "1",
+		"name": "Pirate Seas",
+		"category": [
+			"Pirate Seas Pack", "Chapter"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "1",
+		"name": "Darklight Crypt",
+		"category": [
+			"Darklight Crypt Pack", "Chapter"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "1",
+		"name": "Dragon's Peak",
+		"category": [
+			"Dragon's Peak Pack", "Chapter"
+		],
+		"progression_skip_balancing": true
+	},
+
+
+	{
+		"count": "22",
+		"name": "Progressive Elemental Gates",
+		"category": [
+			"Elemental Gates"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": "1",
+		"name": "Adventure Pack Elemental Gates",
+		"category": [
+			"Elemental Gates", "Add-on"
+		],
+		"progression_skip_balancing": true
+	},
+
+
+	{
+		"count": "22",
+		"name": "Progressive Soul Abilities",
+		"category": [
+			"Soul Abilities"
+		],
+		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Adventure Pack Soul Abilities",
+		"category": [
+			"Soul Abilities", "Add-on"
+		],
+		"useful": true
+	},
+
+
+	{
+		"count": "7",
+		"name": "Progressive Skylander Upgrade",
+		"category": [
+			"Upgrade", "Generic Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Fire Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Water Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Earth Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Air Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Life Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Undead Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Tech Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"count": "7",
+		"name": "Progressive Magic Skylander Upgrade",
+		"category": [
+			"Upgrade", "Element Upgrade"
+		],
+		"useful": true
+	},
+
+
+
+	{
+		"count": 1,
+		"name": "All Fire Characters",
+		"category": [
+			"Element", "Fire Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Water Characters",
+		"category": [
+			"Element", "Water Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Earth Characters",
+		"category": [
+			"Element", "Earth Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Air Characters",
+		"category": [
+			"Element", "Air Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Life Characters",
+		"category": [
+			"Element", "Life Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Undead Characters",
+		"category": [
+			"Element", "Undead Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Tech Characters",
+		"category": [
+			"Element", "Tech Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "All Magic Characters",
+		"category": [
+			"Element", "Magic Character"
+		],
+		"progression_skip_balancing": true
+	},
+
+
+	{
+		"count": 1,
+		"name": "Sunburn",
+		"category": [
+			"Character", 
+			"Fire Character",
+			"Add-on",
+			"Dragon's Peak Pack"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Eruptor",
+		"category": [
+			"Character", 
+			"Fire Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Ignitor",
+		"category": [
+			"Character", 
+			"Fire Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Flameslinger",
+		"category": [
+			"Character", 
+			"Fire Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Camo",
+		"category": [
+			"Character", 
+			"Life Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Zook",
+		"category": [
+			"Character", 
+			"Life Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Stealth Elf",
+		"category": [
+			"Character", 
+			"Life Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Stump Smash",
+		"category": [
+			"Character", 
+			"Life Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Bash",
+		"category": [
+			"Character", 
+			"Earth Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Terrafin",
+		"category": [
+			"Character", 
+			"Earth Character",
+			"Add-on",
+			"Pirate Seas Pack"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Dino-Rang",
+		"category": [
+			"Character", 
+			"Earth Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Prism Break",
+		"category": [
+			"Character", 
+			"Earth Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Trigger Happy",
+		"category": [
+			"Character", 
+			"Tech Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Drobot",
+		"category": [
+			"Character", 
+			"Tech Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Drill Sergeant",
+		"category": [
+			"Character", 
+			"Tech Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Boomer",
+		"category": [
+			"Character", 
+			"Tech Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Spyro",
+		"category": [
+			"Character", 
+			"Magic Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Voodood",
+		"category": [
+			"Character", 
+			"Magic Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Double Trouble",
+		"category": [
+			"Character", 
+			"Magic Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Wrecking Ball",
+		"category": [
+			"Character", 
+			"Magic Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Whirlwind",
+		"category": [
+			"Character", 
+			"Air Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Sonic Boom",
+		"category": [
+			"Character", 
+			"Air Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Warnado",
+		"category": [
+			"Character", 
+			"Air Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Lightning Rod",
+		"category": [
+			"Character", 
+			"Air Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Hex",
+		"category": [
+			"Character", 
+			"Undead Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Chop Chop",
+		"category": [
+			"Character", 
+			"Undead Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Ghost Roaster",
+		"category": [
+			"Character", 
+			"Undead Character",
+			"Add-on",
+			"Darklight Crypt Pack"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Cynder",
+		"category": [
+			"Character", 
+			"Undead Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Zap",
+		"category": [
+			"Character", 
+			"Water Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Wham-Shell",
+		"category": [
+			"Character", 
+			"Water Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Gill Grunt",
+		"category": [
+			"Character", 
+			"Water Character"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Slam Bam",
+		"category": [
+			"Character", 
+			"Water Character",
+			"Add-on",
+			"Empire of Ice Pack"
+		],
+		"progression_skip_balancing": true
+	},
+
+
+	{
+		"count": 1,
+		"name": "Anvil Rain",
+		"category": [
+			"Active Item", "Add-on", "Empire of Ice Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Sky-Iron Shield",
+		"category": [
+			"Active Item", "Add-on", "Empire of Ice Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hidden Treasure",
+		"category": [
+			"Active Item", "Add-on", "Pirate Seas Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ghost Pirate Swords",
+		"category": [
+			"Active Item", "Add-on", "Pirate Seas Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Healing Elixir",
+		"category": [
+			"Active Item", "Add-on", "Darklight Crypt Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Time Twister Hourglass",
+		"category": [
+			"Active Item", "Add-on", "Darklight Crypt Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Sparx Dragonfly",
+		"category": [
+			"Active Item", "Add-on", "Dragon's Peak Pack"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Winged Boots",
+		"category": [
+			"Active Item", "Add-on", "Dragon's Peak Pack"
+		],
+		"useful": true
+	},
+
+
+	{
+		"count": 24,
+		"name": "Element Lock Trap",
+		"category": [
+			"Traps"
+		],
+		"trap": true
+	},
+	{
+		"count": 24,
+		"name": "Rename Character Trap",
+		"category": [
+			"Traps"
+		],
+		"trap": true
+	},
+	{
+		"count": 16,
+		"name": "Solo Trap",
+		"category": [
+			"Traps"
+		],
+		"trap": true
+	},
+	{
+		"count": 8,
+		"name": "Reset Last Character Trap",
+		"category": [
+			"Traps", "Hard Traps"
+		],
+		"trap": true
+	}
+]

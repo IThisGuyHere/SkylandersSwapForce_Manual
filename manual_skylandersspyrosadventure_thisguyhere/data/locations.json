@@ -1,0 +1,1487 @@
+[
+	{
+		"name": "Shattered Island",
+		"region": "Chapter 1",
+		"category": [
+			"Level", "Chapter 01"
+		],
+		"requires": []
+	},
+	{
+		"name": "Perilous Pastures",
+		"region": "Chapter 2",
+		"category": [
+			"Level", "Chapter 02"
+		],
+		"requires": "|Progressive Chapter:2|"
+	},
+	{
+		"name": "Sky Schooner Docks",
+		"region": "Chapter 3",
+		"category": [
+			"Level", "Chapter 03"
+		],
+		"requires": "|Progressive Chapter:3|"
+	},
+	{
+		"name": "Stormy Stronghold",
+		"region": "Chapter 4",
+		"category": [
+			"Level", "Chapter 04"
+		],
+		"requires": "|Progressive Chapter:4|"
+	},
+	{
+		"name": "Oilspill Island",
+		"region": "Chapter 5",
+		"category": [
+			"Level", "Chapter 05"
+		],
+		"requires": "|Progressive Chapter:5|"
+	},
+	{
+		"name": "Dark Water Cove",
+		"region": "Chapter 6",
+		"category": [
+			"Level", "Chapter 06"
+		],
+		"requires": "|Progressive Chapter:6|"
+	},
+	{
+		"name": "Leviathan Lagoon",
+		"region": "Chapter 7",
+		"category": [
+			"Level", "Chapter 07"
+		],
+		"requires": "|Progressive Chapter:7|"
+	},
+	{
+		"name": "Crystal Eye Castle",
+		"region": "Chapter 8",
+		"category": [
+			"Level", "Chapter 08"
+		],
+		"requires": "|Progressive Chapter:8|"
+	},
+	{
+		"name": "Stonetown",
+		"region": "Chapter 9",
+		"category": [
+			"Level", "Chapter 09"
+		],
+		"requires": "|Progressive Chapter:9|"
+	},
+	{
+		"name": "Treetop Terrace",
+		"region": "Chapter 10",
+		"category": [
+			"Level", "Chapter 10"
+		],
+		"requires": "|Progressive Chapter:10|"
+	},
+	{
+		"name": "Falling Forest",
+		"region": "Chapter 11",
+		"category": [
+			"Level", "Chapter 11"
+		],
+		"requires": "|Progressive Chapter:11|"
+	},
+	{
+		"name": "Troll Warehouse",
+		"region": "Chapter 12",
+		"category": [
+			"Level", "Chapter 12"
+		],
+		"requires": "|Progressive Chapter:12|"
+	},
+	{
+		"name": "Goo Factory",
+		"region": "Chapter 13",
+		"category": [
+			"Level", "Chapter 13"
+		],
+		"requires": "|Progressive Chapter:13|"
+	},
+	{
+		"name": "Battlefield",
+		"region": "Chapter 14",
+		"category": [
+			"Level", "Chapter 14"
+		],
+		"requires": "|Progressive Chapter:14|"
+	},
+	{
+		"name": "Crawling Catacombs",
+		"region": "Chapter 15",
+		"category": [
+			"Level", "Chapter 15"
+		],
+		"requires": "|Progressive Chapter:15|"
+	},
+	{
+		"name": "Cadaverous Crypt",
+		"region": "Chapter 16",
+		"category": [
+			"Level", "Chapter 16"
+		],
+		"requires": "|Progressive Chapter:16|"
+	},
+	{
+		"name": "Creepy Citadel",
+		"region": "Chapter 17",
+		"category": [
+			"Level", "Chapter 17"
+		],
+		"requires": "|Progressive Chapter:17|"
+	},
+	{
+		"name": "Molekin Mine",
+		"region": "Chapter 18",
+		"category": [
+			"Level", "Chapter 18"
+		],
+		"requires": "|Progressive Chapter:18|"
+	},
+	{
+		"name": "Lava Lakes Railway",
+		"region": "Chapter 19",
+		"category": [
+			"Level", "Chapter 19"
+		],
+		"requires": "|Progressive Chapter:19|"
+	},
+	{
+		"name": "Quicksilver Vault",
+		"region": "Chapter 20",
+		"category": [
+			"Level", "Chapter 20"
+		],
+		"requires": "|Progressive Chapter:20|"
+	},
+	{
+		"name": "Arkeyan Armory",
+		"region": "Chapter 21",
+		"category": [
+			"Level", "Chapter 21"
+		],
+		"requires": "|Progressive Chapter:21|"
+	},
+	{
+		"name": "Lair of Kaos",
+		"region": "Chapter 22",
+		"category": [
+			"Level", "Chapter 22"
+		],
+		"requires": "|Progressive Chapter:22|"
+	},
+	{
+		"name": "Empire of Ice",
+		"region": "Empire of Ice",
+		"category": [
+			"Level", "Add-on", "Empire of Ice", "Empire of Ice Pack"
+		],
+		"requires": "|Progressive Chapter:4|"
+	},
+	{
+		"name": "Pirate Seas",
+		"region": "Pirate Seas",
+		"category": [
+			"Level", "Add-on", "Pirate Seas", "Pirate Seas Pack"
+		],
+		"requires": "|Progressive Chapter:4|"
+	},
+	{
+		"name": "Darklight Crypt",
+		"region": "Darklight Crypt",
+		"category": [
+			"Level", "Add-on", "Darklight Crypt", "Darklight Crypt Pack"
+		],
+		"requires": "|Progressive Chapter:2|"
+	},
+	{
+		"name": "Dragon's Peak",
+		"region": "Dragon's Peak",
+		"category": [
+			"Level", "Add-on", "Dragon's Peak", "Dragon's Peak Pack"
+		],
+		"requires": "|Progressive Chapter:3|"
+	},
+	{
+		"name": "Defeat Kaos",
+		"region": "Chapter 22",
+		"victory": true,
+		"category": [
+			"Goal"
+		],
+		"requires": "|Progressive Chapter:22|"
+	},
+
+	
+	{
+		"name": "Viking Helmet",
+		"region": "Chapter 1",
+		"category": [
+			"Hat", "Chapter 01"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"name": "Pan Hat",
+		"region": "Chapter 1",
+		"category": [
+			"Hat", "Chapter 01"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+	},
+	{
+		"name": "Anvil Hat",
+		"region": "Chapter 1",
+		"category": [
+			"Hat", "Chapter 01"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+	},
+	{
+		"name": "Cowboy Hat",
+		"region": "Chapter 2",
+		"category": [
+			"Hat", "Chapter 02"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+	},
+	{
+		"name": "Birthday Hat",
+		"region": "Chapter 2",
+		"category": [
+			"Hat", "Chapter 02"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+	},
+	{
+		"name": "Propeller Cap",
+		"region": "Chapter 3",
+		"category": [
+			"Hat", "Chapter 03"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Jester Hat",
+		"region": "Chapter 3",
+		"category": [
+			"Hat", "Chapter 03"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+	},
+	{
+		"name": "Fez",
+		"region": "Chapter 4",
+		"category": [
+			"Hat", "Chapter 04"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"name": "Fancy Hat",
+		"region": "Chapter 4",
+		"category": [
+			"Hat", "Chapter 04"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"name": "Plunger Head",
+		"region": "Chapter 5",
+		"category": [
+			"Hat", "Chapter 05"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"name": "Tiki Hat",
+		"region": "Chapter 6",
+		"category": [
+			"Hat", "Chapter 06"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"name": "Tropical Turban",
+		"region": "Chapter 6",
+		"category": [
+			"Hat", "Chapter 06"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+	},
+	{
+		"name": "Napoleon Hat",
+		"region": "Chapter 7",
+		"category": [
+			"Hat", "Chapter 07"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:7|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+	},
+	{
+		"name": "Eye Hat",
+		"region": "Chapter 8",
+		"category": [
+			"Hat", "Chapter 08"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Trojan Helmet",
+		"region": "Chapter 8",
+		"category": [
+			"Hat", "Chapter 08"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+	},
+	{
+		"name": "Top Hat",
+		"region": "Chapter 9",
+		"category": [
+			"Hat", "Chapter 09"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:9|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"name": "Moose Hat",
+		"region": "Chapter 10",
+		"category": [
+			"Hat", "Chapter 10"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"region": "Chapter 11",
+		"name": "Coonskin Cap",
+		"category": [
+			"Hat", "Chapter 11"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:11|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+	},
+	{
+		"region": "Chapter 12",
+		"name": "Spy Gear",
+		"category": [
+			"Hat", "Chapter 12"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"region": "Chapter 12",
+		"name": "Rocket Hat",
+		"category": [
+			"Hat", "Chapter 12"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"region": "Chapter 13",
+		"name": "General's Hat",
+		"category": [
+			"Hat", "Chapter 13"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"region": "Chapter 13",
+		"name": "Spiked Hat",
+		"category": [
+			"Hat", "Chapter 13"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"name": "Combat Hat",
+		"region": "Chapter 14",
+		"category": [
+			"Hat", "Chapter 14"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Beret",
+		"region": "Chapter 15",
+		"category": [
+			"Hat", "Chapter 15"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:15|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Crown of Light",
+		"region": "Chapter 16",
+		"category": [
+			"Hat", "Chapter 16"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+	},
+	{
+		"name": "Bone Head",
+		"region": "Chapter 16",
+		"category": [
+			"Hat", "Chapter 16"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+	},
+	{
+		"name": "Rocker Hair",
+		"region": "Chapter 17",
+		"category": [
+			"Hat", "Chapter 17"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:17|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"name": "Miner Hat",
+		"region": "Chapter 18",
+		"category": [
+			"Hat", "Chapter 18"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:18|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+	},
+	{
+		"region": "Chapter 19",
+		"name": "Lil Devil",
+		"category": [
+			"Hat", "Chapter 19"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:19|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"region": "Chapter 20",
+		"name": "Unicorn Hat",
+		"category": [
+			"Hat", "Chapter 20"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"region": "Chapter 21",
+		"name": "Wizard Hat",
+		"category": [
+			"Hat", "Chapter 21"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:21|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"region": "Chapter 22",
+		"name": "Wabbit Ears",
+		"category": [
+			"Hat", "Chapter 22"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:22|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"region": "Empire of Ice",
+		"name": "Santa Hat",
+		"category": [
+			"Hat", "Add-on", "Empire of Ice", "Empire of Ice Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"region": "Empire of Ice",
+		"name": "Cossack Hat",
+		"category": [
+			"Hat", "Add-on", "Empire of Ice", "Empire of Ice Pack"
+		],
+		"requires": []
+	},
+	{
+		"region": "Pirate Seas",
+		"name": "Pirate Hat",
+		"category": [
+			"Hat", "Add-on", "Pirate Seas", "Pirate Seas Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"region": "Pirate Seas",
+		"name": "Pirate Doo Rag",
+		"category": [
+			"Hat", "Add-on", "Pirate Seas", "Pirate Seas Pack"
+		],
+		"requires": []
+	},
+	{
+		"region": "Darklight Crypt",
+		"name": "Chef Hat",
+		"category": [
+			"Hat", "Add-on", "Darklight Crypt","Darklight Crypt Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"region": "Darklight Crypt",
+		"name": "Pumpkin Hat",
+		"category": [
+			"Hat", "Add-on", "Darklight Crypt", "Darklight Crypt Pack"
+		],
+		"requires": []
+	},
+	{
+		"region": "Dragon's Peak",
+		"name": "Winged Hat",
+		"category": [
+			"Hat", "Add-on", "Dragon's Peak", "Dragon's Peak Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"region": "Dragon's Peak",
+		"name": "Royal Crown",
+		"category": [
+			"Hat", "Add-on", "Dragon's Peak", "Dragon's Peak Pack"
+		],
+		"requires": []
+	},
+
+
+
+	{
+		"region": "Chapter 1",
+		"name": "Salary Swine",
+		"category": [
+			"Legendary Treasure", "Chapter 01"
+		],
+		"requires": []
+	},
+	{
+		"name": "Enigma Pig",
+		"region": "Chapter 2",
+		"category": [
+			"Legendary Treasure", "Chapter 02"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+	},
+	{
+		"name": "Wild Runners",
+		"region": "Chapter 3",
+		"category": [
+			"Legendary Treasure", "Chapter 03"
+		],
+		"requires": []
+	},
+	{
+		"name": "Ancient Carillon",
+		"region": "Chapter 4",
+		"category": [
+			"Legendary Treasure", "Chapter 04"
+		],
+		"requires": []
+	},
+	{
+		"name": "Catechumen",
+		"region": "Chapter 5",
+		"category": [
+			"Legendary Treasure", "Chapter 05"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"name": "Parrot Totem",
+		"region": "Chapter 6",
+		"category": [
+			"Legendary Treasure", "Chapter 06"
+		],
+		"requires": []
+	},
+	{
+		"name": "Opulent Pullet",
+		"region": "Chapter 7",
+		"category": [
+			"Legendary Treasure", "Chapter 07"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+	},
+	{
+		"name": "Teddy Cyclops",
+		"region": "Chapter 8",
+		"category": [
+			"Legendary Treasure", "Chapter 08"
+		],
+		"requires": []
+	},
+	{
+		"name": "Mono Lisa",
+		"region": "Chapter 9",
+		"category": [
+			"Legendary Treasure", "Chapter 09"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 10",
+		"name": "Sterling Tapir",
+		"category": [
+			"Legendary Treasure", "Chapter 10"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 11",
+		"name": "Topiary's Nucleus",
+		"category": [
+			"Legendary Treasure", "Chapter 11"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 12",
+		"name": "Ghost View Glasses",
+		"category": [
+			"Legendary Treasure", "Chapter 12"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"region": "Chapter 13",
+		"name": "Troll Stein",
+		"category": [
+			"Legendary Treasure", "Chapter 13"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"region": "Chapter 14",
+		"name": "Royal Lynx",
+		"category": [
+			"Legendary Treasure", "Chapter 14"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 15",
+		"name": "Aphid Lifter",
+		"category": [
+			"Legendary Treasure", "Chapter 15"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 16",
+		"name": "Golden Randomizer",
+		"category": [
+			"Legendary Treasure", "Chapter 16"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 17",
+		"name": "Doom's Rook",
+		"category": [
+			"Legendary Treasure", "Chapter 17"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 18",
+		"name": "Golden Links",
+		"category": [
+			"Legendary Treasure", "Chapter 18"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 19",
+		"name": "Fiord's Jetty",
+		"category": [
+			"Legendary Treasure", "Chapter 19"
+		],
+		"requires": []
+	},
+	{
+		"region": "Chapter 20",
+		"name": "Rollerskates",
+		"category": [
+			"Legendary Treasure", "Chapter 20"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"region": "Chapter 21",
+		"name": "Arkeyan Weapon Controller",
+		"category": [
+			"Legendary Treasure", "Chapter 21"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+	},
+	{
+		"region": "Chapter 22",
+		"name": "Superior Regalia",
+		"category": [
+			"Legendary Treasure", "Chapter 22"
+		],
+		"requires": []
+	},
+	{
+		"region": "Empire of Ice",
+		"name": "Snow Globe",
+		"category": [
+			"Legendary Treasure", "Add-on", "Empire of Ice", "Empire of Ice Pack"
+		],
+		"requires": []
+	},
+	{
+		"region": "Pirate Seas",
+		"name": "Bottle Boat",
+		"category": [
+			"Legendary Treasure", "Add-on", "Pirate Seas", "Pirate Seas Pack"
+		],
+		"requires": []
+	},
+	{
+		"region": "Darklight Crypt",
+		"name": "Flamingo",
+		"category": [
+			"Legendary Treasure", "Add-on", "Darklight Crypt", "Darklight Crypt Pack"
+		],
+		"requires": []
+	},
+	{
+		"region": "Dragon's Peak",
+		"name": "Archaic Codex",
+		"category": [
+			"Legendary Treasure", "Add-on", "Dragon's Peak", "Dragon's Peak Pack"
+		],
+		"requires": []
+	},
+
+
+	{
+		"name": "Soul Gem - Chop Chop",
+		"region": "Chapter 1",
+		"category": [
+			"Soul Gem", "Chapter 01"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"name": "Soul Gem - Stump Smash ",
+		"region": "Chapter 2",
+		"category": [
+			"Soul Gem", "Chapter 02"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+	},
+	{
+		"name": "Soul Gem - Sonic Boom",
+		"region": "Chapter 3",
+		"category": [
+			"Soul Gem", "Chapter 03"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Warnado",
+		"region": "Chapter 4",
+		"category": [
+			"Soul Gem", "Chapter 04"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Wham-Shell ",
+		"region": "Chapter 5",
+		"category": [
+			"Soul Gem", "Chapter 05"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+	},
+	{
+		"name": "Soul Gem - Boomer",
+		"region": "Chapter 5",
+		"category": [
+			"Soul Gem", "Chapter 05"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+	},
+	{
+		"name": "Soul Gem - Dino-Rang",
+		"region": "Chapter 6",
+		"category": [
+			"Soul Gem", "Chapter 06"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Ignitor",
+		"region": "Chapter 6",
+		"category": [
+			"Soul Gem", "Chapter 06"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Zap",
+		"region": "Chapter 7",
+		"category": [
+			"Soul Gem", "Chapter 07"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Prism Break",
+		"region": "Chapter 8",
+		"category": [
+			"Soul Gem", "Chapter 08"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Lightning Rod",
+		"region": "Chapter 9",
+		"category": [
+			"Soul Gem", "Chapter 09"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Bash",
+		"region": "Chapter 9",
+		"category": [
+			"Soul Gem", "Chapter 09"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Gill Grunt",
+		"region": "Chapter 10",
+		"category": [
+			"Soul Gem", "Chapter 10"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"name": "Soul Gem - Stealth Elf",
+		"region": "Chapter 11",
+		"category": [
+			"Soul Gem", "Chapter 11"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Zook",
+		"region": "Chapter 12",
+		"category": [
+			"Soul Gem", "Chapter 12"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Camo",
+		"region": "Chapter 13",
+		"category": [
+			"Soul Gem", "Chapter 13"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Drill Sergeant",
+		"region": "Chapter 14",
+		"category": [
+			"Soul Gem", "Chapter 14"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Drobot",
+		"region": "Chapter 14",
+		"category": [
+			"Soul Gem", "Chapter 14"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Spyro",
+		"region": "Chapter 15",
+		"category": [
+			"Soul Gem", "Chapter 15"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Hex",
+		"region": "Chapter 16",
+		"category": [
+			"Soul Gem", "Chapter 16"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Trigger Happy",
+		"region": "Chapter 16",
+		"category": [
+			"Soul Gem", "Chapter 16"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Whirlwind",
+		"region": "Chapter 17",
+		"category": [
+			"Soul Gem", "Chapter 17"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Cynder",
+		"region": "Chapter 18",
+		"category": [
+			"Soul Gem", "Chapter 18"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Flameslinger",
+		"region": "Chapter 18",
+		"category": [
+			"Soul Gem", "Chapter 18"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Eruptor",
+		"region": "Chapter 19",
+		"category": [
+			"Soul Gem", "Chapter 19"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Wrecking Ball",
+		"region": "Chapter 20",
+		"category": [
+			"Soul Gem", "Chapter 20"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Voodood",
+		"region": "Chapter 21",
+		"category": [
+			"Soul Gem", "Chapter 21"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Double Trouble",
+		"region": "Chapter 22",
+		"category": [
+			"Soul Gem", "Chapter 22"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Slam Bam",
+		"region": "Empire of Ice",
+		"category": [
+			"Soul Gem", "Add-on", "Empire of Ice", "Empire of Ice Pack"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Terrafin",
+		"region": "Pirate Seas",
+		"category": [
+			"Soul Gem", "Add-on", "Pirate Seas", "Pirate Seas Pack"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Ghost Roaster",
+		"region": "Darklight Crypt",
+		"category": [
+			"Soul Gem", "Add-on", "Darklight Crypt", "Darklight Crypt Pack"
+		],
+		"requires": []
+	},
+	{
+		"name": "Soul Gem - Sunburn",
+		"region": "Dragon's Peak",
+		"category": [
+			"Soul Gem", "Add-on", "Dragon's Peak", "Dragon's Peak Pack"
+		],
+		"requires": []
+	},
+
+
+	{
+		"name": "Heroic Challenge - Warnado",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Warnado|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Ghost Roaster",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge", "Add-on", "Darklight Crypt Pack"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Ghost Roaster|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Wrecking Ball",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Wrecking Ball|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Spyro",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Spyro|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Prism Break",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Prism Break|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Lightning Rod",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Lightning Rod|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Hex",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Hex|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Dino-Rang",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Dino-Rang|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Bash",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Bash|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Cynder",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Cynder|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Ignitor",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Ignitor|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Stump Smash",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Stump Smash|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Chop Chop",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Chop Chop|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Sonic Boom",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Sonic Boom|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Drobot",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Drobot|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Terrafin",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge", "Add-on", "Pirate Seas Pack"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Terrafin|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Sunburn",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge", "Add-on", "Dragon's Peak Pack"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Sunburn|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Trigger Happy",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Trigger Happy|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Eruptor",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Eruptor|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Double Trouble",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Double Trouble|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Stealth Elf",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Stealth Elf|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Whirlwind",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Whirlwind|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Voodood",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Voodood|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Wham-Shell",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Wham-Shell|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Camo",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Camo|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Zook",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Zook|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Flameslinger",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Flameslinger|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Boomer",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Boomer|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Gill Grunt",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Gill Grunt|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Drill Sergeant",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Drill Sergeant|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Slam Bam",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge", "Add-on", "Empire of Ice Pack"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Slam Bam|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+	},
+	{
+		"name": "Heroic Challenge - Zap",
+		"region": "Hub Challenges",
+		"category": [
+			"Challenge"
+		],
+		"requires": "({YamlEnabled(characters_as_items)} and |Zap|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+	},
+
+
+	{
+		"name": "Shattered Island Perfection",
+		"region": "Chapter 1",
+		"category": [
+			"Completionist", "Chapter 01"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character| and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters| and |All Tech Characters|))"
+	},
+	{
+		"name": "Perilous Pastures Perfection",
+		"region": "Chapter 2",
+		"category": [
+			"Completionist", "Chapter 02"
+		],
+		"requires": "|Progressive Chapter:1| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Water Character| and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Water Characters| and |All Life Characters|))"
+	},
+	{
+		"name": "Sky Schooner Docks Perfection",
+		"region": "Chapter 3",
+		"category": [
+			"Completionist", "Chapter 03"
+		],
+		"requires": "|Progressive Chapter:2| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
+	},
+	{
+		"name": "Stormy Stronghold Perfection",
+		"region": "Chapter 4",
+		"category": [
+			"Completionist", "Chapter 04"
+		],
+		"requires": "|Progressive Chapter:3| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Air Characters|))"
+	},
+	{
+		"name": "Oilspill Island Perfection",
+		"region": "Chapter 5",
+		"category": [
+			"Completionist", "Chapter 05"
+		],
+		"requires": "|Progressive Chapter:4| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"name": "Dark Water Cove Perfection",
+		"region": "Chapter 6",
+		"category": [
+			"Completionist", "Chapter 06"
+		],
+		"requires": "|Progressive Chapter:5| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters|))"
+	},
+	{
+		"name": "Leviathan Lagoon Perfection",
+		"region": "Chapter 7",
+		"category": [
+			"Completionist", "Chapter 07"
+		],
+		"requires": "|Progressive Chapter:6| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:7|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+	},
+	{
+		"name": "Crystal Eye Castle Perfection",
+		"region": "Chapter 8",
+		"category": [
+			"Completionist", "Chapter 08"
+		],
+		"requires": "|Progressive Chapter:7| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
+	},
+	{
+		"name": "Stonetown Perfection",
+		"region": "Chapter 9",
+		"category": [
+			"Completionist", "Chapter 09"
+		],
+		"requires": "|Progressive Chapter:8| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:9|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"name": "Treetop Terrace Perfection",
+		"region": "Chapter 10",
+		"category": [
+			"Completionist", "Chapter 10"
+		],
+		"requires": "|Progressive Chapter:9| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"name": "Falling Forest Perfection",
+		"region": "Chapter 11",
+		"category": [
+			"Completionist", "Chapter 11"
+		],
+		"requires": "|Progressive Chapter:10| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:11|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+	},
+	{
+		"name": "Troll Warehouse Perfection",
+		"region": "Chapter 12",
+		"category": [
+			"Completionist", "Chapter 12"
+		],
+		"requires": "|Progressive Chapter:11| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Fire Characters|))"
+	},
+	{
+		"name": "Goo Factory Perfection",
+		"region": "Chapter 13",
+		"category": [
+			"Completionist", "Chapter 13"
+		],
+		"requires": "|Progressive Chapter:12| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters| and |All Fire Characters|))"
+	},
+	{
+		"name": "Battlefield Perfection",
+		"region": "Chapter 14",
+		"category": [
+			"Completionist", "Chapter 14"
+		],
+		"requires": "|Progressive Chapter:13| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Crawling Catacombs Perfection",
+		"region": "Chapter 15",
+		"category": [
+			"Completionist", "Chapter 15"
+		],
+		"requires": "|Progressive Chapter:14| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:15|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Cadaverous Crypt Perfection",
+		"region": "Chapter 16",
+		"category": [
+			"Completionist", "Chapter 16"
+		],
+		"requires": "|Progressive Chapter:15| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Earth Characters|))"
+	},
+	{
+		"name": "Creepy Citadel Perfection",
+		"region": "Chapter 17",
+		"category": [
+			"Completionist", "Chapter 17"
+		],
+		"requires": "|Progressive Chapter:16| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:17|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"name": "Molekin Mine Perfection",
+		"region": "Chapter 18",
+		"category": [
+			"Completionist", "Chapter 18"
+		],
+		"requires": "|Progressive Chapter:17| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:18|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+	},
+	{
+		"name": "Lava Lakes Railway Perfection",
+		"region": "Chapter 19",
+		"category": [
+			"Completionist", "Chapter 19"
+		],
+		"requires": "|Progressive Chapter:18| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:19|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"name": "Quicksilver Vault Perfection",
+		"region": "Chapter 20",
+		"category": [
+			"Completionist", "Chapter 20"
+		],
+		"requires": "|Progressive Chapter:19| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"name": "Arkeyan Armory Perfection",
+		"region": "Chapter 21",
+		"category": [
+			"Completionist", "Chapter 21"
+		],
+		"requires": "|Progressive Chapter:20| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:21|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"name": "Lair of Kaos Perfection",
+		"region": "Chapter 22",
+		"category": [
+			"Completionist", "Chapter 22"
+		],
+		"requires": "|Progressive Chapter:21| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:22|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+	},
+	{
+		"name": "Empire of Ice Perfection",
+		"region": "Empire of Ice",
+		"category": [
+			"Completionist", "Add-on", "Empire of Ice", "Empire of Ice Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+	},
+	{
+		"name": "Pirate Seas Perfection",
+		"region": "Pirate Seas",
+		"category": [
+			"Completionist", "Add-on", "Pirate Seas", "Pirate Seas Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+	},
+	{
+		"name": "Darklight Crypt Perfection",
+		"region": "Darklight Crypt",
+		"category": [
+			"Completionist", "Add-on", "Darklight Crypt", "Darklight Crypt Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+	},
+	{
+		"name": "Dragon's Peak Perfection",
+		"region": "Dragon's Peak",
+		"category": [
+			"Completionist", "Add-on", "Dragon's Peak", "Dragon's Peak Pack"
+		],
+		"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+	},
+	{
+		"name": "All Levels Perfected",
+		"region": "Chapter 22",
+		"victory": true,
+		"category": [
+			"Goal"
+		],
+		"requires": "|Progressive Chapter:22| and ({YamlDisabled(elemental_gates_as_items)} or (|Progressive Elemental Gates:22| and |Adventure Pack Elemental Gates|)) and (({YamlEnabled(characters_as_items)} and |@Water Character| and |@Earth Character| and |@Fire Character| and |@Air Character| and |@Life Character| and |@Undead Character| and |@Tech Character| and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters| and |All Earth Characters| and |All Fire Characters| and |All Air Characters| and |All Life Characters| and |All Undead Characters| and |All Tech Characters| and |All Magic Characters|))"
+	}
+]

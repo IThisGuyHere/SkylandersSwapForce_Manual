@@ -1,0 +1,77 @@
+{
+    "Level": {
+        "hidden": true
+    },
+    "Hat": {
+        "hidden": true
+    },
+    "Legendary Treasure": {
+        "hidden": true
+    },
+    "Soul Gem": {
+        "hidden": true
+    },
+    "Completionist": {
+        "hidden": true
+    },
+    "Chapter": {
+        "hidden": false
+    },
+    "Elemental Gates": {
+        "yaml_option": ["elemental_gates_as_items"],
+        "hidden": false
+    },
+    "Soul Abilities": {
+        "hidden": false
+    },
+    "Generic Upgrade": {
+        "yaml_option": ["!per_element_upgrades"],
+        "hidden": true
+    },
+    "Element Upgrade": {
+        "yaml_option": ["per_element_upgrades"],
+        "hidden": true
+    },
+    "Character": {
+        "yaml_option": ["characters_as_items"],
+        "hidden": true
+    },
+    "Element": {
+        "yaml_option": ["!characters_as_items"],
+        "hidden": true
+    },
+    "Challenge": {
+        "yaml_option": ["challenges_as_locations"],
+        "hidden": false
+    },
+    "Add-on": {
+        "hidden": true
+    },
+    "Darklight Crypt Pack": {
+        "yaml_option": ["include_crypt"],
+        "hidden": true
+    },
+    "Empire of Ice Pack": {
+        "yaml_option": ["include_empire"],
+        "hidden": true
+    },
+    "Dragon's Peak Pack": {
+        "yaml_option": ["include_peak"],
+        "hidden": true
+    },
+    "Pirate Seas Pack": {
+        "yaml_option": ["include_ship"],
+        "hidden": true
+    },
+    "Active Item": {
+        "yaml_option": ["active_items"],
+        "hidden": false
+    },
+    "Traps": {
+        "hidden": true
+    },
+    "Hard Traps": {
+        "yaml_option": ["hard_traps"],
+        "hidden": true
+    }
+}
