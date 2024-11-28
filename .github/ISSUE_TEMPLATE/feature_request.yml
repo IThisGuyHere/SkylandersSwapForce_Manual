@@ -1,0 +1,29 @@
+name: Enhancement
+description: Propose changes or new features.
+title: "[Enhancement]: "
+labels: ["enhancement"]
+projects: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the sections below to describe the proposed change or feature
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Briefly describe the proposed change or feature
+      placeholder: I would like to see...
+    validations:
+      required: true
+  - type: checkboxes
+    id: enhancement_type
+    attributes:
+      label: Type of Enhancement
+      description: Check all that apply
+      options:
+        label: Code Refactor
+        label: New Item(s)/Location(s)
+        label: Other
+    validations:
+      required: true

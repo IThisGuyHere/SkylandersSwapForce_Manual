@@ -34,7 +34,10 @@ from ..Helpers import is_option_enabled, get_option_value
 #    default = 50
 
 class Goal(Choice):
-    """Choose your victory condition."""
+    """Choose your victory condition.
+    Defeat Kaos: Defeat Kaos...there's not much more to it
+    All Levels Perfected: 
+    """
     display_name = "Goal"
     defeat_kaos = 0
     all_levels_perfected = 1
@@ -96,6 +99,8 @@ class CharactersToExclude(ItemSet):
     """
     Characters that will not be included in generation.
     Does nothing if CharactersAsItems is false.
+    Warning: if you have less than eight characters (and at least one from each element), some locations will be unreachable, 
+             which will make All Levels Perfected and some Completionist checks impossible to achieve
     """
     display_name = "Characters to Exclude"
     verify_item_name = True
@@ -103,7 +108,6 @@ class CharactersToExclude(ItemSet):
 class WhitelistCharacters(Toggle):
     """
     Treat CharactersToExclude as a whitelist instead of a blacklist. 
-    Warning: if set to True, you must specify at least eight characters (and at least one from each element) in CharactersToExclude.
     """
     display_name = "Whitelist Characters"
     default = False

@@ -41,6 +41,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which locations to remove
+        
 
     for region in multiworld.regions:
         if region.player == player:
@@ -52,12 +53,10 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    return item_pool
 
-# The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
-def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
     itemNamesToRemove = [] # List of item names
+    locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which items to remove.
     #
@@ -66,57 +65,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     names_to_remove = get_option_value(multiworld, player, "characters_to_exclude")
     use_character_whitelist = get_option_value(multiworld, player, "whitelist_characters")
     # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
-    # appears to work with the blacklist, but not the whitelist
-    # todo: more testing, and test what happens if the whitelist is enabled or not enough characters are in the pool
-
-    """special_cases = []
-
-    # just for clarity
-    print(item_table)
-    print("---------------")
-    print(item_pool)
-
-    # need to check whether character is part of a disabled addon and skip it if so (because it isn't in the item pool)
-    # this is very ugly and can probably be done better
-    if not is_option_enabled(multiworld, player, "include_peak"):
-        while "Sunburn" in names_to_remove: names_to_remove.remove("Sunburn")
-        special_cases.append("Sunburn")
-        print("Warning: Sunburn found in white/black list when include_peak is disabled. Removing...")
-    if not is_option_enabled(multiworld, player, "include_ship"):
-        while "Terrafin" in names_to_remove: names_to_remove.remove("Terrafin")
-        special_cases.append("Terrafin")
-        print("Warning: Terrafin found in white/black list when include_ship is disabled. Removing...")
-    if not is_option_enabled(multiworld, player, "include_empire"):
-        while "Slam Bam" in names_to_remove: names_to_remove.remove("Slam Bam")
-        special_cases.append("Slam Bam")
-        print("Warning: Slam Bam found in white/black list when include_empire is disabled. Removing...")
-    if not is_option_enabled(multiworld, player, "include_crypt"):
-        while "Ghost Roaster" in names_to_remove: names_to_remove.remove("Ghost Roaster")
-        special_cases.append("Ghost Roaster")
-        print("Warning: Ghost Roaster found in white/black list when include_crypt is disabled. Removing...")
-
-    # disabled items appear in the item_table, but not in item_pool
-
-    # need to first check if the item is in item_pool
-    for item in item_table:
-        # first check if the item is part of the "Characters" category (or has a category at all)
-        if ("category" not in item or "Character" not in item.get("category")):
-            continue
-        #print(item["name"] + " is in category")
-        item_name = item["name"]
-        character_in_list = False
-        for char_name in names_to_remove:
-            if item_name.casefold() == char_name.casefold():
-                character_in_list = True
-                break
-
-        if ((use_character_whitelist ^ character_in_list) and item_name not in special_cases):
-            itemNamesToRemove.append(item_name)
-            print("Marked for removal: " + item_name)   # debug
-"""
-
-
-    # disabled items appear in the item_table, but not in item_pool
 
     # need to first check if the item is in item_pool
     for item in item_pool:
@@ -132,14 +80,44 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
         if (use_character_whitelist ^ character_in_list):
             itemNamesToRemove.append(item_name)
-            print("Marked for removal: " + item_name)   # debug
+            # get rid of heroic challenges for removed characters
+            if (get_option_value(multiworld, player, "challenges_as_locations")):
+                locationNamesToRemove.append("Heroic Challenge - " + item_name)
+            #print("Marked for removal: " + item_name)   # debug
 
 
-    print("doing okay before actual deletion")  # debug
-    print(itemNamesToRemove)    # debug
+    #print("doing okay before actual deletion")  # debug
+    #print(itemNamesToRemove)    # debug
 
     for itemName in itemNamesToRemove:
-        print("got inside removal loop with " + itemName)  # debug
+        #print("got inside removal loop with " + itemName)  # debug
+        item = next(i for i in item_pool if i.name == itemName) # SUNBURN ISN'T IN THE ITEM POOL
+        item_pool.remove(item)
+        print("Successfully removed " + itemName)   # debug
+
+    for region in multiworld.regions:
+        if region.player == player:
+            for location in list(region.locations):
+                if location.name in locationNamesToRemove:
+                    region.locations.remove(location)
+                    print("Successfully removed " + "Heroic Challenge - " + itemName)   # debug
+    if hasattr(multiworld, "clear_location_cache"):
+        multiworld.clear_location_cache()
+
+    return item_pool
+
+# The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
+def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    # Use this hook to remove items from the item pool
+    itemNamesToRemove = [] # List of item names
+
+    # Add your code here to calculate which items to remove.
+    #
+    # Because multiple copies of an item can exist, you need to add an item name
+    # to the list multiple times if you want to remove multiple copies of it.
+
+    for itemName in itemNamesToRemove:
+        #print("got inside removal loop with " + itemName)  # debug
         item = next(i for i in item_pool if i.name == itemName) # SUNBURN ISN'T IN THE ITEM POOL
         item_pool.remove(item)
         print("Successfully removed " + itemName)   # debug
