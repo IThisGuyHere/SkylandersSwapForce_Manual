@@ -1,18 +1,18 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Level": {
+    "Level Completion": {
         "hidden": true
     },
-    "Hat": {
+    "Hat Collection": {
         "hidden": true
     },
-    "Legendary Treasure": {
+    "Legendary Treasure Collection": {
         "hidden": true
     },
-    "Soul Gem": {
+    "Soul Gem Collection": {
         "hidden": true
     },
-    "Completionist": {
+    "Perfection": {
         "hidden": true
     },
     "Chapter": {
@@ -29,7 +29,7 @@
         "yaml_option": ["per_element_upgrades"],
         "hidden": true
     },
-    "Character": {
+    "Skylander": {
         "yaml_option": ["characters_as_items"],
         "hidden": true
     },
@@ -65,7 +65,7 @@
         "hidden": false
     },
     "Traps": {
-        "hidden": true
+        "hidden": false
     },
     "Hard Traps": {
         "yaml_option": ["hard_traps"],

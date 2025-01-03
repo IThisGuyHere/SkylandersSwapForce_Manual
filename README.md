@@ -7,7 +7,7 @@ This manual requires a new save and at least one Skylander of each element. Any 
 
 ## Required Hardware/Software
 
-- Dolphin or another emulator that supports the Portal of Power, or a playable PC/console copy of the game. If using a physical Portal, at least one Skylander from each element is manditory.
+- Dolphin or another emulator that supports the Portal of Power, or a playable PC/console copy of the game. At least one Skylander from each element is manditory.
 
 ## Installation Procedures
 
@@ -20,10 +20,10 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 
 
 ## Items
-* Progressive Chapters: Unlocks the next chapter to play. You will always start with 1.
+* Progressive Chapters: Unlocks the next chapter to play. **You will always start with 1**.
 * Progressive Soul Abilities - Unlocks the use of soul abilities collected in the first *n* chapters.
-* Progressive Skylander Upgrades - Unlocks the ability to unlock *n* upgrades for each Skylander (or each Skylander of that element).
-* Skylanders - Unlocked individually or by element, depending on the yaml option chosen.
+* Progressive Skylander Upgrades - Unlocks the ability to purchase *n* upgrades for each Skylander (or each Skylander of that element, depending on the yaml configuration).
+* Skylanders - Unlocked individually or by element, depending on the yaml configuration.
 * Adventure Pack Levels - If enabled, unlocks the corresponding adventure pack level.
 * Active Items - Unlocks the item in question if its corresponding adventure pack is enabled.
 
@@ -34,13 +34,13 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * Legendary Treasures
 * Soul Gems
 * Heroic Challenges (if enabled)
-* Achieving 3 stars on levels
+* Achieving 3 stars on levels ("Perfection")
 
 ## Traps
-* Element Lock Trap - Upon starting a level, you can only use Skylanders of the same element as the one you began the level with. Effect ends upon completing a level.
-* Solo Trap - Upon starting a level, you cannot use any other Skylanders until you beat the level or are defeated.
-* Rename Character Trap - Joke trap. Upon receiving, you must rename the last Skylander played using a name of the sender's choosing.
-* Reset Last Character Trap - Hard Trap. Upon receiving, you must delete all data associated with the last Skylander played. Level, money, and upgrades are reset.
+* Element Lock Trap - Upon starting a level, you can only use Skylanders of the same element as the one you began the level with. Effect ends on level completion.
+* Solo Trap - Upon starting a level, you may notuse any other Skylanders or active items until you beat the level or are defeated. 
+* Rename Character Trap - Joke trap. Upon receipt, you must rename the last Skylander played using a name of the sender's choosing.
+* Reset Last Character Trap - Hard Trap. Upon receipt, you must delete all data associated with the last Skylander used. Level, money, and upgrades are reset.
 
 
 
@@ -49,3 +49,4 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * fairy gems as items
 * upgrade fairy as an item?
 * pacifist trap (only kill necessary enemies on next level and restart if you fail)
+* I don't want to add story scrolls because you rarely have to stray from the main path to get them. In my opinion, all collectable locations should require *some* effort to reach
