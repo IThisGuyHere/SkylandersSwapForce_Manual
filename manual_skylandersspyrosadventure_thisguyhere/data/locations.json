@@ -259,7 +259,7 @@
 				"Hat",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"name": "Pan Hat",
@@ -268,7 +268,7 @@
 				"Hat",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
 		},
 		{
 			"name": "Anvil Hat",
@@ -277,7 +277,7 @@
 				"Hat",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
 		},
 		{
 			"name": "Cowboy Hat",
@@ -286,7 +286,7 @@
 				"Hat",
 				"Chapter 02"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
 		},
 		{
 			"name": "Birthday Hat",
@@ -295,7 +295,7 @@
 				"Hat",
 				"Chapter 02"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
 		},
 		{
 			"name": "Propeller Cap",
@@ -304,7 +304,7 @@
 				"Hat",
 				"Chapter 03"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Jester Hat",
@@ -313,7 +313,7 @@
 				"Hat",
 				"Chapter 03"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
 		},
 		{
 			"name": "Fez",
@@ -322,7 +322,7 @@
 				"Hat",
 				"Chapter 04"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"name": "Fancy Hat",
@@ -331,7 +331,7 @@
 				"Hat",
 				"Chapter 04"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"name": "Plunger Head",
@@ -340,7 +340,7 @@
 				"Hat",
 				"Chapter 05"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"name": "Tiki Hat",
@@ -349,7 +349,7 @@
 				"Hat",
 				"Chapter 06"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"name": "Tropical Turban",
@@ -358,7 +358,7 @@
 				"Hat",
 				"Chapter 06"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
 		},
 		{
 			"name": "Napoleon Hat",
@@ -367,7 +367,7 @@
 				"Hat",
 				"Chapter 07"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:7|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
 		},
 		{
 			"name": "Eye Hat",
@@ -376,7 +376,7 @@
 				"Hat",
 				"Chapter 08"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Trojan Helmet",
@@ -385,7 +385,7 @@
 				"Hat",
 				"Chapter 08"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
 		},
 		{
 			"name": "Top Hat",
@@ -394,7 +394,7 @@
 				"Hat",
 				"Chapter 09"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:9|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"name": "Moose Hat",
@@ -403,7 +403,7 @@
 				"Hat",
 				"Chapter 10"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"region": "Chapter 11",
@@ -412,7 +412,7 @@
 				"Hat",
 				"Chapter 11"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:11|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
 		},
 		{
 			"region": "Chapter 12",
@@ -421,7 +421,7 @@
 				"Hat",
 				"Chapter 12"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"region": "Chapter 12",
@@ -430,7 +430,7 @@
 				"Hat",
 				"Chapter 12"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"region": "Chapter 13",
@@ -439,7 +439,7 @@
 				"Hat",
 				"Chapter 13"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"region": "Chapter 13",
@@ -448,7 +448,7 @@
 				"Hat",
 				"Chapter 13"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"name": "Combat Hat",
@@ -457,7 +457,7 @@
 				"Hat",
 				"Chapter 14"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Beret",
@@ -466,7 +466,7 @@
 				"Hat",
 				"Chapter 15"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:15|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Crown of Light",
@@ -475,7 +475,7 @@
 				"Hat",
 				"Chapter 16"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
 		},
 		{
 			"name": "Bone Head",
@@ -484,7 +484,7 @@
 				"Hat",
 				"Chapter 16"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
 		},
 		{
 			"name": "Rocker Hair",
@@ -493,7 +493,7 @@
 				"Hat",
 				"Chapter 17"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:17|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"name": "Miner Hat",
@@ -502,7 +502,7 @@
 				"Hat",
 				"Chapter 18"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:18|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
 		},
 		{
 			"region": "Chapter 19",
@@ -511,7 +511,7 @@
 				"Hat",
 				"Chapter 19"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:19|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"region": "Chapter 20",
@@ -520,7 +520,7 @@
 				"Hat",
 				"Chapter 20"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"region": "Chapter 21",
@@ -529,7 +529,7 @@
 				"Hat",
 				"Chapter 21"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:21|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"region": "Chapter 22",
@@ -538,7 +538,7 @@
 				"Hat",
 				"Chapter 22"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:22|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"region": "Empire of Ice",
@@ -549,7 +549,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"region": "Empire of Ice",
@@ -571,7 +571,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"region": "Pirate Seas",
@@ -593,7 +593,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"region": "Darklight Crypt",
@@ -615,7 +615,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"region": "Dragon's Peak",
@@ -671,7 +671,7 @@
 				"Legendary Treasure",
 				"Chapter 05"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"name": "Parrot Totem",
@@ -734,7 +734,7 @@
 				"Legendary Treasure",
 				"Chapter 12"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"region": "Chapter 13",
@@ -743,7 +743,7 @@
 				"Legendary Treasure",
 				"Chapter 13"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"region": "Chapter 14",
@@ -806,7 +806,7 @@
 				"Legendary Treasure",
 				"Chapter 20"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"region": "Chapter 21",
@@ -877,7 +877,7 @@
 				"Soul Gem",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"name": "Soul Gem - Stump Smash ",
@@ -886,7 +886,7 @@
 				"Soul Gem",
 				"Chapter 02"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
 		},
 		{
 			"name": "Soul Gem - Sonic Boom",
@@ -985,7 +985,7 @@
 				"Soul Gem",
 				"Chapter 10"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"name": "Soul Gem - Stealth Elf",
@@ -1437,7 +1437,7 @@
 				"Completionist",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character| and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters| and |All Tech Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character| and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters| and |All Tech Characters|))"
 		},
 		{
 			"name": "Perilous Pastures Perfection",
@@ -1446,7 +1446,7 @@
 				"Completionist",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:1| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Water Character| and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Water Characters| and |All Life Characters|))"
+			"requires": "|Progressive Chapter:1| and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Water Character| and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Water Characters| and |All Life Characters|))"
 		},
 		{
 			"name": "Sky Schooner Docks Perfection",
@@ -1455,7 +1455,7 @@
 				"Completionist",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:2| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:2| and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
 		},
 		{
 			"name": "Stormy Stronghold Perfection",
@@ -1464,7 +1464,7 @@
 				"Completionist",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:3| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Air Characters|))"
+			"requires": "|Progressive Chapter:3| and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Air Characters|))"
 		},
 		{
 			"name": "Oilspill Island Perfection",
@@ -1473,7 +1473,7 @@
 				"Completionist",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:4| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:4| and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"name": "Dark Water Cove Perfection",
@@ -1482,7 +1482,7 @@
 				"Completionist",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:5| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters|))"
+			"requires": "|Progressive Chapter:5| and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters|))"
 		},
 		{
 			"name": "Leviathan Lagoon Perfection",
@@ -1491,7 +1491,7 @@
 				"Completionist",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:6| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:7|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "|Progressive Chapter:6| and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
 		},
 		{
 			"name": "Crystal Eye Castle Perfection",
@@ -1500,7 +1500,7 @@
 				"Completionist",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:7| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:7| and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
 		},
 		{
 			"name": "Stonetown Perfection",
@@ -1509,7 +1509,7 @@
 				"Completionist",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:8| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:9|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|Progressive Chapter:8| and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"name": "Treetop Terrace Perfection",
@@ -1518,7 +1518,7 @@
 				"Completionist",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:9| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|Progressive Chapter:9| and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"name": "Falling Forest Perfection",
@@ -1527,7 +1527,7 @@
 				"Completionist",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:10| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:11|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:10| and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
 		},
 		{
 			"name": "Troll Warehouse Perfection",
@@ -1536,7 +1536,7 @@
 				"Completionist",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:11| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:11| and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Fire Characters|))"
 		},
 		{
 			"name": "Goo Factory Perfection",
@@ -1545,7 +1545,7 @@
 				"Completionist",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:12| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters| and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:12| and (({YamlEnabled(characters_as_items)} and |@Air Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters| and |All Fire Characters|))"
 		},
 		{
 			"name": "Battlefield Perfection",
@@ -1554,7 +1554,7 @@
 				"Completionist",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:13| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|Progressive Chapter:13| and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Crawling Catacombs Perfection",
@@ -1563,7 +1563,7 @@
 				"Completionist",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:14| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:15|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|Progressive Chapter:14| and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Cadaverous Crypt Perfection",
@@ -1572,7 +1572,7 @@
 				"Completionist",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:15| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:15| and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Earth Characters|))"
 		},
 		{
 			"name": "Creepy Citadel Perfection",
@@ -1581,7 +1581,7 @@
 				"Completionist",
 				"Chapter 17"
 			],
-			"requires": "|Progressive Chapter:16| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:17|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|Progressive Chapter:16| and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"name": "Molekin Mine Perfection",
@@ -1590,7 +1590,7 @@
 				"Completionist",
 				"Chapter 18"
 			],
-			"requires": "|Progressive Chapter:17| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:18|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|Progressive Chapter:17| and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
 		},
 		{
 			"name": "Lava Lakes Railway Perfection",
@@ -1599,7 +1599,7 @@
 				"Completionist",
 				"Chapter 19"
 			],
-			"requires": "|Progressive Chapter:18| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:19|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:18| and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"name": "Quicksilver Vault Perfection",
@@ -1608,7 +1608,7 @@
 				"Completionist",
 				"Chapter 20"
 			],
-			"requires": "|Progressive Chapter:19| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|Progressive Chapter:19| and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"name": "Arkeyan Armory Perfection",
@@ -1617,7 +1617,7 @@
 				"Completionist",
 				"Chapter 21"
 			],
-			"requires": "|Progressive Chapter:20| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:21|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|Progressive Chapter:20| and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"name": "Lair of Kaos Perfection",
@@ -1626,7 +1626,7 @@
 				"Completionist",
 				"Chapter 22"
 			],
-			"requires": "|Progressive Chapter:21| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:22|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|Progressive Chapter:21| and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
 		},
 		{
 			"name": "Empire of Ice Perfection",
@@ -1637,7 +1637,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
 		},
 		{
 			"name": "Pirate Seas Perfection",
@@ -1648,7 +1648,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
 		},
 		{
 			"name": "Darklight Crypt Perfection",
@@ -1659,7 +1659,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
 		},
 		{
 			"name": "Dragon's Peak Perfection",
@@ -1670,7 +1670,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "(({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
 		},
 		{
 			"name": "All Levels Perfected",
@@ -1679,7 +1679,7 @@
 			"category": [
 				"Goal"
 			],
-			"requires": "|Progressive Chapter:22| and ({YamlDisabled(elemental_gates_as_items)} or (|Progressive Elemental Gates:22| and |Adventure Pack Elemental Gates|)) and (({YamlEnabled(characters_as_items)} and |@Water Character| and |@Earth Character| and |@Fire Character| and |@Air Character| and |@Life Character| and |@Undead Character| and |@Tech Character| and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters| and |All Earth Characters| and |All Fire Characters| and |All Air Characters| and |All Life Characters| and |All Undead Characters| and |All Tech Characters| and |All Magic Characters|))"
+			"requires": "|Progressive Chapter:22| and (({YamlEnabled(characters_as_items)} and |@Water Character| and |@Earth Character| and |@Fire Character| and |@Air Character| and |@Life Character| and |@Undead Character| and |@Tech Character| and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters| and |All Earth Characters| and |All Fire Characters| and |All Air Characters| and |All Life Characters| and |All Undead Characters| and |All Tech Characters| and |All Magic Characters|))"
 		}
 	]
 }

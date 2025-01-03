@@ -45,24 +45,6 @@
 
 	{
 		"count": "22",
-		"name": "Progressive Elemental Gates",
-		"category": [
-			"Elemental Gates"
-		],
-		"progression_skip_balancing": true
-	},
-	{
-		"count": "1",
-		"name": "Adventure Pack Elemental Gates",
-		"category": [
-			"Elemental Gates", "Add-on"
-		],
-		"progression_skip_balancing": true
-	},
-
-
-	{
-		"count": "22",
 		"name": "Progressive Soul Abilities",
 		"category": [
 			"Soul Abilities"

@@ -42,14 +42,6 @@ class Goal(Choice):
     defeat_kaos = 0
     all_levels_perfected = 1
 
-class ElementalGatesAsItems(Toggle):
-    """
-    If enabled, you will need a certain number of progressive elemental gate items to access gated areas in a level. 
-    The number corresponds to the level, and unlocks all gates in that level.
-    """
-    display_name = "Elemental Gates as Items"
-    default = True
-
 class CharactersAsItems(Toggle):
     """Unlock characters individually instead of by element."""
     display_name = "Characters as Items"
@@ -116,7 +108,6 @@ class WhitelistCharacters(Toggle):
 def before_options_defined(options: dict) -> dict:
     options["goal"] = Goal
     options["characters_as_items"] = CharactersAsItems
-    options["elemental_gates_as_items"] = ElementalGatesAsItems
     options["challenges_as_locations"] = ChallengesAsLocations
     options["per_element_upgrades"] = PerElementUpgrades
     options["include_empire"] = EmpireOfIceAddon

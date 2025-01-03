@@ -18,10 +18,6 @@
     "Chapter": {
         "hidden": false
     },
-    "Elemental Gates": {
-        "yaml_option": ["elemental_gates_as_items"],
-        "hidden": false
-    },
     "Soul Abilities": {
         "hidden": false
     },
