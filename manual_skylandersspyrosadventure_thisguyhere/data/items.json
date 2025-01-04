@@ -135,6 +135,15 @@
 	},
 
 
+	{
+		"count": "10",
+		"name": "Progressive Fairy Gems",
+		"category": [
+			"Upgrade", "Fairy Gem"
+		],
+		"useful": true
+	},
+
 
 	{
 		"count": 1,

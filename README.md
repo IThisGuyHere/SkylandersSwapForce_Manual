@@ -23,6 +23,7 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * Progressive Chapters: Unlocks the next chapter to play. **You will always start with 1**.
 * Progressive Soul Abilities - Unlocks the use of soul abilities collected in the first *n* chapters.
 * Progressive Skylander Upgrades - Unlocks the ability to purchase *n* upgrades for each Skylander (or each Skylander of that element, depending on the yaml configuration).
+* Progressive Fairy Gems - Each one unlocks the ability to collect another fairy gem. 
 * Skylanders - Unlocked individually or by element, depending on the yaml configuration.
 * Adventure Pack Levels - If enabled, unlocks the corresponding adventure pack level.
 * Active Items - Unlocks the item in question if its corresponding adventure pack is enabled.
@@ -32,6 +33,7 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * Completion of adventure pack chapters (if enabled).
 * Hats
 * Legendary Treasures
+* Chests
 * Soul Gems
 * Heroic Challenges (if enabled)
 * Achieving 3 stars on levels ("Perfection")
@@ -45,8 +47,8 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 
 
 ## Ideas for the Future
-* add chests as locations
-* fairy gems as items
+* ~~add chests as locations~~
+* ~~fairy gems as items~~
 * upgrade fairy as an item?
 * pacifist trap (only kill necessary enemies on next level and restart if you fail)
 * I don't want to add story scrolls because you rarely have to stray from the main path to get them. In my opinion, all collectable locations should require *some* effort to reach
