@@ -24,6 +24,9 @@
     "Soul Abilities": {
         "hidden": false
     },
+    "Fairy Gems": {
+        "hidden": true
+    },
     "Generic Upgrade": {
         "yaml_option": ["!per_element_upgrades"],
         "hidden": true
