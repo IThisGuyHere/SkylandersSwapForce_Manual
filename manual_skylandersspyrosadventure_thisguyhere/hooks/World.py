@@ -74,7 +74,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     # need to first check if the item is in item_pool
     for item in item_pool:
         table_item = next(i for i in item_table if i["name"] == item.name)
-        if ("category" not in table_item or "Character" not in table_item.get("category")):
+        if ("category" not in table_item or "Skylander" not in table_item.get("category")):
             continue
         item_name = item.name
         character_in_list = False

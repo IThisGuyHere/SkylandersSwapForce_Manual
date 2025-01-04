@@ -5,7 +5,7 @@
 			"name": "Shattered Island",
 			"region": "Chapter 1",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 01"
 			],
 			"requires": []
@@ -14,7 +14,7 @@
 			"name": "Perilous Pastures",
 			"region": "Chapter 2",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 02"
 			],
 			"requires": "|Progressive Chapter:2|"
@@ -23,7 +23,7 @@
 			"name": "Sky Schooner Docks",
 			"region": "Chapter 3",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 03"
 			],
 			"requires": "|Progressive Chapter:3|"
@@ -32,7 +32,7 @@
 			"name": "Stormy Stronghold",
 			"region": "Chapter 4",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 04"
 			],
 			"requires": "|Progressive Chapter:4|"
@@ -41,7 +41,7 @@
 			"name": "Oilspill Island",
 			"region": "Chapter 5",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 05"
 			],
 			"requires": "|Progressive Chapter:5|"
@@ -50,7 +50,7 @@
 			"name": "Dark Water Cove",
 			"region": "Chapter 6",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 06"
 			],
 			"requires": "|Progressive Chapter:6|"
@@ -59,7 +59,7 @@
 			"name": "Leviathan Lagoon",
 			"region": "Chapter 7",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 07"
 			],
 			"requires": "|Progressive Chapter:7|"
@@ -68,7 +68,7 @@
 			"name": "Crystal Eye Castle",
 			"region": "Chapter 8",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 08"
 			],
 			"requires": "|Progressive Chapter:8|"
@@ -77,7 +77,7 @@
 			"name": "Stonetown",
 			"region": "Chapter 9",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 09"
 			],
 			"requires": "|Progressive Chapter:9|"
@@ -86,7 +86,7 @@
 			"name": "Treetop Terrace",
 			"region": "Chapter 10",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 10"
 			],
 			"requires": "|Progressive Chapter:10|"
@@ -95,7 +95,7 @@
 			"name": "Falling Forest",
 			"region": "Chapter 11",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 11"
 			],
 			"requires": "|Progressive Chapter:11|"
@@ -104,7 +104,7 @@
 			"name": "Troll Warehouse",
 			"region": "Chapter 12",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 12"
 			],
 			"requires": "|Progressive Chapter:12|"
@@ -113,7 +113,7 @@
 			"name": "Goo Factory",
 			"region": "Chapter 13",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 13"
 			],
 			"requires": "|Progressive Chapter:13|"
@@ -122,7 +122,7 @@
 			"name": "Battlefield",
 			"region": "Chapter 14",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 14"
 			],
 			"requires": "|Progressive Chapter:14|"
@@ -131,7 +131,7 @@
 			"name": "Crawling Catacombs",
 			"region": "Chapter 15",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 15"
 			],
 			"requires": "|Progressive Chapter:15|"
@@ -140,7 +140,7 @@
 			"name": "Cadaverous Crypt",
 			"region": "Chapter 16",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 16"
 			],
 			"requires": "|Progressive Chapter:16|"
@@ -149,7 +149,7 @@
 			"name": "Creepy Citadel",
 			"region": "Chapter 17",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 17"
 			],
 			"requires": "|Progressive Chapter:17|"
@@ -158,7 +158,7 @@
 			"name": "Molekin Mine",
 			"region": "Chapter 18",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 18"
 			],
 			"requires": "|Progressive Chapter:18|"
@@ -167,7 +167,7 @@
 			"name": "Lava Lakes Railway",
 			"region": "Chapter 19",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 19"
 			],
 			"requires": "|Progressive Chapter:19|"
@@ -176,7 +176,7 @@
 			"name": "Quicksilver Vault",
 			"region": "Chapter 20",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 20"
 			],
 			"requires": "|Progressive Chapter:20|"
@@ -185,7 +185,7 @@
 			"name": "Arkeyan Armory",
 			"region": "Chapter 21",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 21"
 			],
 			"requires": "|Progressive Chapter:21|"
@@ -194,7 +194,7 @@
 			"name": "Lair of Kaos",
 			"region": "Chapter 22",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Chapter 22"
 			],
 			"requires": "|Progressive Chapter:22|"
@@ -203,7 +203,7 @@
 			"name": "Empire of Ice",
 			"region": "Empire of Ice",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
@@ -214,7 +214,7 @@
 			"name": "Pirate Seas",
 			"region": "Pirate Seas",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
@@ -225,7 +225,7 @@
 			"name": "Darklight Crypt",
 			"region": "Darklight Crypt",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
@@ -236,7 +236,7 @@
 			"name": "Dragon's Peak",
 			"region": "Dragon's Peak",
 			"category": [
-				"Level",
+				"Level Completion",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
@@ -252,310 +252,312 @@
 			],
 			"requires": "|Progressive Chapter:22|"
 		},
+
+
 		{
 			"name": "Viking Helmet",
 			"region": "Chapter 1",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Pan Hat",
 			"region": "Chapter 1",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Anvil Hat",
 			"region": "Chapter 1",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"name": "Cowboy Hat",
 			"region": "Chapter 2",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 02"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"name": "Birthday Hat",
 			"region": "Chapter 2",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 02"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Propeller Cap",
 			"region": "Chapter 3",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 03"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Jester Hat",
 			"region": "Chapter 3",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 03"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"name": "Fez",
 			"region": "Chapter 4",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 04"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"name": "Fancy Hat",
 			"region": "Chapter 4",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 04"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"name": "Plunger Head",
 			"region": "Chapter 5",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 05"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Tiki Hat",
 			"region": "Chapter 6",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 06"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Tropical Turban",
 			"region": "Chapter 6",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 06"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Napoleon Hat",
 			"region": "Chapter 7",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 07"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:7|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Eye Hat",
 			"region": "Chapter 8",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 08"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Trojan Helmet",
 			"region": "Chapter 8",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 08"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"name": "Top Hat",
 			"region": "Chapter 9",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 09"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:9|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"name": "Moose Hat",
 			"region": "Chapter 10",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 10"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"region": "Chapter 11",
 			"name": "Coonskin Cap",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 11"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:11|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"region": "Chapter 12",
 			"name": "Spy Gear",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 12"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"region": "Chapter 12",
 			"name": "Rocket Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 12"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"region": "Chapter 13",
 			"name": "General's Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 13"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Chapter 13",
 			"name": "Spiked Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 13"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Combat Hat",
 			"region": "Chapter 14",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 14"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Beret",
 			"region": "Chapter 15",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 15"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:15|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Crown of Light",
 			"region": "Chapter 16",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 16"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"name": "Bone Head",
 			"region": "Chapter 16",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 16"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"name": "Rocker Hair",
 			"region": "Chapter 17",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 17"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:17|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"name": "Miner Hat",
 			"region": "Chapter 18",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 18"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:18|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"region": "Chapter 19",
 			"name": "Lil Devil",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 19"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:19|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"region": "Chapter 20",
 			"name": "Unicorn Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 20"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"region": "Chapter 21",
 			"name": "Wizard Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 21"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:21|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Chapter 22",
 			"name": "Wabbit Ears",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Chapter 22"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:22|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"region": "Empire of Ice",
 			"name": "Santa Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"region": "Empire of Ice",
 			"name": "Cossack Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
@@ -566,18 +568,18 @@
 			"region": "Pirate Seas",
 			"name": "Pirate Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"region": "Pirate Seas",
 			"name": "Pirate Doo Rag",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
@@ -588,18 +590,18 @@
 			"region": "Darklight Crypt",
 			"name": "Chef Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"region": "Darklight Crypt",
 			"name": "Pumpkin Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
@@ -610,29 +612,31 @@
 			"region": "Dragon's Peak",
 			"name": "Winged Hat",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Dragon's Peak",
 			"name": "Royal Crown",
 			"category": [
-				"Hat",
+				"Hat Collection",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
 			"requires": []
 		},
+
+
 		{
 			"region": "Chapter 1",
 			"name": "Salary Swine",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 01"
 			],
 			"requires": []
@@ -641,16 +645,16 @@
 			"name": "Enigma Pig",
 			"region": "Chapter 2",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 02"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"name": "Wild Runners",
 			"region": "Chapter 3",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 03"
 			],
 			"requires": []
@@ -659,7 +663,7 @@
 			"name": "Ancient Carillon",
 			"region": "Chapter 4",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 04"
 			],
 			"requires": []
@@ -668,16 +672,16 @@
 			"name": "Catechumen",
 			"region": "Chapter 5",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 05"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Parrot Totem",
 			"region": "Chapter 6",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 06"
 			],
 			"requires": []
@@ -686,16 +690,16 @@
 			"name": "Opulent Pullet",
 			"region": "Chapter 7",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 07"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Teddy Cyclops",
 			"region": "Chapter 8",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 08"
 			],
 			"requires": []
@@ -704,7 +708,7 @@
 			"name": "Mono Lisa",
 			"region": "Chapter 9",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 09"
 			],
 			"requires": []
@@ -713,7 +717,7 @@
 			"region": "Chapter 10",
 			"name": "Sterling Tapir",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 10"
 			],
 			"requires": []
@@ -722,7 +726,7 @@
 			"region": "Chapter 11",
 			"name": "Topiary's Nucleus",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 11"
 			],
 			"requires": []
@@ -731,25 +735,25 @@
 			"region": "Chapter 12",
 			"name": "Ghost View Glasses",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 12"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"region": "Chapter 13",
 			"name": "Troll Stein",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 13"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Chapter 14",
 			"name": "Royal Lynx",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 14"
 			],
 			"requires": []
@@ -758,7 +762,7 @@
 			"region": "Chapter 15",
 			"name": "Aphid Lifter",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 15"
 			],
 			"requires": []
@@ -767,7 +771,7 @@
 			"region": "Chapter 16",
 			"name": "Golden Randomizer",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 16"
 			],
 			"requires": []
@@ -776,7 +780,7 @@
 			"region": "Chapter 17",
 			"name": "Doom's Rook",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 17"
 			],
 			"requires": []
@@ -785,7 +789,7 @@
 			"region": "Chapter 18",
 			"name": "Golden Links",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 18"
 			],
 			"requires": []
@@ -794,7 +798,7 @@
 			"region": "Chapter 19",
 			"name": "Fiord's Jetty",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 19"
 			],
 			"requires": []
@@ -803,25 +807,25 @@
 			"region": "Chapter 20",
 			"name": "Rollerskates",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 20"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"region": "Chapter 21",
 			"name": "Arkeyan Weapon Controller",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 21"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"region": "Chapter 22",
 			"name": "Superior Regalia",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Chapter 22"
 			],
 			"requires": []
@@ -830,7 +834,7 @@
 			"region": "Empire of Ice",
 			"name": "Snow Globe",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
@@ -841,7 +845,7 @@
 			"region": "Pirate Seas",
 			"name": "Bottle Boat",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
@@ -852,7 +856,7 @@
 			"region": "Darklight Crypt",
 			"name": "Flamingo",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
@@ -863,36 +867,766 @@
 			"region": "Dragon's Peak",
 			"name": "Archaic Codex",
 			"category": [
-				"Legendary Treasure",
+				"Legendary Treasure Collection",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
 			"requires": []
 		},
+
+
+		{
+			"name": "Chest - Market Curve",
+			"region": "Chapter 1",
+			"category": [
+				"Chest Collection",
+				"Chapter 01"
+			],
+			"requires": []
+		},
+		{
+			"name": "Chest - Chompie Pit",
+			"region": "Chapter 1",
+			"category": [
+				"Chest Collection",
+				"Chapter 01"
+			],
+			"requires": "|@Skylander - Water|"
+		},
+		{
+			"name": "Chest - Ancient Landmark",
+			"region": "Chapter 1",
+			"category": [
+				"Chest Collection",
+				"Chapter 01"
+			],
+			"requires": []
+		},
+		{
+			"name": "Chest - Bleating Highlands",
+			"region": "Chapter 2",
+			"category": [
+				"Chest Collection",
+				"Chapter 02"
+			],
+			"requires": "|Progressive Chapter:2| and |@Skylander - Tech|"
+		},
+		{
+			"name": "Chest - Fairy Ring",
+			"region": "Chapter 2",
+			"category": [
+				"Chest Collection",
+				"Chapter 02"
+			],
+			"requires": "|Progressive Chapter:2|"
+		},
+		{
+			"name": "Chest - Ancient Stones",
+			"region": "Chapter 2",
+			"category": [
+				"Chest Collection",
+				"Chapter 02"
+			],
+			"requires": "|Progressive Chapter:2| and |@Skylander - Water|"
+		},
+		{
+			"name": "Chest - Propeller Farm",
+			"region": "Chapter 3",
+			"category": [
+				"Chest Collection",
+				"Chapter 03"
+			],
+			"requires": "|Progressive Chapter:3| and |@Skylander - Undead|"
+		},
+		{
+			"name": "Chest - Fortress Tower",
+			"region": "Chapter 3",
+			"category": [
+				"Chest Collection",
+				"Chapter 03"
+			],
+			"requires": "|Progressive Chapter:3|"
+		},
+		{
+			"name": "Chest - Kaw's Islands",
+			"region": "Chapter 3",
+			"category": [
+				"Chest Collection",
+				"Chapter 03"
+			],
+			"requires": "|Progressive Chapter:3| and |@Skylander - Earth|"
+		},
+		{
+			"name": "Chest - Upper Reach",
+			"region": "Chapter 4",
+			"category": [
+				"Chest Collection",
+				"Chapter 04"
+			],
+			"requires": "|Progressive Chapter:4| and |@Skylander - Life|"
+		},
+		{
+			"name": "Chest - Sky Ramparts",
+			"region": "Chapter 4",
+			"category": [
+				"Chest Collection",
+				"Chapter 04"
+			],
+			"requires": "|Progressive Chapter:4| and |@Skylander - Air|"
+		},
+		{
+			"name": "Chest - The Battlement",
+			"region": "Chapter 4",
+			"category": [
+				"Chest Collection",
+				"Chapter 04"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Chest - Access Platform Beta",
+			"region": "Chapter 5",
+			"category": [
+				"Chest Collection",
+				"Chapter 05"
+			],
+			"requires": "|Progressive Chapter:5|"
+		},
+		{
+			"name": "Chest - Drill Platform Delta",
+			"region": "Chapter 5",
+			"category": [
+				"Chest Collection",
+				"Chapter 05"
+			],
+			"requires": "|Progressive Chapter:5|"
+		},
+		{
+			"name": "Chest - Exhaust Vent Zeta",
+			"region": "Chapter 5",
+			"category": [
+				"Chest Collection",
+				"Chapter 05"
+			],
+			"requires": "|Progressive Chapter:5|"
+		},
+		{
+			"name": "Chest - East Gate",
+			"region": "Chapter 6",
+			"category": [
+				"Chest Collection",
+				"Chapter 06"
+			],
+			"requires": "|Progressive Chapter:6|"
+		},
+		{
+			"name": "Chest - West Gate",
+			"region": "Chapter 6",
+			"category": [
+				"Chest Collection",
+				"Chapter 06"
+			],
+			"requires": "|Progressive Chapter:6|"
+		},
+		{
+			"name": "Chest - Watery Graves",
+			"region": "Chapter 6",
+			"category": [
+				"Chest Collection",
+				"Chapter 06"
+			],
+			"requires": "|Progressive Chapter:6| and |@Skylander - Water|"
+		},
+		{
+			"name": "Chest - Plank Walk",
+			"region": "Chapter 7",
+			"category": [
+				"Chest Collection",
+				"Chapter 07"
+			],
+			"requires": "|Progressive Chapter:7| and |@Skylander - Water|"
+		},
+		{
+			"name": "Chest - Shark's Tooth Island #1",
+			"region": "Chapter 7",
+			"category": [
+				"Chest Collection",
+				"Chapter 07"
+			],
+			"requires": "|Progressive Chapter:7|"
+		},
+		{
+			"name": "Chest - Shark's Tooth Island #2",
+			"region": "Chapter 7",
+			"category": [
+				"Chest Collection",
+				"Chapter 07"
+			],
+			"requires": "|Progressive Chapter:7|"
+		},
+		{
+			"name": "Chest - Puzzle Pit",
+			"region": "Chapter 8",
+			"category": [
+				"Chest Collection",
+				"Chapter 08"
+			],
+			"requires": "|Progressive Chapter:8| and |@Skylander - Earth|"
+		},
+		{
+			"name": "Chest - Inner Courtyard #1",
+			"region": "Chapter 8",
+			"category": [
+				"Chest Collection",
+				"Chapter 08"
+			],
+			"requires": "|Progressive Chapter:8|"
+		},
+		{
+			"name": "Chest - Inner Courtyard #2",
+			"region": "Chapter 8",
+			"category": [
+				"Chest Collection",
+				"Chapter 08"
+			],
+			"requires": "|Progressive Chapter:8|"
+		},
+		{
+			"name": "Chest - Blue Water Swamp #1",
+			"region": "Chapter 9",
+			"category": [
+				"Chest Collection",
+				"Chapter 09"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Chest - Blue Water Swamp #2",
+			"region": "Chapter 9",
+			"category": [
+				"Chest Collection",
+				"Chapter 09"
+			],
+			"requires": "|Progressive Chapter:9| and |@Skylander - Water|"
+		},
+		{
+			"name": "Chest - Wayward Town",
+			"region": "Chapter 9",
+			"category": [
+				"Chest Collection",
+				"Chapter 09"
+			],
+			"requires": "|Progressive Chapter:9| and |@Skylander - Life|"
+		},
+		{
+			"name": "Chest - The Sluice Gate #1",
+			"region": "Chapter 10",
+			"category": [
+				"Chest Collection",
+				"Chapter 10"
+			],
+			"requires": "|Progressive Chapter:10|"
+		},
+		{
+			"name": "Chest - The Sluice Gate #2",
+			"region": "Chapter 10",
+			"category": [
+				"Chest Collection",
+				"Chapter 10"
+			],
+			"requires": "|Progressive Chapter:10|"
+		},
+		{
+			"name": "Chest - The Hollow",
+			"region": "Chapter 10",
+			"category": [
+				"Chest Collection",
+				"Chapter 10"
+			],
+			"requires": "|Progressive Chapter:10|"
+		},
+		{
+			"name": "Chest - Owl's Roost",
+			"region": "Chapter 11",
+			"category": [
+				"Chest Collection",
+				"Chapter 11"
+			],
+			"requires": "|Progressive Chapter:11|"
+		},
+		{
+			"name": "Chest - The Acorn Stash",
+			"region": "Chapter 11",
+			"category": [
+				"Chest Collection",
+				"Chapter 11"
+			],
+			"requires": "|Progressive Chapter:11| and |@Skylander - Earth|"
+		},
+		{
+			"name": "Chest - Pinecone's Landing",
+			"region": "Chapter 11",
+			"category": [
+				"Chest Collection",
+				"Chapter 11"
+			],
+			"requires": "|Progressive Chapter:11|"
+		},
+		{
+			"name": "Chest - Isolation Cells",
+			"region": "Chapter 12",
+			"category": [
+				"Chest Collection",
+				"Chapter 12"
+			],
+			"requires": "|Progressive Chapter:12| and |@Skylander - Life|"
+		},
+		{
+			"name": "Chest - Access Catwalks",
+			"region": "Chapter 12",
+			"category": [
+				"Chest Collection",
+				"Chapter 12"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Chest - The Minefield",
+			"region": "Chapter 12",
+			"category": [
+				"Chest Collection",
+				"Chapter 12"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Chest - Western Trenches",
+			"region": "Chapter 13",
+			"category": [
+				"Chest Collection",
+				"Chapter 13"
+			],
+			"requires": "|Progressive Chapter:13|"
+		},
+		{
+			"name": "Chest - The Ammo Dump",
+			"region": "Chapter 13",
+			"category": [
+				"Chest Collection",
+				"Chapter 13"
+			],
+			"requires": "|Progressive Chapter:13|"
+		},
+		{
+			"name": "Chest - Twenty Stone Defense",
+			"region": "Chapter 13",
+			"category": [
+				"Chest Collection",
+				"Chapter 13"
+			],
+			"requires": "|Progressive Chapter:13| and |@Skylander - Fire|"
+		},
+		{
+			"name": "Chest - Defensive Perimeter",
+			"region": "Chapter 14",
+			"category": [
+				"Chest Collection",
+				"Chapter 14"
+			],
+			"requires": "|Progressive Chapter:14|"
+		},
+		{
+			"name": "Chest - No Man's Land",
+			"region": "Chapter 14",
+			"category": [
+				"Chest Collection",
+				"Chapter 14"
+			],
+			"requires": "|Progressive Chapter:14| and |@Skylander - Undead|"
+		},
+		{
+			"name": "Chest - The Stadium",
+			"region": "Chapter 14",
+			"category": [
+				"Chest Collection",
+				"Chapter 14"
+			],
+			"requires": "|Progressive Chapter:14|"
+		},
+		{
+			"name": "Chest - Alchemy Lab #1",
+			"region": "Chapter 15",
+			"category": [
+				"Chest Collection",
+				"Chapter 15"
+			],
+			"requires": "|Progressive Chapter:15|"
+		},
+		{
+			"name": "Chest - Alchemy Lab #2",
+			"region": "Chapter 15",
+			"category": [
+				"Chest Collection",
+				"Chapter 15"
+			],
+			"requires": "|Progressive Chapter:15|"
+		},
+		{
+			"name": "Chest - The Skittering Dark",
+			"region": "Chapter 15",
+			"category": [
+				"Chest Collection",
+				"Chapter 15"
+			],
+			"requires": "|Progressive Chapter:15|"
+		},
+		{
+			"name": "Chest - The Evershifting Hall #1",
+			"region": "Chapter 16",
+			"category": [
+				"Chest Collection",
+				"Chapter 16"
+			],
+			"requires": "|Progressive Chapter:16|"
+		},
+		{
+			"name": "Chest - The Dark Retreat",
+			"region": "Chapter 16",
+			"category": [
+				"Chest Collection",
+				"Chapter 16"
+			],
+			"requires": "|Progressive Chapter:16| and |@Skylander - Earth|"
+		},
+		{
+			"name": "Chest - The Evershifting Hall #2",
+			"region": "Chapter 16",
+			"category": [
+				"Chest Collection",
+				"Chapter 16"
+			],
+			"requires": "|Progressive Chapter:16|"
+		},
+		{
+			"name": "Chest - Skeleton Gate",
+			"region": "Chapter 17",
+			"category": [
+				"Chest Collection",
+				"Chapter 17"
+			],
+			"requires": "|Progressive Chapter:17|"
+		},
+		{
+			"name": "Chest - Tomb of Stones",
+			"region": "Chapter 17",
+			"category": [
+				"Chest Collection",
+				"Chapter 17"
+			],
+			"requires": "|Progressive Chapter:17| and |@Skylander - Air|"
+		},
+		{
+			"name": "Chest - The Gallery",
+			"region": "Chapter 17",
+			"category": [
+				"Chest Collection",
+				"Chapter 17"
+			],
+			"requires": "|Progressive Chapter:17|"
+		},
+		{
+			"name": "Chest - The Underground Lake #1",
+			"region": "Chapter 18",
+			"category": [
+				"Chest Collection",
+				"Chapter 18"
+			],
+			"requires": "|Progressive Chapter:18|"
+		},
+		{
+			"name": "Chest - The Underground Lake #2",
+			"region": "Chapter 18",
+			"category": [
+				"Chest Collection",
+				"Chapter 18"
+			],
+			"requires": "|Progressive Chapter:18| and |@Skylander - Water|"
+		},
+		{
+			"name": "Chest - The Crystal Grove",
+			"region": "Chapter 18",
+			"category": [
+				"Chest Collection",
+				"Chapter 18"
+			],
+			"requires": "|Progressive Chapter:18|"
+		},
+		{
+			"name": "Chest - The Molekin Mines #1",
+			"region": "Chapter 19",
+			"category": [
+				"Chest Collection",
+				"Chapter 19"
+			],
+			"requires": "|Progressive Chapter:19|"
+		},
+		{
+			"name": "Chest - The Molekin Mines #2",
+			"region": "Chapter 19",
+			"category": [
+				"Chest Collection",
+				"Chapter 19"
+			],
+			"requires": "|Progressive Chapter:19|"
+		},
+		{
+			"name": "Chest - The Crystal Grottos",
+			"region": "Chapter 19",
+			"category": [
+				"Chest Collection",
+				"Chapter 19"
+			],
+			"requires": "|Progressive Chapter:19|"
+		},
+		{
+			"name": "Chest - Skeleton Gate #1",
+			"region": "Chapter 20",
+			"category": [
+				"Chest Collection",
+				"Chapter 20"
+			],
+			"requires": "|Progressive Chapter:20|"
+		},
+		{
+			"name": "Chest - Skeleton Gate #2",
+			"region": "Chapter 20",
+			"category": [
+				"Chest Collection",
+				"Chapter 20"
+			],
+			"requires": "|Progressive Chapter:20|"
+		},
+		{
+			"name": "Chest - Main Gate",
+			"region": "Chapter 20",
+			"category": [
+				"Chest Collection",
+				"Chapter 20"
+			],
+			"requires": "|Progressive Chapter:20|"
+		},
+		{
+			"name": "Chest - Unyielding Garrison",
+			"region": "Chapter 21",
+			"category": [
+				"Chest Collection",
+				"Chapter 21"
+			],
+			"requires": "|Progressive Chapter:21|"
+		},
+		{
+			"name": "Chest - The Crucible",
+			"region": "Chapter 21",
+			"category": [
+				"Chest Collection",
+				"Chapter 21"
+			],
+			"requires": "|Progressive Chapter:21|"
+		},
+		{
+			"name": "Chest - Pandoran Gift Shop",
+			"region": "Chapter 21",
+			"category": [
+				"Chest Collection",
+				"Chapter 21"
+			],
+			"requires": "|Progressive Chapter:21| and |@Skylander - Air|"
+		},
+		{
+			"name": "Chest - Alternate Ends",
+			"region": "Chapter 22",
+			"category": [
+				"Chest Collection",
+				"Chapter 22"
+			],
+			"requires": "|Progressive Chapter:22| and |@Skylander - Magic|"
+		},
+		{
+			"name": "Chest - Path of Fangs",
+			"region": "Chapter 22",
+			"category": [
+				"Chest Collection",
+				"Chapter 22"
+			],
+			"requires": "|Progressive Chapter:22|"
+		},
+		{
+			"name": "Chest - Forlorn Islands",
+			"region": "Chapter 22",
+			"category": [
+				"Chest Collection",
+				"Chapter 22"
+			],
+			"requires": "|Progressive Chapter:22|"
+		},
+		{
+			"name": "Chest - Maze of Obelisks",
+			"region": "Empire of Ice",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Empire of Ice",
+				"Empire of Ice Pack"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Chest - Altar of Eyes",
+			"region": "Empire of Ice",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Empire of Ice",
+				"Empire of Ice Pack"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Chest - The Winter Wall",
+			"region": "Empire of Ice",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Empire of Ice",
+				"Empire of Ice Pack"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Chest - Shipwright's Square",
+			"region": "Pirate Seas",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Pirate Seas",
+				"Pirate Seas Pack"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Chest - Fountain Square",
+			"region": "Pirate Seas",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Pirate Seas",
+				"Pirate Seas Pack"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Chest - Coconut Islands",
+			"region": "Pirate Seas",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Pirate Seas",
+				"Pirate Seas Pack"
+			],
+			"requires": "|Progressive Chapter:4| and |@Skylander - Water|"
+		},
+		{
+			"name": "Chest - Haunted Courtyard",
+			"region": "Darklight Crypt",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Darklight Crypt",
+				"Darklight Crypt Pack"
+			],
+			"requires": "|Progressive Chapter:2|"
+		},
+		{
+			"name": "Chest - Haunted Village",
+			"region": "Darklight Crypt",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Darklight Crypt",
+				"Darklight Crypt Pack"
+			],
+			"requires": "|Progressive Chapter:2|"
+		},
+		{
+			"name": "Chest - Hedge Maze",
+			"region": "Darklight Crypt",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Darklight Crypt",
+				"Darklight Crypt Pack"
+			],
+			"requires": "|Progressive Chapter:2|"
+		},
+		{
+			"name": "Chest - Dragon Cliffs",
+			"region": "Dragon's Peak",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Dragon's Peak",
+				"Dragon's Peak Pack"
+			],
+			"requires": "|Progressive Chapter:3|"
+		},
+		{
+			"name": "Chest - Path of Challenges",
+			"region": "Dragon's Peak",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Dragon's Peak",
+				"Dragon's Peak Pack"
+			],
+			"requires": "|Progressive Chapter:3|"
+		},
+		{
+			"name": "Chest - Elder Dragon Throne",
+			"region": "Dragon's Peak",
+			"category": [
+				"Chest Collection",
+				"Add-on",
+				"Dragon's Peak",
+				"Dragon's Peak Pack"
+			],
+			"requires": "|Progressive Chapter:3|"
+		},
+
+
 		{
 			"name": "Soul Gem - Chop Chop",
 			"region": "Chapter 1",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Soul Gem - Stump Smash ",
 			"region": "Chapter 2",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 02"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"name": "Soul Gem - Sonic Boom",
 			"region": "Chapter 3",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 03"
 			],
 			"requires": []
@@ -901,7 +1635,7 @@
 			"name": "Soul Gem - Warnado",
 			"region": "Chapter 4",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 04"
 			],
 			"requires": []
@@ -910,25 +1644,25 @@
 			"name": "Soul Gem - Wham-Shell ",
 			"region": "Chapter 5",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 05"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Soul Gem - Boomer",
 			"region": "Chapter 5",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 05"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Soul Gem - Dino-Rang",
 			"region": "Chapter 6",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 06"
 			],
 			"requires": []
@@ -937,7 +1671,7 @@
 			"name": "Soul Gem - Ignitor",
 			"region": "Chapter 6",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 06"
 			],
 			"requires": []
@@ -946,7 +1680,7 @@
 			"name": "Soul Gem - Zap",
 			"region": "Chapter 7",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 07"
 			],
 			"requires": []
@@ -955,7 +1689,7 @@
 			"name": "Soul Gem - Prism Break",
 			"region": "Chapter 8",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 08"
 			],
 			"requires": []
@@ -964,7 +1698,7 @@
 			"name": "Soul Gem - Lightning Rod",
 			"region": "Chapter 9",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 09"
 			],
 			"requires": []
@@ -973,7 +1707,7 @@
 			"name": "Soul Gem - Bash",
 			"region": "Chapter 9",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 09"
 			],
 			"requires": []
@@ -982,16 +1716,16 @@
 			"name": "Soul Gem - Gill Grunt",
 			"region": "Chapter 10",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 10"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Soul Gem - Stealth Elf",
 			"region": "Chapter 11",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 11"
 			],
 			"requires": []
@@ -1000,7 +1734,7 @@
 			"name": "Soul Gem - Zook",
 			"region": "Chapter 12",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 12"
 			],
 			"requires": []
@@ -1009,7 +1743,7 @@
 			"name": "Soul Gem - Camo",
 			"region": "Chapter 13",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 13"
 			],
 			"requires": []
@@ -1018,7 +1752,7 @@
 			"name": "Soul Gem - Drill Sergeant",
 			"region": "Chapter 14",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 14"
 			],
 			"requires": []
@@ -1027,7 +1761,7 @@
 			"name": "Soul Gem - Drobot",
 			"region": "Chapter 14",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 14"
 			],
 			"requires": []
@@ -1036,7 +1770,7 @@
 			"name": "Soul Gem - Spyro",
 			"region": "Chapter 15",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 15"
 			],
 			"requires": []
@@ -1045,7 +1779,7 @@
 			"name": "Soul Gem - Hex",
 			"region": "Chapter 16",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 16"
 			],
 			"requires": []
@@ -1054,7 +1788,7 @@
 			"name": "Soul Gem - Trigger Happy",
 			"region": "Chapter 16",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 16"
 			],
 			"requires": []
@@ -1063,7 +1797,7 @@
 			"name": "Soul Gem - Whirlwind",
 			"region": "Chapter 17",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 17"
 			],
 			"requires": []
@@ -1072,7 +1806,7 @@
 			"name": "Soul Gem - Cynder",
 			"region": "Chapter 18",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 18"
 			],
 			"requires": []
@@ -1081,7 +1815,7 @@
 			"name": "Soul Gem - Flameslinger",
 			"region": "Chapter 18",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 18"
 			],
 			"requires": []
@@ -1090,7 +1824,7 @@
 			"name": "Soul Gem - Eruptor",
 			"region": "Chapter 19",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 19"
 			],
 			"requires": []
@@ -1099,7 +1833,7 @@
 			"name": "Soul Gem - Wrecking Ball",
 			"region": "Chapter 20",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 20"
 			],
 			"requires": []
@@ -1108,7 +1842,7 @@
 			"name": "Soul Gem - Voodood",
 			"region": "Chapter 21",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 21"
 			],
 			"requires": []
@@ -1117,7 +1851,7 @@
 			"name": "Soul Gem - Double Trouble",
 			"region": "Chapter 22",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Chapter 22"
 			],
 			"requires": []
@@ -1126,7 +1860,7 @@
 			"name": "Soul Gem - Slam Bam",
 			"region": "Empire of Ice",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
@@ -1137,7 +1871,7 @@
 			"name": "Soul Gem - Terrafin",
 			"region": "Pirate Seas",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
@@ -1148,7 +1882,7 @@
 			"name": "Soul Gem - Ghost Roaster",
 			"region": "Darklight Crypt",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
@@ -1159,7 +1893,7 @@
 			"name": "Soul Gem - Sunburn",
 			"region": "Dragon's Peak",
 			"category": [
-				"Soul Gem",
+				"Soul Gem Collection",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
@@ -1434,243 +2168,243 @@
 			"name": "Shattered Island Perfection",
 			"region": "Chapter 1",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 01"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:1|) and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character| and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters| and |All Tech Characters|))"
+			"requires": "|Progressive Chapter:1| and |@Skylander - Magic| and |@Skylander - Water| and |@Skylander - Tech|"
 		},
 		{
 			"name": "Perilous Pastures Perfection",
 			"region": "Chapter 2",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:1| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:2|) and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Water Character| and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Water Characters| and |All Life Characters|))"
+			"requires": "|Progressive Chapter:2| and |@Skylander - Tech| and |@Skylander - Water| and |@Skylander - Life|"
 		},
 		{
 			"name": "Sky Schooner Docks Perfection",
 			"region": "Chapter 3",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:2| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:3|) and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:3| and |@Skylander - Undead| and |@Skylander - Earth|"
 		},
 		{
 			"name": "Stormy Stronghold Perfection",
 			"region": "Chapter 4",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:3| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:4|) and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Air Characters|))"
+			"requires": "|Progressive Chapter:4| and |@Skylander - Life| and |@Skylander - Air|"
 		},
 		{
 			"name": "Oilspill Island Perfection",
 			"region": "Chapter 5",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:4| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:5|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:5| and |@Skylander - Fire|"
 		},
 		{
 			"name": "Dark Water Cove Perfection",
 			"region": "Chapter 6",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:5| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:6|) and (({YamlEnabled(characters_as_items)} and |@Magic Character| and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters| and |All Water Characters|))"
+			"requires": "|Progressive Chapter:6| and |@Skylander - Magic| and |@Skylander - Water|"
 		},
 		{
 			"name": "Leviathan Lagoon Perfection",
 			"region": "Chapter 7",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:6| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:7|) and (({YamlEnabled(characters_as_items)} and |@Water Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|))"
+			"requires": "|Progressive Chapter:7| and |@Skylander - Water|"
 		},
 		{
 			"name": "Crystal Eye Castle Perfection",
 			"region": "Chapter 8",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:7| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:8|) and (({YamlEnabled(characters_as_items)} and |@Undead Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters| and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:8| and |@Skylander - Undead| and |@Skylander - Earth|"
 		},
 		{
 			"name": "Stonetown Perfection",
 			"region": "Chapter 9",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:8| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:9|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|Progressive Chapter:9| and |@Skylander - Life|"
 		},
 		{
 			"name": "Treetop Terrace Perfection",
 			"region": "Chapter 10",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:9| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:10|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|Progressive Chapter:10| and |@Skylander - Magic|"
 		},
 		{
 			"name": "Falling Forest Perfection",
 			"region": "Chapter 11",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:10| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:11|) and (({YamlEnabled(characters_as_items)} and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:11| and |@Skylander - Earth|"
 		},
 		{
 			"name": "Troll Warehouse Perfection",
 			"region": "Chapter 12",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:11| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:12|) and (({YamlEnabled(characters_as_items)} and |@Life Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters| and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:12| and |@Skylander - Life| and |@Skylander - Fire|"
 		},
 		{
 			"name": "Goo Factory Perfection",
 			"region": "Chapter 13",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:12| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:13|) and (({YamlEnabled(characters_as_items)} and |@Air Character| and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters| and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:13| and |@Skylander - Air| and |@Skylander - Fire|"
 		},
 		{
 			"name": "Battlefield Perfection",
 			"region": "Chapter 14",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:13| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:14|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|Progressive Chapter:14| and |@Skylander - Undead|"
 		},
 		{
 			"name": "Crawling Catacombs Perfection",
 			"region": "Chapter 15",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:14| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:15|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|Progressive Chapter:15| and |@Skylander - Undead|"
 		},
 		{
 			"name": "Cadaverous Crypt Perfection",
 			"region": "Chapter 16",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:15| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:16|) and (({YamlEnabled(characters_as_items)} and |@Tech Character| and |@Earth Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters| and |All Earth Characters|))"
+			"requires": "|Progressive Chapter:16| and |@Skylander - Tech| and |@Skylander - Earth|"
 		},
 		{
 			"name": "Creepy Citadel Perfection",
 			"region": "Chapter 17",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 17"
 			],
-			"requires": "|Progressive Chapter:16| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:17|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|Progressive Chapter:17| and |@Skylander - Air|"
 		},
 		{
 			"name": "Molekin Mine Perfection",
 			"region": "Chapter 18",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 18"
 			],
-			"requires": "|Progressive Chapter:17| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:18|) and (({YamlEnabled(characters_as_items)} and |@Tech Character|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|))"
+			"requires": "|Progressive Chapter:18| and |@Skylander - Tech|"
 		},
 		{
 			"name": "Lava Lakes Railway Perfection",
 			"region": "Chapter 19",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 19"
 			],
-			"requires": "|Progressive Chapter:18| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:19|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|Progressive Chapter:19| and |@Skylander - Fire|"
 		},
 		{
 			"name": "Quicksilver Vault Perfection",
 			"region": "Chapter 20",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 20"
 			],
-			"requires": "|Progressive Chapter:19| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:20|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|Progressive Chapter:20| and |@Skylander - Life|"
 		},
 		{
 			"name": "Arkeyan Armory Perfection",
 			"region": "Chapter 21",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 21"
 			],
-			"requires": "|Progressive Chapter:20| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:21|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|Progressive Chapter:21| and |@Skylander - Air|"
 		},
 		{
 			"name": "Lair of Kaos Perfection",
 			"region": "Chapter 22",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Chapter 22"
 			],
-			"requires": "|Progressive Chapter:21| and ({YamlDisabled(elemental_gates_as_items)} or |Progressive Elemental Gates:22|) and (({YamlEnabled(characters_as_items)} and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|))"
+			"requires": "|Progressive Chapter:22| and |@Skylander - Magic|"
 		},
 		{
 			"name": "Empire of Ice Perfection",
 			"region": "Empire of Ice",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Undead Character|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|))"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Pirate Seas Perfection",
 			"region": "Pirate Seas",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Life Character|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|))"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"name": "Darklight Crypt Perfection",
 			"region": "Darklight Crypt",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Fire Character|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|))"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Dragon's Peak Perfection",
 			"region": "Dragon's Peak",
 			"category": [
-				"Completionist",
+				"Perfection",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "({YamlDisabled(elemental_gates_as_items)} or |Adventure Pack Elemental Gates|) and (({YamlEnabled(characters_as_items)} and |@Air Character|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|))"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"name": "All Levels Perfected",
@@ -1679,7 +2413,7 @@
 			"category": [
 				"Goal"
 			],
-			"requires": "|Progressive Chapter:22| and ({YamlDisabled(elemental_gates_as_items)} or (|Progressive Elemental Gates:22| and |Adventure Pack Elemental Gates|)) and (({YamlEnabled(characters_as_items)} and |@Water Character| and |@Earth Character| and |@Fire Character| and |@Air Character| and |@Life Character| and |@Undead Character| and |@Tech Character| and |@Magic Character|) or ({YamlDisabled(characters_as_items)} and |All Water Characters| and |All Earth Characters| and |All Fire Characters| and |All Air Characters| and |All Life Characters| and |All Undead Characters| and |All Tech Characters| and |All Magic Characters|))"
+			"requires": "|Progressive Chapter:22| and ({YamlDisabled(include_crypt)} or |Darklight Crypt|) and ({YamlDisabled(include_empire)} or |Empire of Ice|) and ({YamlDisabled(include_ship)} or |Pirate Seas|) and ({YamlDisabled(include_peak)} or |Dragon's Peak|) and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic|"
 		}
 	]
 }

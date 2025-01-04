@@ -45,24 +45,6 @@
 
 	{
 		"count": "22",
-		"name": "Progressive Elemental Gates",
-		"category": [
-			"Elemental Gates"
-		],
-		"progression_skip_balancing": true
-	},
-	{
-		"count": "1",
-		"name": "Adventure Pack Elemental Gates",
-		"category": [
-			"Elemental Gates", "Add-on"
-		],
-		"progression_skip_balancing": true
-	},
-
-
-	{
-		"count": "22",
 		"name": "Progressive Soul Abilities",
 		"category": [
 			"Soul Abilities"
@@ -153,12 +135,21 @@
 	},
 
 
+	{
+		"count": "10",
+		"name": "Progressive Fairy Gems",
+		"category": [
+			"Upgrade", "Fairy Gem"
+		],
+		"useful": true
+	},
+
 
 	{
 		"count": 1,
 		"name": "All Fire Characters",
 		"category": [
-			"Element", "Fire Character"
+			"Element", "Skylander - Fire"
 		],
 		"progression_skip_balancing": true
 	},
@@ -166,7 +157,7 @@
 		"count": 1,
 		"name": "All Water Characters",
 		"category": [
-			"Element", "Water Character"
+			"Element", "Skylander - Water"
 		],
 		"progression_skip_balancing": true
 	},
@@ -174,7 +165,7 @@
 		"count": 1,
 		"name": "All Earth Characters",
 		"category": [
-			"Element", "Earth Character"
+			"Element", "Skylander - Earth"
 		],
 		"progression_skip_balancing": true
 	},
@@ -182,7 +173,7 @@
 		"count": 1,
 		"name": "All Air Characters",
 		"category": [
-			"Element", "Air Character"
+			"Element", "Skylander - Air"
 		],
 		"progression_skip_balancing": true
 	},
@@ -190,7 +181,7 @@
 		"count": 1,
 		"name": "All Life Characters",
 		"category": [
-			"Element", "Life Character"
+			"Element", "Skylander - Life"
 		],
 		"progression_skip_balancing": true
 	},
@@ -198,7 +189,7 @@
 		"count": 1,
 		"name": "All Undead Characters",
 		"category": [
-			"Element", "Undead Character"
+			"Element", "Skylander - Undead"
 		],
 		"progression_skip_balancing": true
 	},
@@ -206,7 +197,7 @@
 		"count": 1,
 		"name": "All Tech Characters",
 		"category": [
-			"Element", "Tech Character"
+			"Element", "Skylander - Tech"
 		],
 		"progression_skip_balancing": true
 	},
@@ -214,7 +205,7 @@
 		"count": 1,
 		"name": "All Magic Characters",
 		"category": [
-			"Element", "Magic Character"
+			"Element", "Skylander - Magic"
 		],
 		"progression_skip_balancing": true
 	},
@@ -224,8 +215,8 @@
 		"count": 1,
 		"name": "Sunburn",
 		"category": [
-			"Character", 
-			"Fire Character",
+			"Skylander", 
+			"Skylander - Fire",
 			"Add-on",
 			"Dragon's Peak Pack"
 		],
@@ -235,8 +226,8 @@
 		"count": 1,
 		"name": "Eruptor",
 		"category": [
-			"Character", 
-			"Fire Character"
+			"Skylander", 
+			"Skylander - Fire"
 		],
 		"progression_skip_balancing": true
 	},
@@ -244,8 +235,8 @@
 		"count": 1,
 		"name": "Ignitor",
 		"category": [
-			"Character", 
-			"Fire Character"
+			"Skylander", 
+			"Skylander - Fire"
 		],
 		"progression_skip_balancing": true
 	},
@@ -253,8 +244,8 @@
 		"count": 1,
 		"name": "Flameslinger",
 		"category": [
-			"Character", 
-			"Fire Character"
+			"Skylander", 
+			"Skylander - Fire"
 		],
 		"progression_skip_balancing": true
 	},
@@ -262,8 +253,8 @@
 		"count": 1,
 		"name": "Camo",
 		"category": [
-			"Character", 
-			"Life Character"
+			"Skylander", 
+			"Skylander - Life"
 		],
 		"progression_skip_balancing": true
 	},
@@ -271,8 +262,8 @@
 		"count": 1,
 		"name": "Zook",
 		"category": [
-			"Character", 
-			"Life Character"
+			"Skylander", 
+			"Skylander - Life"
 		],
 		"progression_skip_balancing": true
 	},
@@ -280,8 +271,8 @@
 		"count": 1,
 		"name": "Stealth Elf",
 		"category": [
-			"Character", 
-			"Life Character"
+			"Skylander", 
+			"Skylander - Life"
 		],
 		"progression_skip_balancing": true
 	},
@@ -289,8 +280,8 @@
 		"count": 1,
 		"name": "Stump Smash",
 		"category": [
-			"Character", 
-			"Life Character"
+			"Skylander", 
+			"Skylander - Life"
 		],
 		"progression_skip_balancing": true
 	},
@@ -298,8 +289,8 @@
 		"count": 1,
 		"name": "Bash",
 		"category": [
-			"Character", 
-			"Earth Character"
+			"Skylander", 
+			"Skylander - Earth"
 		],
 		"progression_skip_balancing": true
 	},
@@ -307,8 +298,8 @@
 		"count": 1,
 		"name": "Terrafin",
 		"category": [
-			"Character", 
-			"Earth Character",
+			"Skylander", 
+			"Skylander - Earth",
 			"Add-on",
 			"Pirate Seas Pack"
 		],
@@ -318,8 +309,8 @@
 		"count": 1,
 		"name": "Dino-Rang",
 		"category": [
-			"Character", 
-			"Earth Character"
+			"Skylander", 
+			"Skylander - Earth"
 		],
 		"progression_skip_balancing": true
 	},
@@ -327,8 +318,8 @@
 		"count": 1,
 		"name": "Prism Break",
 		"category": [
-			"Character", 
-			"Earth Character"
+			"Skylander", 
+			"Skylander - Earth"
 		],
 		"progression_skip_balancing": true
 	},
@@ -336,8 +327,8 @@
 		"count": 1,
 		"name": "Trigger Happy",
 		"category": [
-			"Character", 
-			"Tech Character"
+			"Skylander", 
+			"Skylander - Tech"
 		],
 		"progression_skip_balancing": true
 	},
@@ -345,8 +336,8 @@
 		"count": 1,
 		"name": "Drobot",
 		"category": [
-			"Character", 
-			"Tech Character"
+			"Skylander", 
+			"Skylander - Tech"
 		],
 		"progression_skip_balancing": true
 	},
@@ -354,8 +345,8 @@
 		"count": 1,
 		"name": "Drill Sergeant",
 		"category": [
-			"Character", 
-			"Tech Character"
+			"Skylander", 
+			"Skylander - Tech"
 		],
 		"progression_skip_balancing": true
 	},
@@ -363,8 +354,8 @@
 		"count": 1,
 		"name": "Boomer",
 		"category": [
-			"Character", 
-			"Tech Character"
+			"Skylander", 
+			"Skylander - Tech"
 		],
 		"progression_skip_balancing": true
 	},
@@ -372,8 +363,8 @@
 		"count": 1,
 		"name": "Spyro",
 		"category": [
-			"Character", 
-			"Magic Character"
+			"Skylander", 
+			"Skylander - Magic"
 		],
 		"progression_skip_balancing": true
 	},
@@ -381,8 +372,8 @@
 		"count": 1,
 		"name": "Voodood",
 		"category": [
-			"Character", 
-			"Magic Character"
+			"Skylander", 
+			"Skylander - Magic"
 		],
 		"progression_skip_balancing": true
 	},
@@ -390,8 +381,8 @@
 		"count": 1,
 		"name": "Double Trouble",
 		"category": [
-			"Character", 
-			"Magic Character"
+			"Skylander", 
+			"Skylander - Magic"
 		],
 		"progression_skip_balancing": true
 	},
@@ -399,8 +390,8 @@
 		"count": 1,
 		"name": "Wrecking Ball",
 		"category": [
-			"Character", 
-			"Magic Character"
+			"Skylander", 
+			"Skylander - Magic"
 		],
 		"progression_skip_balancing": true
 	},
@@ -408,8 +399,8 @@
 		"count": 1,
 		"name": "Whirlwind",
 		"category": [
-			"Character", 
-			"Air Character"
+			"Skylander", 
+			"Skylander - Air"
 		],
 		"progression_skip_balancing": true
 	},
@@ -417,8 +408,8 @@
 		"count": 1,
 		"name": "Sonic Boom",
 		"category": [
-			"Character", 
-			"Air Character"
+			"Skylander", 
+			"Skylander - Air"
 		],
 		"progression_skip_balancing": true
 	},
@@ -426,8 +417,8 @@
 		"count": 1,
 		"name": "Warnado",
 		"category": [
-			"Character", 
-			"Air Character"
+			"Skylander", 
+			"Skylander - Air"
 		],
 		"progression_skip_balancing": true
 	},
@@ -435,8 +426,8 @@
 		"count": 1,
 		"name": "Lightning Rod",
 		"category": [
-			"Character", 
-			"Air Character"
+			"Skylander", 
+			"Skylander - Air"
 		],
 		"progression_skip_balancing": true
 	},
@@ -444,8 +435,8 @@
 		"count": 1,
 		"name": "Hex",
 		"category": [
-			"Character", 
-			"Undead Character"
+			"Skylander", 
+			"Skylander - Undead"
 		],
 		"progression_skip_balancing": true
 	},
@@ -453,8 +444,8 @@
 		"count": 1,
 		"name": "Chop Chop",
 		"category": [
-			"Character", 
-			"Undead Character"
+			"Skylander", 
+			"Skylander - Undead"
 		],
 		"progression_skip_balancing": true
 	},
@@ -462,8 +453,8 @@
 		"count": 1,
 		"name": "Ghost Roaster",
 		"category": [
-			"Character", 
-			"Undead Character",
+			"Skylander", 
+			"Skylander - Undead",
 			"Add-on",
 			"Darklight Crypt Pack"
 		],
@@ -473,8 +464,8 @@
 		"count": 1,
 		"name": "Cynder",
 		"category": [
-			"Character", 
-			"Undead Character"
+			"Skylander", 
+			"Skylander - Undead"
 		],
 		"progression_skip_balancing": true
 	},
@@ -482,8 +473,8 @@
 		"count": 1,
 		"name": "Zap",
 		"category": [
-			"Character", 
-			"Water Character"
+			"Skylander", 
+			"Skylander - Water"
 		],
 		"progression_skip_balancing": true
 	},
@@ -491,8 +482,8 @@
 		"count": 1,
 		"name": "Wham-Shell",
 		"category": [
-			"Character", 
-			"Water Character"
+			"Skylander", 
+			"Skylander - Water"
 		],
 		"progression_skip_balancing": true
 	},
@@ -500,8 +491,8 @@
 		"count": 1,
 		"name": "Gill Grunt",
 		"category": [
-			"Character", 
-			"Water Character"
+			"Skylander", 
+			"Skylander - Water"
 		],
 		"progression_skip_balancing": true
 	},
@@ -509,8 +500,8 @@
 		"count": 1,
 		"name": "Slam Bam",
 		"category": [
-			"Character", 
-			"Water Character",
+			"Skylander", 
+			"Skylander - Water",
 			"Add-on",
 			"Empire of Ice Pack"
 		],
