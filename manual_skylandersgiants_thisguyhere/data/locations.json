@@ -2,7 +2,7 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
 	"data": [
 		{
-			"name": "Shattered Island",
+			"name": "Time of the Giants",
 			"region": "Chapter 1",
 			"category": [
 				"Level Completion",
@@ -11,7 +11,7 @@
 			"requires": []
 		},
 		{
-			"name": "Perilous Pastures",
+			"name": "Junkyard Isles",
 			"region": "Chapter 2",
 			"category": [
 				"Level Completion",
@@ -20,7 +20,7 @@
 			"requires": "|Progressive Chapter:2|"
 		},
 		{
-			"name": "Sky Schooner Docks",
+			"name": "Rumbletown",
 			"region": "Chapter 3",
 			"category": [
 				"Level Completion",
@@ -29,7 +29,7 @@
 			"requires": "|Progressive Chapter:3|"
 		},
 		{
-			"name": "Stormy Stronghold",
+			"name": "Cutthroat Carnival",
 			"region": "Chapter 4",
 			"category": [
 				"Level Completion",
@@ -38,7 +38,7 @@
 			"requires": "|Progressive Chapter:4|"
 		},
 		{
-			"name": "Oilspill Island",
+			"name": "Glacier Gully",
 			"region": "Chapter 5",
 			"category": [
 				"Level Completion",
@@ -47,7 +47,7 @@
 			"requires": "|Progressive Chapter:5|"
 		},
 		{
-			"name": "Dark Water Cove",
+			"name": "Secret Vault of Secrets",
 			"region": "Chapter 6",
 			"category": [
 				"Level Completion",
@@ -56,7 +56,7 @@
 			"requires": "|Progressive Chapter:6|"
 		},
 		{
-			"name": "Leviathan Lagoon",
+			"name": "Wilikin Village",
 			"region": "Chapter 7",
 			"category": [
 				"Level Completion",
@@ -65,7 +65,7 @@
 			"requires": "|Progressive Chapter:7|"
 		},
 		{
-			"name": "Crystal Eye Castle",
+			"name": "Troll Home Security",
 			"region": "Chapter 8",
 			"category": [
 				"Level Completion",
@@ -74,7 +74,7 @@
 			"requires": "|Progressive Chapter:8|"
 		},
 		{
-			"name": "Stonetown",
+			"name": "Kaos' Kastle",
 			"region": "Chapter 9",
 			"category": [
 				"Level Completion",
@@ -83,7 +83,7 @@
 			"requires": "|Progressive Chapter:9|"
 		},
 		{
-			"name": "Treetop Terrace",
+			"name": "Aerial Attack!",
 			"region": "Chapter 10",
 			"category": [
 				"Level Completion",
@@ -92,7 +92,7 @@
 			"requires": "|Progressive Chapter:10|"
 		},
 		{
-			"name": "Falling Forest",
+			"name": "Drill-X's Big Rig",
 			"region": "Chapter 11",
 			"category": [
 				"Level Completion",
@@ -101,7 +101,7 @@
 			"requires": "|Progressive Chapter:11|"
 		},
 		{
-			"name": "Troll Warehouse",
+			"name": "Molekin Mountain",
 			"region": "Chapter 12",
 			"category": [
 				"Level Completion",
@@ -110,7 +110,7 @@
 			"requires": "|Progressive Chapter:12|"
 		},
 		{
-			"name": "Goo Factory",
+			"name": "The Oracle",
 			"region": "Chapter 13",
 			"category": [
 				"Level Completion",
@@ -119,7 +119,7 @@
 			"requires": "|Progressive Chapter:13|"
 		},
 		{
-			"name": "Battlefield",
+			"name": "Autogyro Adventure",
 			"region": "Chapter 14",
 			"category": [
 				"Level Completion",
@@ -128,7 +128,7 @@
 			"requires": "|Progressive Chapter:14|"
 		},
 		{
-			"name": "Crawling Catacombs",
+			"name": "Lost City of Arkus",
 			"region": "Chapter 15",
 			"category": [
 				"Level Completion",
@@ -137,67 +137,13 @@
 			"requires": "|Progressive Chapter:15|"
 		},
 		{
-			"name": "Cadaverous Crypt",
+			"name": "Bringing Order to Kaos!",
 			"region": "Chapter 16",
 			"category": [
 				"Level Completion",
 				"Chapter 16"
 			],
 			"requires": "|Progressive Chapter:16|"
-		},
-		{
-			"name": "Creepy Citadel",
-			"region": "Chapter 17",
-			"category": [
-				"Level Completion",
-				"Chapter 17"
-			],
-			"requires": "|Progressive Chapter:17|"
-		},
-		{
-			"name": "Molekin Mine",
-			"region": "Chapter 18",
-			"category": [
-				"Level Completion",
-				"Chapter 18"
-			],
-			"requires": "|Progressive Chapter:18|"
-		},
-		{
-			"name": "Lava Lakes Railway",
-			"region": "Chapter 19",
-			"category": [
-				"Level Completion",
-				"Chapter 19"
-			],
-			"requires": "|Progressive Chapter:19|"
-		},
-		{
-			"name": "Quicksilver Vault",
-			"region": "Chapter 20",
-			"category": [
-				"Level Completion",
-				"Chapter 20"
-			],
-			"requires": "|Progressive Chapter:20|"
-		},
-		{
-			"name": "Arkeyan Armory",
-			"region": "Chapter 21",
-			"category": [
-				"Level Completion",
-				"Chapter 21"
-			],
-			"requires": "|Progressive Chapter:21|"
-		},
-		{
-			"name": "Lair of Kaos",
-			"region": "Chapter 22",
-			"category": [
-				"Level Completion",
-				"Chapter 22"
-			],
-			"requires": "|Progressive Chapter:22|"
 		},
 		{
 			"name": "Empire of Ice",
@@ -245,62 +191,92 @@
 		},
 		{
 			"name": "Defeat Kaos",
-			"region": "Chapter 22",
+			"region": "Chapter 16",
 			"victory": true,
 			"category": [
 				"Goal"
 			],
-			"requires": "|Progressive Chapter:22|"
+			"requires": "|Progressive Chapter:16|"
 		},
 
 
 		{
-			"name": "Viking Helmet",
+			"name": "Flower Fairy Hat",
 			"region": "Chapter 1",
 			"category": [
 				"Hat Collection",
 				"Chapter 01"
 			],
-			"requires": "|@Skylander - Magic|"
+			"requires": "|@Skylander - Life|"
 		},
 		{
-			"name": "Pan Hat",
+			"name": "Turban",
 			"region": "Chapter 1",
 			"category": [
 				"Hat Collection",
 				"Chapter 01"
 			],
-			"requires": "|@Skylander - Water|"
+			"requires": "|@Skylander - Air|"
 		},
 		{
-			"name": "Anvil Hat",
+			"name": "Paper Fast Food Hat",
 			"region": "Chapter 1",
 			"category": [
 				"Hat Collection",
 				"Chapter 01"
 			],
-			"requires": "|@Skylander - Tech|"
+			"requires": "|@Skylander - Undead|"
+		},
+		{
+			"name": "Police Siren Hat",
+			"region": "Chapter 2",
+			"category": [
+				"Hat Collection",
+				"Chapter 02"
+			],
+			"requires": "|@Skylander - Earth|"
+		},
+		{
+			"name": "Biter Hat",
+			"region": "Chapter 2",
+			"category": [
+				"Hat Collection",
+				"Chapter 02"
+			],
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Cowboy Hat",
 			"region": "Chapter 2",
 			"category": [
 				"Hat Collection",
-				"Chapter 02"
+				"Chapter 02",
+				"Shop Item"
 			],
-			"requires": "|@Skylander - Tech|"
+			"requires": []
 		},
 		{
-			"name": "Birthday Hat",
+			"name": "Plunger Head",
 			"region": "Chapter 2",
 			"category": [
 				"Hat Collection",
-				"Chapter 02"
+				"Chapter 02",
+				"Shop Item"
 			],
-			"requires": "|@Skylander - Water|"
+			"requires": []
 		},
 		{
-			"name": "Propeller Cap",
+			"name": "Kufi Hat",
+			"region": "Chapter 2",
+			"category": [
+				"Hat Collection",
+				"Chapter 02",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Pilgrim Hat",
 			"region": "Chapter 3",
 			"category": [
 				"Hat Collection",
@@ -309,25 +285,46 @@
 			"requires": "|@Skylander - Undead|"
 		},
 		{
-			"name": "Jester Hat",
+			"name": "Carrot Hat",
 			"region": "Chapter 3",
 			"category": [
 				"Hat Collection",
 				"Chapter 03"
 			],
-			"requires": "|@Skylander - Earth|"
-		},
-		{
-			"name": "Fez",
-			"region": "Chapter 4",
-			"category": [
-				"Hat Collection",
-				"Chapter 04"
-			],
 			"requires": "|@Skylander - Life|"
 		},
 		{
+			"name": "Elf Hat",
+			"region": "Chapter 3",
+			"category": [
+				"Hat Collection",
+				"Chapter 03",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
 			"name": "Fancy Hat",
+			"region": "Chapter 3",
+			"category": [
+				"Hat Collection",
+				"Chapter 03",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Birthay Hat",
+			"region": "Chapter 3",
+			"category": [
+				"Hat Collection",
+				"Chapter 03",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Lampshade Hat",
 			"region": "Chapter 4",
 			"category": [
 				"Hat Collection",
@@ -336,7 +333,45 @@
 			"requires": "|@Skylander - Air|"
 		},
 		{
-			"name": "Plunger Head",
+			"name": "Mariachi Hat",
+			"region": "Chapter 4",
+			"category": [
+				"Hat Collection",
+				"Chapter 04"
+			],
+			"requires": "|@Skylander - Undead|"
+		},
+		{
+			"name": "Viking Helmet",
+			"region": "Chapter 4",
+			"category": [
+				"Hat Collection",
+				"Chapter 04",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Fez",
+			"region": "Chapter 4",
+			"category": [
+				"Hat Collection",
+				"Chapter 04",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Purple Fedora",
+			"region": "Chapter 5",
+			"category": [
+				"Hat Collection",
+				"Chapter 05"
+			],
+			"requires": "|@Skylander - Magic|"
+		},
+		{
+			"name": "Fireman's Helmet",
 			"region": "Chapter 5",
 			"category": [
 				"Hat Collection",
@@ -345,71 +380,217 @@
 			"requires": "|@Skylander - Fire|"
 		},
 		{
-			"name": "Tiki Hat",
+			"name": "Propeller Cap",
+			"region": "Chapter 5",
+			"category": [
+				"Hat Collection",
+				"Chapter 05",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Top Hat",
+			"region": "Chapter 5",
+			"category": [
+				"Hat Collection",
+				"Chapter 05",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Spy Gear",
 			"region": "Chapter 6",
 			"category": [
 				"Hat Collection",
-				"Chapter 06"
+				"Chapter 06",
+				"Shop Item"
 			],
-			"requires": "|@Skylander - Magic|"
+			"requires": []
 		},
 		{
 			"name": "Tropical Turban",
 			"region": "Chapter 6",
 			"category": [
 				"Hat Collection",
-				"Chapter 06"
+				"Chapter 06",
+				"Shop Item"
 			],
-			"requires": "|@Skylander - Water|"
+			"requires": []
 		},
 		{
-			"name": "Napoleon Hat",
+			"name": "Officer Hat",
+			"region": "Chapter 6",
+			"category": [
+				"Hat Collection",
+				"Chapter 06"
+			],
+			"requires": "|@Skylander - Tech|"
+		},
+		{
+			"name": "Archer Hat",
+			"region": "Chapter 6",
+			"category": [
+				"Hat Collection",
+				"Chapter 06"
+			],
+			"requires": []
+		},
+		{
+			"name": "Toy Soldier Hat",
 			"region": "Chapter 7",
 			"category": [
 				"Hat Collection",
 				"Chapter 07"
 			],
-			"requires": "|@Skylander - Water|"
+			"requires": "|@Skylander - Earth|"
+		},
+		{
+			"name": "Rocker Hair",
+			"region": "Chapter 7",
+			"category": [
+				"Hat Collection",
+				"Chapter 07",
+				"Shop Item"
+			],
+			"requires": []
 		},
 		{
 			"name": "Eye Hat",
+			"region": "Chapter 7",
+			"category": [
+				"Hat Collection",
+				"Chapter 07",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Fishing Hat",
+			"region": "Chapter 7",
+			"category": [
+				"Hat Collection",
+				"Chapter 07"
+			],
+			"requires": []
+		},
+		{
+			"name": "Sombrero",
 			"region": "Chapter 8",
 			"category": [
 				"Hat Collection",
 				"Chapter 08"
 			],
-			"requires": "|@Skylander - Undead|"
+			"requires": []
+		},
+		{
+			"name": "Pants Hat",
+			"region": "Chapter 8",
+			"category": [
+				"Hat Collection",
+				"Chapter 08"
+			],
+			"requires": "|@Skylander - Water|"
+		},
+		{
+			"name": "Moose Hat",
+			"region": "Chapter 8",
+			"category": [
+				"Hat Collection",
+				"Chapter 08",
+				"Shop Item"
+			],
+			"requires": []
 		},
 		{
 			"name": "Trojan Helmet",
 			"region": "Chapter 8",
 			"category": [
 				"Hat Collection",
-				"Chapter 08"
+				"Chapter 08",
+				"Shop Item"
 			],
-			"requires": "|@Skylander - Earth|"
+			"requires": []
 		},
 		{
-			"name": "Top Hat",
+			"name": "Princess Hat",
 			"region": "Chapter 9",
 			"category": [
 				"Hat Collection",
 				"Chapter 09"
 			],
-			"requires": "|@Skylander - Life|"
+			"requires": "|@Giant|"
 		},
 		{
-			"name": "Moose Hat",
+			"name": "Graduation Hat",
+			"region": "Chapter 9",
+			"category": [
+				"Hat Collection",
+				"Chapter 09"
+			],
+			"requires": "|@Skylander - Magic|"
+		},
+		{
+			"name": "Dancer Hat",
+			"region": "Chapter 9",
+			"category": [
+				"Hat Collection",
+				"Chapter 09",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Sailor Hat",
 			"region": "Chapter 10",
 			"category": [
 				"Hat Collection",
 				"Chapter 10"
 			],
-			"requires": "|@Skylander - Magic|"
+			"requires": "|@Giant| and |@Skylander - Water|"
+		},
+		{
+			"name": "General's Hat",
+			"region": "Chapter 10",
+			"category": [
+				"Hat Collection",
+				"Chapter 10",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Spiked Hat",
+			"region": "Chapter 10",
+			"category": [
+				"Hat Collection",
+				"Chapter 10",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Nefertiti Hat",
+			"region": "Chapter 10",
+			"category": [
+				"Hat Collection",
+				"Chapter 10"
+			],
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Chapter 11",
-			"name": "Coonskin Cap",
+			"name": "Safari Hat",
+			"category": [
+				"Hat Collection",
+				"Chapter 11"
+			],
+			"requires": "|@Skylander - Life|"
+		},
+		{
+			"region": "Chapter 11",
+			"name": "Traffic Cone Hat",
 			"category": [
 				"Hat Collection",
 				"Chapter 11"
@@ -417,43 +598,103 @@
 			"requires": "|@Skylander - Earth|"
 		},
 		{
+			"region": "Chapter 11",
+			"name": "Combat Hat",
+			"category": [
+				"Hat Collection",
+				"Chapter 11",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"region": "Chapter 11",
+			"name": "Beret",
+			"category": [
+				"Hat Collection",
+				"Chapter 11",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
 			"region": "Chapter 12",
-			"name": "Spy Gear",
+			"name": "Battle Helmet",
 			"category": [
 				"Hat Collection",
 				"Chapter 12"
 			],
-			"requires": "|@Skylander - Life|"
+			"requires": "|@Skylander - Undead|"
+		},
+		{
+			"region": "Chapter 12",
+			"name": "Dangling Carrot Hat",
+			"category": [
+				"Hat Collection",
+				"Chapter 12",
+				"Shop Item"
+			],
+			"requires": []
 		},
 		{
 			"region": "Chapter 12",
 			"name": "Rocket Hat",
 			"category": [
 				"Hat Collection",
+				"Chapter 12",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"region": "Chapter 12",
+			"name": "Trucker Hat",
+			"category": [
+				"Hat Collection",
 				"Chapter 12"
 			],
-			"requires": "|@Skylander - Fire|"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"region": "Chapter 13",
-			"name": "General's Hat",
+			"name": "Umbrella Hat",
 			"category": [
 				"Hat Collection",
 				"Chapter 13"
 			],
-			"requires": "|@Skylander - Air|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 13",
-			"name": "Spiked Hat",
+			"name": "Crown of Light",
+			"category": [
+				"Hat Collection",
+				"Chapter 13",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"region": "Chapter 13",
+			"name": "Tiki Hat",
+			"category": [
+				"Hat Collection",
+				"Chapter 13",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"region": "Chapter 13",
+			"name": "Bowling Pin Hat",
 			"category": [
 				"Hat Collection",
 				"Chapter 13"
 			],
-			"requires": "|@Skylander - Fire|"
+			"requires": []
 		},
 		{
-			"name": "Combat Hat",
+			"name": "Future Hat",
 			"region": "Chapter 14",
 			"category": [
 				"Hat Collection",
@@ -462,25 +703,63 @@
 			"requires": "|@Skylander - Undead|"
 		},
 		{
-			"name": "Beret",
+			"name": "Bottle Cap Hat",
+			"region": "Chapter 14",
+			"category": [
+				"Hat Collection",
+				"Chapter 14"
+			],
+			"requires": "|@Skylander - Air|"
+		},
+		{
+			"name": "Anvil Hat",
+			"region": "Chapter 14",
+			"category": [
+				"Hat Collection",
+				"Chapter 14"
+			],
+			"requires": []
+		},
+		{
+			"name": "Funnel Hat",
 			"region": "Chapter 15",
 			"category": [
 				"Hat Collection",
 				"Chapter 15"
 			],
-			"requires": "|@Skylander - Undead|"
+			"requires": "|@Skylander - Water|"
 		},
 		{
-			"name": "Crown of Light",
-			"region": "Chapter 16",
+			"name": "Napoleon Hat",
+			"region": "Chapter 15",
 			"category": [
 				"Hat Collection",
-				"Chapter 16"
+				"Chapter 15",
+				"Shop Item"
 			],
-			"requires": "|@Skylander - Tech|"
+			"requires": []
 		},
 		{
-			"name": "Bone Head",
+			"name": "Wabbit Ears",
+			"region": "Chapter 15",
+			"category": [
+				"Hat Collection",
+				"Chapter 15",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Atom Hat",
+			"region": "Chapter 15",
+			"category": [
+				"Hat Collection",
+				"Chapter 15"
+			],
+			"requires": "|@Skylander - Fire|"
+		},
+		{
+			"name": "Scrumshanks Hat",
 			"region": "Chapter 16",
 			"category": [
 				"Hat Collection",
@@ -489,58 +768,43 @@
 			"requires": "|@Skylander - Earth|"
 		},
 		{
-			"name": "Rocker Hair",
-			"region": "Chapter 17",
+			"name": "Rasta Hat",
+			"region": "Chapter 16",
 			"category": [
 				"Hat Collection",
-				"Chapter 17"
-			],
-			"requires": "|@Skylander - Air|"
-		},
-		{
-			"name": "Miner Hat",
-			"region": "Chapter 18",
-			"category": [
-				"Hat Collection",
-				"Chapter 18"
-			],
-			"requires": "|@Skylander - Tech|"
-		},
-		{
-			"region": "Chapter 19",
-			"name": "Lil Devil",
-			"category": [
-				"Hat Collection",
-				"Chapter 19"
-			],
-			"requires": "|@Skylander - Fire|"
-		},
-		{
-			"region": "Chapter 20",
-			"name": "Unicorn Hat",
-			"category": [
-				"Hat Collection",
-				"Chapter 20"
-			],
-			"requires": "|@Skylander - Life|"
-		},
-		{
-			"region": "Chapter 21",
-			"name": "Wizard Hat",
-			"category": [
-				"Hat Collection",
-				"Chapter 21"
-			],
-			"requires": "|@Skylander - Air|"
-		},
-		{
-			"region": "Chapter 22",
-			"name": "Wabbit Ears",
-			"category": [
-				"Hat Collection",
-				"Chapter 22"
+				"Chapter 16"
 			],
 			"requires": "|@Skylander - Magic|"
+		},
+		{
+			"name": "Caesar Hat",
+			"region": "Chapter 16",
+			"category": [
+				"Hat Collection",
+				"Chapter 16",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Unicorn Hat",
+			"region": "Chapter 16",
+			"category": [
+				"Hat Collection",
+				"Chapter 16",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Wizard Hat",
+			"region": "Chapter 16",
+			"category": [
+				"Hat Collection",
+				"Chapter 16",
+				"Shop Item"
+			],
+			"requires": []
 		},
 		{
 			"region": "Empire of Ice",
@@ -634,7 +898,7 @@
 
 		{
 			"region": "Chapter 1",
-			"name": "Salary Swine",
+			"name": "Starry Night Paint Job",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 01"
@@ -642,16 +906,16 @@
 			"requires": []
 		},
 		{
-			"name": "Enigma Pig",
+			"name": "Propeller Pilot House Roof",
 			"region": "Chapter 2",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 02"
 			],
-			"requires": "|@Skylander - Life|"
+			"requires": []
 		},
 		{
-			"name": "Wild Runners",
+			"name": "Eagle Pilot Roof House",
 			"region": "Chapter 3",
 			"category": [
 				"Legendary Treasure Collection",
@@ -660,7 +924,7 @@
 			"requires": []
 		},
 		{
-			"name": "Ancient Carillon",
+			"name": "Skull Masthead",
 			"region": "Chapter 4",
 			"category": [
 				"Legendary Treasure Collection",
@@ -669,16 +933,16 @@
 			"requires": []
 		},
 		{
-			"name": "Catechumen",
+			"name": "Floral Reef Paint Job",
 			"region": "Chapter 5",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 05"
 			],
-			"requires": "|@Skylander - Fire|"
+			"requires": []
 		},
 		{
-			"name": "Parrot Totem",
+			"name": "Stripes Ahoy Paint Job",
 			"region": "Chapter 6",
 			"category": [
 				"Legendary Treasure Collection",
@@ -687,25 +951,25 @@
 			"requires": []
 		},
 		{
-			"name": "Opulent Pullet",
+			"name": "Eagle Engine",
 			"region": "Chapter 7",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 07"
 			],
-			"requires": "|@Skylander - Water|"
+			"requires": "|@Giant|"
 		},
 		{
-			"name": "Teddy Cyclops",
+			"name": "Fire Sale Paint Job",
 			"region": "Chapter 8",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 08"
 			],
-			"requires": []
+			"requires": "|@Skylander - Water|"
 		},
 		{
-			"name": "Mono Lisa",
+			"name": "Dragon Engine",
 			"region": "Chapter 9",
 			"category": [
 				"Legendary Treasure Collection",
@@ -715,16 +979,16 @@
 		},
 		{
 			"region": "Chapter 10",
-			"name": "Sterling Tapir",
+			"name": "Skull Roof",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 10"
 			],
-			"requires": []
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Chapter 11",
-			"name": "Topiary's Nucleus",
+			"name": "Propeller Engine",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 11"
@@ -733,25 +997,25 @@
 		},
 		{
 			"region": "Chapter 12",
-			"name": "Ghost View Glasses",
+			"name": "Eagle Masthead",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 12"
 			],
-			"requires": "|@Skylander - Life|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 13",
-			"name": "Troll Stein",
+			"name": "Dragon Roof",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 13"
 			],
-			"requires": "|@Skylander - Air|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 14",
-			"name": "Royal Lynx",
+			"name": "Propeller Masthead",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 14"
@@ -760,7 +1024,7 @@
 		},
 		{
 			"region": "Chapter 15",
-			"name": "Aphid Lifter",
+			"name": "Skull Engine",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 15"
@@ -769,64 +1033,10 @@
 		},
 		{
 			"region": "Chapter 16",
-			"name": "Golden Randomizer",
+			"name": "Dragon Masthead",
 			"category": [
 				"Legendary Treasure Collection",
 				"Chapter 16"
-			],
-			"requires": []
-		},
-		{
-			"region": "Chapter 17",
-			"name": "Doom's Rook",
-			"category": [
-				"Legendary Treasure Collection",
-				"Chapter 17"
-			],
-			"requires": []
-		},
-		{
-			"region": "Chapter 18",
-			"name": "Golden Links",
-			"category": [
-				"Legendary Treasure Collection",
-				"Chapter 18"
-			],
-			"requires": []
-		},
-		{
-			"region": "Chapter 19",
-			"name": "Fiord's Jetty",
-			"category": [
-				"Legendary Treasure Collection",
-				"Chapter 19"
-			],
-			"requires": []
-		},
-		{
-			"region": "Chapter 20",
-			"name": "Rollerskates",
-			"category": [
-				"Legendary Treasure Collection",
-				"Chapter 20"
-			],
-			"requires": "|@Skylander - Life|"
-		},
-		{
-			"region": "Chapter 21",
-			"name": "Arkeyan Weapon Controller",
-			"category": [
-				"Legendary Treasure Collection",
-				"Chapter 21"
-			],
-			"requires": "|@Skylander - Earth|"
-		},
-		{
-			"region": "Chapter 22",
-			"name": "Superior Regalia",
-			"category": [
-				"Legendary Treasure Collection",
-				"Chapter 22"
 			],
 			"requires": []
 		},
@@ -1902,7 +2112,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Warnado",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1910,7 +2120,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Ghost Roaster",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge",
 				"Add-on",
@@ -1920,7 +2130,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Wrecking Ball",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1928,7 +2138,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Spyro",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1936,7 +2146,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Prism Break",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1944,7 +2154,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Lightning Rod",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1952,7 +2162,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Hex",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1960,7 +2170,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Dino-Rang",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1968,7 +2178,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Bash",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1976,7 +2186,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Cynder",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1984,7 +2194,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Ignitor",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -1992,7 +2202,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Stump Smash",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2000,7 +2210,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Chop Chop",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2008,7 +2218,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Sonic Boom",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2016,7 +2226,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Drobot",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2024,7 +2234,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Terrafin",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge",
 				"Add-on",
@@ -2034,7 +2244,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Sunburn",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge",
 				"Add-on",
@@ -2044,7 +2254,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Trigger Happy",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2052,7 +2262,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Eruptor",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2060,7 +2270,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Double Trouble",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2068,7 +2278,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Stealth Elf",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2076,7 +2286,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Whirlwind",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2084,7 +2294,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Voodood",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2092,7 +2302,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Wham-Shell",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2100,7 +2310,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Camo",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2108,7 +2318,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Zook",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2116,7 +2326,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Flameslinger",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2124,7 +2334,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Boomer",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2132,7 +2342,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Gill Grunt",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2140,7 +2350,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Drill Sergeant",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],
@@ -2148,7 +2358,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Slam Bam",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge",
 				"Add-on",
@@ -2158,7 +2368,7 @@
 		},
 		{
 			"name": "Heroic Challenge - Zap",
-			"region": "Hub Challenges",
+			"region": "Hub",
 			"category": [
 				"Challenge"
 			],

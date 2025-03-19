@@ -9,7 +9,7 @@
   },
   "Chapter 2": {
     "connects_to": [
-      "Chapter 3", "Hub Challenges", "Darklight Crypt"
+      "Chapter 3", "Hub", "Darklight Crypt"
     ],
     "requires": "|Progressive Chapter:2|"
   },
@@ -92,48 +92,12 @@
     "requires": "|Progressive Chapter:15|"
   },
   "Chapter 16": {
-    "connects_to": [
-      "Chapter 17"
-    ],
+    "connects_to": [],
     "requires": "|Progressive Chapter:16|"
   },
-  "Chapter 17": {
-    "connects_to": [
-      "Chapter 18"
-    ],
-    "requires": "|Progressive Chapter:17|"
-  },
-  "Chapter 18": {
-    "connects_to": [
-      "Chapter 19"
-    ],
-    "requires": "|Progressive Chapter:18|"
-  },
-  "Chapter 19": {
-    "connects_to": [
-      "Chapter 20"
-    ],
-    "requires": "|Progressive Chapter:19|"
-  },
-  "Chapter 20": {
-    "connects_to": [
-      "Chapter 21"
-    ],
-    "requires": "|Progressive Chapter:20|"
-  },
-  "Chapter 21": {
-    "connects_to": [
-      "Chapter 22"
-    ],
-    "requires": "|Progressive Chapter:21|"
-  },
-  "Chapter 22": {
-    "connects_to": [],
-    "requires": "|Progressive Chapter:22|"
-  },
 
 
-  "Hub Challenges": {
+  "Hub": {
     "connects_to": [],
     "requires": "|Progressive Chapter:2|"
   },

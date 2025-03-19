@@ -39,6 +39,10 @@
         "yaml_option": ["characters_as_items"],
         "hidden": true
     },
+    "Series 1": {
+        "yaml_option": ["old_gen_characters"],
+        "hidden": true
+    },
     "Element": {
         "yaml_option": ["!characters_as_items"],
         "hidden": true
@@ -70,11 +74,14 @@
         "yaml_option": ["active_items"],
         "hidden": false
     },
+    "Battle Pack": {
+        "yaml_option": ["battle_packs"],
+        "hidden": true
+    },
     "Traps": {
         "hidden": false
     },
     "Hard Traps": {
-        "yaml_option": ["hard_traps"],
         "hidden": true
     }
 }
