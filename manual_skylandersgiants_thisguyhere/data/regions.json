@@ -101,7 +101,10 @@
     "connects_to": [],
     "requires": "|Progressive Chapter:2|"
   },
-
+   "Arena Battles": {
+    "connects_to": [],
+    "requires": "|Progressive Chapter:4|"
+  },
 
   "Empire of Ice": {
     "connects_to": [],

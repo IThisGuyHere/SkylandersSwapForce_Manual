@@ -1598,7 +1598,7 @@
 				"Chest Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12| and |@Skylander - Giant"
+			"requires": "|Progressive Chapter:12| and |@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Sunrock Peak",
@@ -2451,6 +2451,372 @@
 				"Challenge"
 			],
 			"requires": "|Progressive Chapter:10|"
+		},
+		{
+			"name": "Skystones - Bottle Top Inn",
+			"region": "Chapter 2",
+			"category": [
+				"Skystones",
+				"Chapter 2"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Skystones - Guarded Tower",
+			"region": "Chapter 3",
+			"category": [
+				"Skystones",
+				"Chapter 3"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Skystones - House of Cards",
+			"region": "Chapter 4",
+			"category": [
+				"Skystones",
+				"Chapter 4"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Skystones - The Boat House",
+			"region": "Chapter 4",
+			"category": [
+				"Skystones",
+				"Chapter 4"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Skystones - Pirate Prison",
+			"region": "Chapter 4",
+			"category": [
+				"Skystones",
+				"Chapter 4"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Skystones - The Crow's Nest",
+			"region": "Chapter 4",
+			"category": [
+				"Skystones",
+				"Chapter 4"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Skystones - Burnt Depths",
+			"region": "Chapter 5",
+			"category": [
+				"Skystones",
+				"Chapter 5"
+			],
+			"requires": "|Progressive Chapter:5| and |@Skylander - Fire|"
+		},
+		{
+			"name": "Skystones - Forgotten Caverns",
+			"region": "Chapter 6",
+			"category": [
+				"Skystones",
+				"Chapter 6"
+			],
+			"requires": "|Progressive Chapter:6| and |@Skylander - Giant|"
+		},
+		{
+			"name": "Skystones - Rutherford's Game Room",
+			"region": "Chapter 7",
+			"category": [
+				"Skystones",
+				"Chapter 7"
+			],
+			"requires": "|Progressive Chapter:7|"
+		},
+		{
+			"name": "Skystones - Catherine's House",
+			"region": "Chapter 7",
+			"category": [
+				"Skystones",
+				"Chapter 7"
+			],
+			"requires": "|Progressive Chapter:7|"
+		},
+		{
+			"name": "Skystones - Failing Fields",
+			"region": "Chapter 8",
+			"category": [
+				"Skystones",
+				"Chapter 8"
+			],
+			"requires": "|Progressive Chapter:8|"
+		},
+		{
+			"name": "Skystones - Secret Cave",
+			"region": "Chapter 8",
+			"category": [
+				"Skystones",
+				"Chapter 8"
+			],
+			"requires": "|Progressive Chapter:8| and |@Skylander - Water|"
+		},
+		{
+			"name": "Skystones - Game of Chance",
+			"region": "Chapter 9",
+			"category": [
+				"Skystones",
+				"Chapter 9"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Skystones - The Windswept Tower",
+			"region": "Chapter 9",
+			"category": [
+				"Skystones",
+				"Chapter 9"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Skystones - The Man Cave",
+			"region": "Chapter 9",
+			"category": [
+				"Skystones",
+				"Chapter 9"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Skystones - Aux Hanger",
+			"region": "Chapter 11",
+			"category": [
+				"Skystones",
+				"Chapter 11"
+			],
+			"requires": "|Progressive Chapter:11| and |@Skylander - Giant|"
+		},
+		{
+			"name": "Skystones - Crystalsong Mines",
+			"region": "Chapter 12",
+			"category": [
+				"Skystones",
+				"Chapter 12"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Skystones - Trial of Strength: Speed",
+			"region": "Chapter 13",
+			"category": [
+				"Skystones",
+				"Chapter 13"
+			],
+			"requires": "|Progressive Chapter:13|"
+		},
+		{
+			"name": "Skystones - Maze of Myth",
+			"region": "Chapter 14",
+			"category": [
+				"Skystones",
+				"Chapter 14"
+			],
+			"requires": "|Progressive Chapter:14|"
+		},
+		{
+			"name": "Skystones - Fractured Ledge",
+			"region": "Chapter 15",
+			"category": [
+				"Skystones",
+				"Chapter 15"
+			],
+			"requires": "|Progressive Chapter:15|"
+		},
+		{
+			"name": "Skystones - Arkeyan Well",
+			"region": "Chapter 16",
+			"category": [
+				"Skystones",
+				"Chapter 16"
+			],
+			"requires": "|Progressive Chapter:16|"
+		},
+		{
+			"name": "Skystones - Hall of Archives",
+			"region": "Chapter 16",
+			"category": [
+				"Skystones",
+				"Chapter 16"
+			],
+			"requires": "|Progressive Chapter:16|"
+		},
+		{
+			"name": "Arena 1 - Stop the Spell",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 1 - Smoke Screen",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 1 - Cloudy Curse",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 1 - Present Protector",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 1 - Spell Dodger",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 1 - Force Field Frenzy",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 1 - The Perfect Game",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:4|"
+		},
+		{
+			"name": "Arena 2 - Don't Beam Me Up!",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 2 - No Chompies Allowed!",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 2 - Fog of War",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 2 - An Early Fall",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 2 - Losing Ground",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 2 - Sky Lasers",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 2 - One Shot Thrill",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:9|"
+		},
+		{
+			"name": "Arena 3 - Sticky Situation",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Arena 3 - Birthday Bash",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Arena 3 - Trog Trouble",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Arena 3 - Baaaaaaad Idea!",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Arena 3 - Bubble Buster",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Arena 3 - Icy Blast",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
+		},
+		{
+			"name": "Arena 3 - You Only Live Once",
+			"region": "Arena Battles",
+			"category": [
+				"Arena Battles"
+			],
+			"requires": "|Progressive Chapter:12|"
 		},
 		{
 			"name": "Time of the Giants Perfection",
