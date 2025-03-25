@@ -9,19 +9,19 @@
   },
   "Chapter 2": {
     "connects_to": [
-      "Chapter 3", "Hub", "Darklight Crypt"
+      "Chapter 3", "Hub", "Darklight Crypt", "Dragon's Peak", "Empire of Ice", "Pirate Seas"
     ],
     "requires": "|Progressive Chapter:2|"
   },
   "Chapter 3": {
     "connects_to": [
-      "Chapter 4", "Dragon's Peak"
+      "Chapter 4"
     ],
     "requires": "|Progressive Chapter:3|"
   },
   "Chapter 4": {
     "connects_to": [
-      "Chapter 5", "Empire of Ice", "Pirate Seas"
+      "Chapter 5"
     ],
     "requires": "|Progressive Chapter:4|"
   },
@@ -105,11 +105,11 @@
 
   "Empire of Ice": {
     "connects_to": [],
-    "requires": "|Empire of Ice| and |Progressive Chapter:4|"
+    "requires": "|Empire of Ice| and |Progressive Chapter:2|"
   },
   "Pirate Seas": {
     "connects_to": [],
-    "requires": "|Pirate Seas| and |Progressive Chapter:4|"
+    "requires": "|Pirate Seas| and |Progressive Chapter:2|"
   },
   "Darklight Crypt": {
     "connects_to": [],
@@ -117,7 +117,7 @@
   },
   "Dragon's Peak": {
     "connects_to": [],
-    "requires": "|Dragon's Peak| and |Progressive Chapter:3|"
+    "requires": "|Dragon's Peak| and |Progressive Chapter:2|"
   }
   
 }

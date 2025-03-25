@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "SkylandersSpyrosAdventure",
+  "game": "SkylandersGiants",
   "creator": "ThisGuyHere",
   "filler_item_name": "Sheep",
   "starting_items": [
