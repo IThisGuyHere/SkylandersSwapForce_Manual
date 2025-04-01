@@ -87,6 +87,11 @@ class ActiveItems(Toggle):
     display_name = "Active Items"
     default = False
 
+class BattlePacks(Toggle):
+    """Adds battle pack items to generation logic (there are only 2)."""
+    display_name = "Battle Pack Items"
+    default = False
+
 class CharactersToExclude(ItemSet):
     """
     Skylanders that will not be included in generation.
@@ -102,6 +107,13 @@ class WhitelistCharacters(Toggle):
     Treat CharactersToExclude as a whitelist instead of a blacklist. 
     """
     display_name = "Whitelist Characters"
+    default = False
+
+class OldGenCharacters(Toggle):
+    """
+    Allow skylanders from the previous game that did not get an update. 
+    """
+    display_name = "Old-gen Skylanders"
     default = False
 
 class ElementLockWeight(Range):
@@ -150,8 +162,10 @@ def before_options_defined(options: dict) -> dict:
     options["include_crypt"] = DarklightCryptAddon
     options["include_peak"] = DragonsPeakAddon
     options["active_items"] = ActiveItems
+    options["battle_packs"] = BattlePacks
     options["characters_to_exclude"] = CharactersToExclude
     options["whitelist_characters"] = WhitelistCharacters
+    options["old_gen_skylanders"] = OldGenCharacters
     options["element_lock_trap_weight"] = ElementLockWeight
     options["rename_skylander_trap_weight"] = RenameSkylanderWeight
     options["solo_trap_weight"] = SoloWeight

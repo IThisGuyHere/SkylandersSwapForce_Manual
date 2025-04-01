@@ -24,7 +24,7 @@
     "Soul Abilities": {
         "hidden": false
     },
-    "Fairy Gems": {
+    "Winged Sapphire": {
         "hidden": true
     },
     "Generic Upgrade": {
@@ -40,7 +40,7 @@
         "hidden": true
     },
     "Series 1": {
-        "yaml_option": ["old_gen_characters"],
+        "yaml_option": ["old_gen_skylanders"],
         "hidden": true
     },
     "Element": {
