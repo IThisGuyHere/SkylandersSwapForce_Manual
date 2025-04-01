@@ -57,6 +57,11 @@ class PerElementUpgrades(Toggle):
     display_name = "Per-Character Upgrades"
     default = False
 
+class Shopsanity(Toggle):
+    """Adds shop items as locations"""
+    display_name = "Shopsanity"
+    default = False
+
 class EmpireOfIceAddon(Toggle):
     """Adds checks for the Empire of Ice adventure pack."""
     display_name = "Empire of Ice Pack"
@@ -139,6 +144,7 @@ def before_options_defined(options: dict) -> dict:
     options["characters_as_items"] = CharactersAsItems
     options["challenges_as_locations"] = ChallengesAsLocations
     options["per_element_upgrades"] = PerElementUpgrades
+    options["shopsanity"] = Shopsanity
     options["include_empire"] = EmpireOfIceAddon
     options["include_ship"] = PirateShipAddon
     options["include_crypt"] = DarklightCryptAddon

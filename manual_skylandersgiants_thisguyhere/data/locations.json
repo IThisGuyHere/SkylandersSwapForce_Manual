@@ -1697,7 +1697,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15 and |@Skylander - Magic|"
+			"requires": "|Progressive Chapter:15| and |@Skylander - Magic|"
 		},
 		{
 			"name": "Chest - Fire Battle",
@@ -1706,7 +1706,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15 and |@Skylander - Fire|"
+			"requires": "|Progressive Chapter:15| and |@Skylander - Fire|"
 		},
 		{
 			"name": "Chest - Hazard Despository",
@@ -1724,7 +1724,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15 and |@Skylander - Giant|"
+			"requires": "|Progressive Chapter:15| and |@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Secret Alcove",
@@ -2424,7 +2424,8 @@
 			"name": "Heroic Challenge - Hub Shop",
 			"region": "Hub",
 			"category": [
-				"Challenge"
+				"Challenge",
+				"Shop Item"
 			],
 			"requires": "|Progressive Chapter:2|"
 		},
@@ -2432,7 +2433,8 @@
 			"name": "Heroic Challenge - Chapter 4 Shop",
 			"region": "Hub",
 			"category": [
-				"Challenge"
+				"Challenge",
+				"Shop Item"
 			],
 			"requires": "|Progressive Chapter:4|"
 		},
@@ -2440,7 +2442,8 @@
 			"name": "Heroic Challenge - Chapter 8 Shop",
 			"region": "Hub",
 			"category": [
-				"Challenge"
+				"Challenge",
+				"Shop Item"
 			],
 			"requires": "|Progressive Chapter:8|"
 		},
@@ -2448,7 +2451,8 @@
 			"name": "Heroic Challenge - Chapter 10 Shop",
 			"region": "Hub",
 			"category": [
-				"Challenge"
+				"Challenge",
+				"Shop Item"
 			],
 			"requires": "|Progressive Chapter:10|"
 		},

@@ -51,6 +51,10 @@
         "yaml_option": ["challenges_as_locations"],
         "hidden": false
     },
+    "Shop Item": {
+        "yaml_option": ["shopsanity"],
+        "hidden": true
+    },
     "Add-on": {
         "hidden": true
     },
