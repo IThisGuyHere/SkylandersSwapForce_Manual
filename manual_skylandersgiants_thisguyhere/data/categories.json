@@ -27,6 +27,12 @@
     "Winged Sapphire": {
         "hidden": true
     },
+    "Luck-O-Tron Wheel Collection": {
+        "hidden": true
+    },
+    "Skystones": {
+        "hidden": true
+    },
     "Generic Upgrade": {
         "yaml_option": ["!per_element_upgrades"],
         "hidden": true
@@ -41,6 +47,9 @@
     },
     "Series 1": {
         "yaml_option": ["old_gen_skylanders"],
+        "hidden": true
+    },
+    "Series 2": {
         "hidden": true
     },
     "Element": {
@@ -80,6 +89,12 @@
     },
     "Battle Pack": {
         "yaml_option": ["battle_packs"],
+        "hidden": true
+    },
+    "Scorpion Striker Pack": {
+        "hidden": true
+    },
+    "Dragonfire Cannon Pack": {
         "hidden": true
     },
     "Traps": {
