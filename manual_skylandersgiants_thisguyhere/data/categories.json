@@ -47,6 +47,10 @@
     "Series 2": {
         "hidden": true
     },
+    "Skylander - Fast": {
+        "yaml_option": ["characters_as_items"],
+        "hidden": true
+    },
     "Element": {
         "yaml_option": ["!characters_as_items"],
         "hidden": true

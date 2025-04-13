@@ -957,7 +957,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:3| and |@Skylander - Giant|"
+			"requires": "|Progressive Chapter:7| and |@Skylander - Giant|"
 		},
 		{
 			"name": "Fire Sale Paint Job",
@@ -1364,7 +1364,7 @@
 				"Chest Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5|"
+			"requires": "|Progressive Chapter:5| and |@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Forgotten Caverns #1",
@@ -1466,7 +1466,7 @@
 			"requires": "|Progressive Chapter:8|"
 		},
 		{
-			"name": "Chest - Frightful Filtration Pools",
+			"name": "Chest - Secret Cave",
 			"region": "Chapter 8",
 			"category": [
 				"Chest Collection",
@@ -1956,7 +1956,7 @@
 				"Soul Gem Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Giant|"
+			"requires": "|Progressive Chapter:2| and (|@Skylander - Giant| or (|@Skylander - Earth| and |@Skylander - Fast|))"
 		},
 		{
 			"name": "Soul Gem - Hot Dog",
@@ -2456,6 +2456,8 @@
 			],
 			"requires": "|Progressive Chapter:10|"
 		},
+
+
 		{
 			"name": "Skystones - Bottle Top Inn",
 			"region": "Chapter 2",
@@ -2547,15 +2549,6 @@
 			"requires": "|Progressive Chapter:7|"
 		},
 		{
-			"name": "Skystones - Failing Fields",
-			"region": "Chapter 8",
-			"category": [
-				"Skystones",
-				"Chapter 08"
-			],
-			"requires": "|Progressive Chapter:8|"
-		},
-		{
 			"name": "Skystones - Secret Cave",
 			"region": "Chapter 8",
 			"category": [
@@ -2563,6 +2556,15 @@
 				"Chapter 08"
 			],
 			"requires": "|Progressive Chapter:8| and |@Skylander - Water|"
+		},
+		{
+			"name": "Skystones - Cheese Cavern",
+			"region": "Chapter 8",
+			"category": [
+				"Skystones",
+				"Chapter 08"
+			],
+			"requires": "|Progressive Chapter:8|"
 		},
 		{
 			"name": "Skystones - Game of Chance",
@@ -2654,13 +2656,197 @@
 			],
 			"requires": "|Progressive Chapter:16|"
 		},
+
+
+		{
+			"name": "Winged Sapphire - Forgotten Path",
+			"region": "Chapter 1",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 01"
+			],
+			"requires": "|@Skylander - Giant|"
+		},
+		{
+			"name": "Winged Sapphire - The Last Stand",
+			"region": "Chapter 2",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 02"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Cap'n Flynn's Ship 1",
+			"region": "Chapter 2",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 02"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Shadow Grove",
+			"region": "Chapter 3",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 03"
+			],
+			"requires": "|@Skylander - Life|"
+		},
+		{
+			"name": "Winged Sapphire - Loading Platform 3",
+			"region": "Chapter 4",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 04"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Icy Drain",
+			"region": "Chapter 5",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 05"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Cap'n Flynn's Ship 2",
+			"region": "Chapter 5",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 05"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Vault Inner Workings",
+			"region": "Chapter 6",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 06"
+			],
+			"requires": "|@Skylander - Tech|"
+		},
+		{
+			"name": "Winged Sapphire - Isle of the Wilikins",
+			"region": "Chapter 7",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 07"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Coal Stack",
+			"region": "Chapter 8",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 08"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Mechanized Whirlygig",
+			"region": "Chapter 9",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 09"
+			],
+			"requires": "|@Skylander - Tech|"
+		},
+		{
+			"name": "Winged Sapphire - Cap'n Flynn's Ship 3",
+			"region": "Chapter 9",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 09"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - The Spectral Dreadnought",
+			"region": "Chapter 10",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 10"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Utility Deck",
+			"region": "Chapter 11",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 11"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Razor Box",
+			"region": "Chapter 12",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 12"
+			],
+			"requires": "|@Skylander - Tech|"
+		},
+		{
+			"name": "Winged Sapphire - Trial of Courage: Spiders",
+			"region": "Chapter 13",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 13"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - The Machine",
+			"region": "Chapter 14",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 14"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Cap'n Flynn's Ship 4",
+			"region": "Chapter 14",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 14"
+			],
+			"requires": []
+		},
+		{
+			"name": "Winged Sapphire - Batterson's Stovetop",
+			"region": "Chapter 15",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 15"
+			],
+			"requires": "|@Skylander - Fire|"
+		},
+		{
+			"name": "Winged Sapphire - The Bomb Hole",
+			"region": "Chapter 16",
+			"category": [
+				"Winged Sapphire",
+				"Chapter 16"
+			],
+			"requires": []
+		},
+
+
 		{
 			"name": "Arena 1 - Stop the Spell",
 			"region": "Arena Battles",
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 1 - Smoke Screen",
@@ -2668,7 +2854,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 1 - Cloudy Curse",
@@ -2676,7 +2862,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 1 - Present Protector",
@@ -2684,7 +2870,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 1 - Spell Dodger",
@@ -2692,7 +2878,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 1 - Force Field Frenzy",
@@ -2700,7 +2886,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 1 - The Perfect Game",
@@ -2708,7 +2894,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": "|Progressive Chapter:3|"
 		},
 		{
 			"name": "Arena 2 - Don't Beam Me Up!",
@@ -2829,7 +3015,7 @@
 				"Perfection",
 				"Chapter 01"
 			],
-			"requires": "|Progressive Chapter:1| and |@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Air| and |@Skylander - Undead|"
+			"requires": "|Progressive Chapter:1| and |@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Junkyard Isles Perfection",
@@ -2838,7 +3024,7 @@
 				"Perfection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fire|"
+			"requires": "|Progressive Chapter:2| and |@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Rumbletown Perfection",
@@ -2847,7 +3033,7 @@
 				"Perfection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3| and |@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Life|"
+			"requires": "|Progressive Chapter:3| and |@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Life| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Cutthroat Carnival Perfection",
@@ -2856,7 +3042,7 @@
 				"Perfection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4| and |@Skylander - Giant| and |@Skylander - Air| and |@Skylander - Undead|"
+			"requires": "|Progressive Chapter:4| and |@Skylander - Giant| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Glacier Gully Perfection",
@@ -2865,7 +3051,7 @@
 				"Perfection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5| and |@Skylander - Giant| and |@Skylander - Magic| and |@Skylander - Fire|"
+			"requires": "|Progressive Chapter:5| and |@Skylander - Giant| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Secret Vault of Secrets Perfection",
@@ -2874,7 +3060,7 @@
 				"Perfection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6| and |@Skylander - Giant| and |@Skylander - Tech|"
+			"requires": "|Progressive Chapter:6| and |@Skylander - Giant| and |@Skylander - Tech| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Wilikin Village Perfection",
@@ -2883,7 +3069,7 @@
 				"Perfection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7| and |@Skylander - Giant| and |@Skylander - Earth|"
+			"requires": "|Progressive Chapter:7| and |@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Troll Home Security Perfection",
@@ -2892,7 +3078,7 @@
 				"Perfection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Giant| and |@Skylander - Water|"
+			"requires": "|Progressive Chapter:8| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Kaos' Kastle Perfection",
@@ -2901,7 +3087,7 @@
 				"Perfection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9| and |@Skylander - Giant|  and |@Skylander - Tech| and |@Skylander - Magic|"
+			"requires": "|Progressive Chapter:9| and |@Skylander - Giant|  and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Aerial Attack Perfection",
@@ -2910,7 +3096,7 @@
 				"Perfection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Air|"
+			"requires": "|Progressive Chapter:10| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Air| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Drill-X's Big Rig Perfection",
@@ -2919,7 +3105,7 @@
 				"Perfection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11| and |@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Earth|"
+			"requires": "|Progressive Chapter:11| and |@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Earth| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Molekin Mountain Perfection",
@@ -2928,7 +3114,7 @@
 				"Perfection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12| and |@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Tech|"
+			"requires": "|Progressive Chapter:12| and |@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Fast|"
 		},
 		{
 			"name": "The Oracle Perfection",
@@ -2946,7 +3132,7 @@
 				"Perfection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14| and |@Skylander - Undead| and |@Skylander - Water|"
+			"requires": "|Progressive Chapter:14| and |@Skylander - Undead| and |@Skylander - Water| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Lost City of Arkus Perfection",
@@ -2955,7 +3141,7 @@
 				"Perfection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Magic| and |@Skylander - Fire|"
+			"requires": "|Progressive Chapter:15| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Bringing Order to Kaos Perfection",
@@ -2964,7 +3150,7 @@
 				"Perfection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16| and |@Skylander - Earth| and |@Skylander - Magic|"
+			"requires": "|Progressive Chapter:16| and |@Skylander - Earth| and |@Skylander - Magic| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Empire of Ice Perfection",
@@ -2975,7 +3161,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|@Skylander - Undead|"
+			"requires": "|@Skylander - Undead| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Pirate Seas Perfection",
@@ -2986,7 +3172,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|@Skylander - Life|"
+			"requires": "|@Skylander - Life| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Darklight Crypt Perfection",
@@ -2997,7 +3183,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|@Skylander - Fire|"
+			"requires": "|@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Dragon's Peak Perfection",
@@ -3008,7 +3194,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|@Skylander - Air|"
+			"requires": "|@Skylander - Air| and |@Skylander - Fast|"
 		},
 		{
 			"name": "All Levels Perfected",
