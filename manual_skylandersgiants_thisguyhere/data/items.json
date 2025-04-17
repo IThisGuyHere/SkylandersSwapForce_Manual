@@ -822,11 +822,22 @@
 			"Active Item", "Battle Pack", "Dragonfire Cannon Pack"
 		],
 		"useful": true
-	},{
+	},
+	{
 		"count": 1,
 		"name": "Scorpion Striker Catapult",
 		"category": [
 			"Active Item", "Battle Pack", "Scorpion Striker Pack"
+		],
+		"useful": true
+	},
+
+
+	{
+		"count": 4,
+		"name": "Progressive Luck-o-tron Slot",
+		"category": [
+			"Miscellaneous"
 		],
 		"useful": true
 	},
