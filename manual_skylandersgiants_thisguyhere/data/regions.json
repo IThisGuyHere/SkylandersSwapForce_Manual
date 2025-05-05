@@ -4,123 +4,129 @@
     "connects_to": [
       "Chapter 2"
     ],
-    "starting": true,
-    "requires": []
+    "requires": "|Progressive Chapter:1| or |Time of the Giants|",
+    "starting": true
   },
   "Chapter 2": {
     "connects_to": [
-      "Chapter 3", "Hub", "Darklight Crypt", "Dragon's Peak", "Empire of Ice", "Pirate Seas"
+      "Chapter 3", "Hub"
     ],
-    "requires": "|Progressive Chapter:2|"
+    "requires": "|Progressive Chapter:2| or |Junkyard Isles|"
   },
   "Chapter 3": {
     "connects_to": [
       "Chapter 4"
     ],
-    "requires": "|Progressive Chapter:3|"
+    "requires": "|Progressive Chapter:3| or |Rumbletown|"
   },
   "Chapter 4": {
     "connects_to": [
       "Chapter 5"
     ],
-    "requires": "|Progressive Chapter:4|"
+    "requires": "|Progressive Chapter:4| or |Cutthroat Carnival|"
   },
   "Chapter 5": {
     "connects_to": [
       "Chapter 6"
     ],
-    "requires": "|Progressive Chapter:5|"
+    "requires": "|Progressive Chapter:5| or |Glacier Gully|"
   },
   "Chapter 6": {
     "connects_to": [
       "Chapter 7"
     ],
-    "requires": "|Progressive Chapter:6|"
+    "requires": "|Progressive Chapter:6| or |Secret Vault of Secrets|"
   },
   "Chapter 7": {
     "connects_to": [
       "Chapter 8"
     ],
-    "requires": "|Progressive Chapter:7|"
+    "requires": "|Progressive Chapter:7| or |Wilikin Village|"
   },
   "Chapter 8": {
     "connects_to": [
       "Chapter 9"
     ],
-    "requires": "|Progressive Chapter:8|"
+    "requires": "|Progressive Chapter:8| or |Troll Home Security|"
   },
   "Chapter 9": {
     "connects_to": [
       "Chapter 10"
     ],
-    "requires": "|Progressive Chapter:9|"
+    "requires": "|Progressive Chapter:9| or |Kaos' Kastle|"
   },
   "Chapter 10": {
     "connects_to": [
       "Chapter 11"
     ],
-    "requires": "|Progressive Chapter:10|"
+    "requires": "|Progressive Chapter:10| or |Aerial Attack!|"
   },
   "Chapter 11": {
     "connects_to": [
       "Chapter 12"
     ],
-    "requires": "|Progressive Chapter:11|"
+    "requires": "|Progressive Chapter:11| or |Drill-X's Big Rig|"
   },
   "Chapter 12": {
     "connects_to": [
       "Chapter 13"
     ],
-    "requires": "|Progressive Chapter:12|"
+    "requires": "|Progressive Chapter:12| or |Molekin Mountain|"
   },
   "Chapter 13": {
     "connects_to": [
       "Chapter 14"
     ],
-    "requires": "|Progressive Chapter:13|"
+    "requires": "|Progressive Chapter:13| or |The Oracle|"
   },
   "Chapter 14": {
     "connects_to": [
       "Chapter 15"
     ],
-    "requires": "|Progressive Chapter:14|"
+    "requires": "|Progressive Chapter:14| or |Autogyro Adventure|"
   },
   "Chapter 15": {
     "connects_to": [
       "Chapter 16"
     ],
-    "requires": "|Progressive Chapter:15|"
+    "requires": "|Progressive Chapter:15| or |Lost City of Arkus|"
   },
   "Chapter 16": {
     "connects_to": [],
-    "requires": "|Progressive Chapter:16|"
+    "requires": "|Progressive Chapter:16| or |Bringing Order to Kaos!|"
+  },
+  "Final Boss": {
+    "connects_to": [],
+    "requires": "|Progressive Chapter:16| or ({OptOneDynamic(Map to Arkus Fragment:chapters_to_beat)} and {YamlDisabled(linear_mode)})"
   },
 
 
   "Hub": {
-    "connects_to": [],
-    "requires": "|Progressive Chapter:2|"
+    "connects_to": [
+      "Darklight Crypt", "Dragon's Peak", "Empire of Ice", "Pirate Seas", "Arena Battles", "Final Boss"
+    ],
+    "requires": "|Progressive Chapter:2| or {YamlDisabled(linear_mode)}"
   },
    "Arena Battles": {
     "connects_to": [],
-    "requires": "|Progressive Chapter:4|"
+    "requires": "|Progressive Chapter:3| or {YamlDisabled(linear_mode)}"
   },
 
   "Empire of Ice": {
     "connects_to": [],
-    "requires": "|Empire of Ice| and |Progressive Chapter:2|"
+    "requires": "|Empire of Ice| and (|Progressive Chapter:2| or {YamlDisabled(linear_mode)})"
   },
   "Pirate Seas": {
     "connects_to": [],
-    "requires": "|Pirate Seas| and |Progressive Chapter:2|"
+    "requires": "|Pirate Seas| and (|Progressive Chapter:2| or {YamlDisabled(linear_mode)})"
   },
   "Darklight Crypt": {
     "connects_to": [],
-    "requires": "|Darklight Crypt| and |Progressive Chapter:2|"
+    "requires": "|Darklight Crypt| and (|Progressive Chapter:2| or {YamlDisabled(linear_mode)})"
   },
   "Dragon's Peak": {
     "connects_to": [],
-    "requires": "|Dragon's Peak| and |Progressive Chapter:2|"
+    "requires": "|Dragon's Peak| and (|Progressive Chapter:2| or {YamlDisabled(linear_mode)})"
   }
   
 }

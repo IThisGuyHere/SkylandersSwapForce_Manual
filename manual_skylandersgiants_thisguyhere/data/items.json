@@ -3,7 +3,135 @@
 		"count": "18",
 		"name": "Progressive Chapter",
 		"category": [
-			"Chapter"
+			"Chapter", "Linear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Time of the Giants",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Junkyard Isles",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Rumbletown",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Cutthroat Carnival",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Glacier Gully",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Secret Vault of Secrets",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Wilikin Village",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Troll Home Security",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Kaos' Kastle",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Aerial Attack!",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Drill-X's Big Rig",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Molekin Mountain",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "The Oracle",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Autogyro Adventure",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Lost City of Arkus",
+		"category": [
+			"Chapter", "Nonlinear"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Bringing Order to Kaos!",
+		"category": [
+			"Chapter", "Nonlinear"
 		],
 		"progression": true
 	},
@@ -874,5 +1002,14 @@
 			"Traps", "Hard Traps"
 		],
 		"trap": true
+	},
+
+	{
+		"count": 16,
+		"name": "Map to Arkus Fragment",
+		"category": [
+			"Nonlinear"
+		],
+		"progression": true
 	}
 ]

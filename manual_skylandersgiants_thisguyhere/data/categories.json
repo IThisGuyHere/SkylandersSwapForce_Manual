@@ -21,6 +21,14 @@
     "Chapter": {
         "hidden": false
     },
+    "Linear": {
+        "yaml_option": ["linear_mode"],
+        "hidden": true
+    },
+    "Nonlinear": {
+        "yaml_option": ["!linear_mode"],
+        "hidden": true
+    },
     "Soul Abilities": {
         "hidden": false
     },

@@ -17,7 +17,7 @@
 				"Level Completion",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Rumbletown",
@@ -26,7 +26,7 @@
 				"Level Completion",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Cutthroat Carnival",
@@ -35,7 +35,7 @@
 				"Level Completion",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Glacier Gully",
@@ -44,7 +44,7 @@
 				"Level Completion",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5|"
+			"requires": []
 		},
 		{
 			"name": "Secret Vault of Secrets",
@@ -53,7 +53,7 @@
 				"Level Completion",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6|"
+			"requires": []
 		},
 		{
 			"name": "Wilikin Village",
@@ -62,7 +62,7 @@
 				"Level Completion",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Troll Home Security",
@@ -71,7 +71,7 @@
 				"Level Completion",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8|"
+			"requires": []
 		},
 		{
 			"name": "Kaos' Kastle",
@@ -80,7 +80,7 @@
 				"Level Completion",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"name": "Aerial Attack!",
@@ -89,7 +89,7 @@
 				"Level Completion",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10|"
+			"requires": []
 		},
 		{
 			"name": "Drill-X's Big Rig",
@@ -98,7 +98,7 @@
 				"Level Completion",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11|"
+			"requires": []
 		},
 		{
 			"name": "Molekin Mountain",
@@ -107,7 +107,7 @@
 				"Level Completion",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": []
 		},
 		{
 			"name": "The Oracle",
@@ -116,7 +116,7 @@
 				"Level Completion",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Autogyro Adventure",
@@ -125,7 +125,7 @@
 				"Level Completion",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"name": "Lost City of Arkus",
@@ -134,7 +134,7 @@
 				"Level Completion",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15|"
+			"requires": []
 		},
 		{
 			"name": "Bringing Order to Kaos!",
@@ -143,7 +143,7 @@
 				"Level Completion",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 		{
 			"name": "Empire of Ice",
@@ -154,7 +154,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Pirate Seas",
@@ -165,7 +165,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Darklight Crypt",
@@ -176,7 +176,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Dragon's Peak",
@@ -187,16 +187,16 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Defeat Kaos",
-			"region": "Chapter 16",
+			"region": "Final Boss",
 			"victory": true,
 			"category": [
 				"Goal"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 
 
@@ -912,7 +912,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Eagle Pilot Roof House",
@@ -921,7 +921,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Skull Masthead",
@@ -930,7 +930,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Floral Reef Paint Job",
@@ -939,7 +939,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5|"
+			"requires": []
 		},
 		{
 			"name": "Stripes Ahoy Paint Job",
@@ -948,7 +948,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6|"
+			"requires": []
 		},
 		{
 			"name": "Eagle Engine",
@@ -957,7 +957,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Fire Sale Paint Job",
@@ -966,7 +966,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Water|"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Dragon Engine",
@@ -975,7 +975,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 10",
@@ -984,7 +984,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10| and |@Skylander - Air|"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"region": "Chapter 11",
@@ -993,7 +993,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 12",
@@ -1002,7 +1002,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 13",
@@ -1011,7 +1011,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 14",
@@ -1020,7 +1020,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 15",
@@ -1029,7 +1029,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15|"
+			"requires": []
 		},
 		{
 			"region": "Chapter 16",
@@ -1038,7 +1038,7 @@
 				"Legendary Treasure Collection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 
 
@@ -1085,7 +1085,7 @@
 				"Chest Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Hephaestus Chain",
@@ -1094,7 +1094,7 @@
 				"Chest Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Forgotten Reach",
@@ -1103,7 +1103,7 @@
 				"Chest Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Under Mines",
@@ -1112,7 +1112,7 @@
 				"Chest Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Earth|"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"name": "Chest - Cavern of Echoing Nibbles",
@@ -1121,7 +1121,7 @@
 				"Chest Collection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Weed Whisper Home",
@@ -1130,7 +1130,7 @@
 				"Chest Collection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3| and |@Skylander - Life|"
+			"requires": "|@Skylander - Life|"
 		},
 		{
 			"name": "Chest - Lost Well",
@@ -1139,7 +1139,7 @@
 				"Chest Collection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Loglifter's secret place",
@@ -1148,7 +1148,7 @@
 				"Chest Collection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Janitor's Lounge",
@@ -1157,7 +1157,7 @@
 				"Chest Collection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Oar and Plank",
@@ -1166,7 +1166,7 @@
 				"Chest Collection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Galleon",
@@ -1175,7 +1175,7 @@
 				"Chest Collection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Undead Wastes",
@@ -1184,7 +1184,7 @@
 				"Chest Collection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4| and |@Skylander - Undead|"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Chest - Windy Reach",
@@ -1193,7 +1193,7 @@
 				"Chest Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Burnt Depths",
@@ -1202,7 +1202,7 @@
 				"Chest Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5| and |@Skylander - Fire|"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Chest - Chilled Bowl",
@@ -1211,7 +1211,7 @@
 				"Chest Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Island of Ice",
@@ -1220,7 +1220,7 @@
 				"Chest Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Forgotten Caverns #1",
@@ -1229,7 +1229,7 @@
 				"Chest Collection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Forgotten Caverns #2",
@@ -1238,7 +1238,7 @@
 				"Chest Collection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Logger's Corner",
@@ -1247,7 +1247,7 @@
 				"Chest Collection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Vault Inner Workings",
@@ -1256,7 +1256,7 @@
 				"Chest Collection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6| and |@Skylander - Tech|"
+			"requires": "|@Skylander - Tech|"
 		},
 		{
 			"name": "Chest - Isle of the Wilikins",
@@ -1265,7 +1265,7 @@
 				"Chest Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Helena's Home",
@@ -1274,7 +1274,7 @@
 				"Chest Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Wing Caves",
@@ -1283,7 +1283,7 @@
 				"Chest Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - The Cliffside Path",
@@ -1292,7 +1292,7 @@
 				"Chest Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Anchored Island",
@@ -1301,7 +1301,7 @@
 				"Chest Collection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Puzzling Cavern",
@@ -1310,7 +1310,7 @@
 				"Chest Collection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Cheese Cavern",
@@ -1319,7 +1319,7 @@
 				"Chest Collection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Secret Cave",
@@ -1328,7 +1328,7 @@
 				"Chest Collection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Water|"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Chest - Shackled Island",
@@ -1337,7 +1337,7 @@
 				"Chest Collection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - The Ethereal Ballroom",
@@ -1346,7 +1346,7 @@
 				"Chest Collection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9| and |@Skylander - Magic|"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Chest - The Aviary",
@@ -1355,7 +1355,7 @@
 				"Chest Collection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - The Man Cave",
@@ -1364,7 +1364,7 @@
 				"Chest Collection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Ghost Ship",
@@ -1373,7 +1373,7 @@
 				"Chest Collection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Fishy River Rapids",
@@ -1382,7 +1382,7 @@
 				"Chest Collection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10| and |@Skylander - Giant| and |@Skylander - Water|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Water|"
 		},
 		{
 			"name": "Chest - Fishy River Cavern",
@@ -1391,7 +1391,7 @@
 				"Chest Collection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10| and |@Skylander - Giant| and |@Skylander - Water|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Water|"
 		},
 		{
 			"name": "Chest - Dragon's Tower",
@@ -1400,7 +1400,7 @@
 				"Chest Collection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Aux Storage Area",
@@ -1409,7 +1409,7 @@
 				"Chest Collection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Golem's Fortune",
@@ -1418,7 +1418,7 @@
 				"Chest Collection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Centrifuge",
@@ -1427,7 +1427,7 @@
 				"Chest Collection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Landing Deck",
@@ -1436,7 +1436,7 @@
 				"Chest Collection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11| and |@Skylander - Earth|"
+			"requires": "|@Skylander - Earth|"
 		},
 		{
 			"name": "Chest - Titan Crossing",
@@ -1445,7 +1445,7 @@
 				"Chest Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - The Dirt Room",
@@ -1454,7 +1454,7 @@
 				"Chest Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Sunrock Peak",
@@ -1463,7 +1463,7 @@
 				"Chest Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Under Mountain Mechanogear",
@@ -1472,7 +1472,7 @@
 				"Chest Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Trial of Valor: Princess",
@@ -1481,7 +1481,7 @@
 				"Chest Collection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Trial of Knowledge: Reflection",
@@ -1490,7 +1490,7 @@
 				"Chest Collection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Trial of Knowledge: Puzzle",
@@ -1499,7 +1499,7 @@
 				"Chest Collection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Trial of Strength: Speed",
@@ -1508,7 +1508,7 @@
 				"Chest Collection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Hidden Crypt",
@@ -1517,7 +1517,7 @@
 				"Chest Collection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14| and |@Skylander - Undead|"
+			"requires": "|@Skylander - Undead|"
 		},
 		{
 			"name": "Chest - Auric's Hidden Vault",
@@ -1526,7 +1526,7 @@
 				"Chest Collection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Cold Storage Area A",
@@ -1535,7 +1535,7 @@
 				"Chest Collection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Machine",
@@ -1544,7 +1544,7 @@
 				"Chest Collection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Inside the Tomb",
@@ -1553,7 +1553,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15| and |@Skylander - Magic|"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Chest - Fire Battle",
@@ -1562,7 +1562,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15| and |@Skylander - Fire|"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Chest - Hazard Despository",
@@ -1571,7 +1571,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Treasure Cave",
@@ -1580,7 +1580,7 @@
 				"Chest Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Chest - Secret Alcove",
@@ -1589,7 +1589,7 @@
 				"Chest Collection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Crumbling Vista",
@@ -1598,7 +1598,7 @@
 				"Chest Collection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Evershifting Hall #2",
@@ -1607,7 +1607,7 @@
 				"Chest Collection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16| and |@Skylander - Magic|"
+			"requires": "|@Skylander - Magic|"
 		},
 		{
 			"name": "Chest - Stone Cutter's Vault",
@@ -1616,7 +1616,7 @@
 				"Chest Collection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Maze of Obelisks",
@@ -1627,7 +1627,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Altar of Eyes",
@@ -1638,7 +1638,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Pits",
@@ -1649,7 +1649,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - The Winter Wall",
@@ -1660,7 +1660,7 @@
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Pirate Training Grounds",
@@ -1671,7 +1671,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Shipwright's Square",
@@ -1682,7 +1682,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Fountain Square",
@@ -1693,7 +1693,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Coconut Islands",
@@ -1704,7 +1704,7 @@
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Water|"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Chest - Haunted Courtyard",
@@ -1715,7 +1715,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Forest Walk",
@@ -1726,7 +1726,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Haunted Village",
@@ -1737,7 +1737,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Hedge Maze",
@@ -1748,7 +1748,7 @@
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Dragon Cliffs",
@@ -1759,7 +1759,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Sunburn's Rest",
@@ -1770,7 +1770,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Path of Challenges",
@@ -1781,7 +1781,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Chest - Elder Dragon Throne",
@@ -1792,7 +1792,7 @@
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 
 
@@ -1812,7 +1812,7 @@
 				"Soul Gem Collection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and (|@Skylander - Giant| or (|@Skylander - Earth| and |@Skylander - Fast|))"
+			"requires": "(|@Skylander - Giant| or (|@Skylander - Earth| and |@Skylander - Fast|))"
 		},
 		{
 			"name": "Soul Gem - Hot Dog",
@@ -1821,7 +1821,7 @@
 				"Soul Gem Collection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Swarm",
@@ -1830,7 +1830,7 @@
 				"Soul Gem Collection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Thumpback",
@@ -1839,7 +1839,7 @@
 				"Soul Gem Collection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Bouncer",
@@ -1848,7 +1848,7 @@
 				"Soul Gem Collection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Pop Fizz",
@@ -1857,7 +1857,7 @@
 				"Soul Gem Collection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Crusher",
@@ -1866,7 +1866,7 @@
 				"Soul Gem Collection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Soul Gem - Ninjini",
@@ -1875,7 +1875,7 @@
 				"Soul Gem Collection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Fright Rider",
@@ -1884,7 +1884,7 @@
 				"Soul Gem Collection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10| and |@Skylander - Air|"
+			"requires": "|@Skylander - Air|"
 		},
 		{
 			"name": "Soul Gem - Sprocket",
@@ -1893,7 +1893,7 @@
 				"Soul Gem Collection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Tree Rex",
@@ -1902,7 +1902,7 @@
 				"Soul Gem Collection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Eye-Brawl",
@@ -1911,7 +1911,7 @@
 				"Soul Gem Collection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Jet-Vac",
@@ -1920,7 +1920,7 @@
 				"Soul Gem Collection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Chill",
@@ -1929,7 +1929,7 @@
 				"Soul Gem Collection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15|"
+			"requires": []
 		},
 		{
 			"name": "Soul Gem - Flashwing",
@@ -1938,7 +1938,7 @@
 				"Soul Gem Collection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 		{
 			"name": "Heroic Challenge - Jet-Vac",
@@ -1946,7 +1946,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Jet-Vac|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Jet-Vac|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Fright Rider",
@@ -1956,7 +1956,7 @@
 				"Add-on",
 				"Darklight Crypt Pack"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Fright Rider|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Fright Rider|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Wrecking Ball",
@@ -1964,7 +1964,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Wrecking Ball|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Wrecking Ball|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Spyro",
@@ -1972,7 +1972,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Spyro|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Spyro|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Prism Break",
@@ -1980,7 +1980,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Prism Break|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Prism Break|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Lightning Rod",
@@ -1988,7 +1988,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Lightning Rod|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Lightning Rod|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Hex",
@@ -1996,7 +1996,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Hex|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Hex|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Flashwing",
@@ -2004,7 +2004,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Flashwing|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Flashwing|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Bash",
@@ -2012,7 +2012,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Bash|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Bash|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Cynder",
@@ -2020,7 +2020,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Cynder|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Cynder|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Ignitor",
@@ -2028,7 +2028,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Ignitor|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Ignitor|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Stump Smash",
@@ -2036,7 +2036,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Stump Smash|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Stump Smash|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Chop Chop",
@@ -2044,7 +2044,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Chop Chop|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Chop Chop|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Sonic Boom",
@@ -2052,7 +2052,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Sonic Boom|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Sonic Boom|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Drobot",
@@ -2060,7 +2060,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Drobot|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Drobot|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Terrafin",
@@ -2070,7 +2070,7 @@
 				"Add-on",
 				"Pirate Seas Pack"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Terrafin|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Terrafin|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Hot Dog",
@@ -2080,7 +2080,7 @@
 				"Add-on",
 				"Dragon's Peak Pack"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Hot Dog|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Hot Dog|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Trigger Happy",
@@ -2088,7 +2088,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Trigger Happy|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Trigger Happy|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Eruptor",
@@ -2096,7 +2096,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Eruptor|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Eruptor|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Double Trouble",
@@ -2104,7 +2104,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Double Trouble|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Double Trouble|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Stealth Elf",
@@ -2112,7 +2112,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Stealth Elf|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Stealth Elf|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Whirlwind",
@@ -2120,7 +2120,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Whirlwind|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Whirlwind|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Pop Fizz",
@@ -2128,7 +2128,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Pop Fizz|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Pop Fizz|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Chill",
@@ -2136,7 +2136,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Chill|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Chill|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Shroomboom",
@@ -2144,7 +2144,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Shroomboom|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Shroomboom|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Zook",
@@ -2152,7 +2152,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Zook|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Zook|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Flameslinger",
@@ -2160,7 +2160,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Flameslinger|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Flameslinger|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Sprocket",
@@ -2168,7 +2168,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Sprocket|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Sprocket|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Gill Grunt",
@@ -2176,7 +2176,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Gill Grunt|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Gill Grunt|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Drill Sergeant",
@@ -2184,7 +2184,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Drill Sergeant|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Drill Sergeant|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Slam Bam",
@@ -2194,7 +2194,7 @@
 				"Add-on",
 				"Empire of Ice Pack"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Slam Bam|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Slam Bam|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Zap",
@@ -2202,7 +2202,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Zap|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Zap|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Thumpback",
@@ -2210,7 +2210,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Thumpback|) or ({YamlDisabled(characters_as_items)} and |All Water Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Thumpback|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Hot Head",
@@ -2218,7 +2218,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Hot Head|) or ({YamlDisabled(characters_as_items)} and |All Fire Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Hot Head|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Ninjini",
@@ -2226,7 +2226,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Ninjini|) or ({YamlDisabled(characters_as_items)} and |All Magic Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Ninjini|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Swarm",
@@ -2234,7 +2234,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Swarm|) or ({YamlDisabled(characters_as_items)} and |All Air Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Swarm|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Crusher",
@@ -2242,7 +2242,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Crusher|) or ({YamlDisabled(characters_as_items)} and |All Earth Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Crusher|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Bouncer",
@@ -2250,7 +2250,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Bouncer|) or ({YamlDisabled(characters_as_items)} and |All Tech Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Bouncer|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Tree Rex",
@@ -2258,7 +2258,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Tree Rex|) or ({YamlDisabled(characters_as_items)} and |All Life Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Tree Rex|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Eye-Brawl",
@@ -2266,7 +2266,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Eye-Brawl|) or ({YamlDisabled(characters_as_items)} and |All Undead Characters|)"
+			"requires": "({YamlEnabled(characters_as_items)} and |Eye-Brawl|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
 		},
 		{
 			"name": "Heroic Challenge - Default",
@@ -2274,7 +2274,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Heroic Challenge - Hub Shop",
@@ -2283,7 +2283,7 @@
 				"Challenge",
 				"Shop Item"
 			],
-			"requires": "|Progressive Chapter:2|"
+			"requires": []
 		},
 		{
 			"name": "Heroic Challenge - Chapter 4 Shop",
@@ -2292,7 +2292,7 @@
 				"Challenge",
 				"Shop Item"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Heroic Challenge - Chapter 8 Shop",
@@ -2301,7 +2301,7 @@
 				"Challenge",
 				"Shop Item"
 			],
-			"requires": "|Progressive Chapter:8|"
+			"requires": []
 		},
 		{
 			"name": "Heroic Challenge - Chapter 10 Shop",
@@ -2310,7 +2310,7 @@
 				"Challenge",
 				"Shop Item"
 			],
-			"requires": "|Progressive Chapter:10|"
+			"requires": []
 		},
 
 
@@ -2321,7 +2321,7 @@
 				"Skystones",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Guarded Tower",
@@ -2330,7 +2330,7 @@
 				"Skystones",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - House of Cards",
@@ -2339,7 +2339,7 @@
 				"Skystones",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - The Boat House",
@@ -2348,7 +2348,7 @@
 				"Skystones",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Pirate Prison",
@@ -2357,7 +2357,7 @@
 				"Skystones",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - The Crow's Nest",
@@ -2366,7 +2366,7 @@
 				"Skystones",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Burnt Depths",
@@ -2375,7 +2375,7 @@
 				"Skystones",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5| and |@Skylander - Fire|"
+			"requires": "|@Skylander - Fire|"
 		},
 		{
 			"name": "Skystones - Forgotten Caverns",
@@ -2384,7 +2384,7 @@
 				"Skystones",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Skystones - Rutherford's Game Room",
@@ -2393,7 +2393,7 @@
 				"Skystones",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Catherine's House",
@@ -2402,7 +2402,7 @@
 				"Skystones",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Secret Cave",
@@ -2411,7 +2411,7 @@
 				"Skystones",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Water|"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Skystones - Cheese Cavern",
@@ -2420,7 +2420,7 @@
 				"Skystones",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Game of Chance",
@@ -2429,7 +2429,7 @@
 				"Skystones",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - The Windswept Tower",
@@ -2438,7 +2438,7 @@
 				"Skystones",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - The Man Cave",
@@ -2447,7 +2447,7 @@
 				"Skystones",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Aux Hanger",
@@ -2456,7 +2456,7 @@
 				"Skystones",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11| and |@Skylander - Giant|"
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Skystones - Crystalsong Mines",
@@ -2465,7 +2465,7 @@
 				"Skystones",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Trial of Strength: Speed",
@@ -2474,7 +2474,7 @@
 				"Skystones",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Maze of Myth",
@@ -2483,7 +2483,7 @@
 				"Skystones",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Fractured Ledge",
@@ -2492,7 +2492,7 @@
 				"Skystones",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Arkeyan Well",
@@ -2501,7 +2501,7 @@
 				"Skystones",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 		{
 			"name": "Skystones - Hall of Archives",
@@ -2510,7 +2510,7 @@
 				"Skystones",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16|"
+			"requires": []
 		},
 
 
@@ -2702,7 +2702,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 1 - Smoke Screen",
@@ -2710,7 +2710,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 1 - Cloudy Curse",
@@ -2718,7 +2718,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 1 - Present Protector",
@@ -2726,7 +2726,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 1 - Spell Dodger",
@@ -2734,7 +2734,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 1 - Force Field Frenzy",
@@ -2742,7 +2742,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 1 - The Perfect Game",
@@ -2750,7 +2750,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:3|"
+			"requires": []
 		},
 		{
 			"name": "Arena 2 - Don't Beam Me Up!",
@@ -2758,7 +2758,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - No Chompies Allowed!",
@@ -2766,7 +2766,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - Fog of War",
@@ -2774,7 +2774,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - An Early Fall",
@@ -2782,7 +2782,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - Losing Ground",
@@ -2790,7 +2790,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - Sky Lasers",
@@ -2798,7 +2798,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - One Shot Thrill",
@@ -2806,7 +2806,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:9|"
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Sticky Situation",
@@ -2814,7 +2814,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Birthday Bash",
@@ -2822,7 +2822,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Trog Trouble",
@@ -2830,7 +2830,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Baaaaaaad Idea!",
@@ -2838,7 +2838,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Bubble Buster",
@@ -2846,7 +2846,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Icy Blast",
@@ -2854,7 +2854,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - You Only Live Once",
@@ -2862,7 +2862,7 @@
 			"category": [
 				"Arena Battles"
 			],
-			"requires": "|Progressive Chapter:12|"
+			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Time of the Giants Perfection",
@@ -2871,7 +2871,7 @@
 				"Perfection",
 				"Chapter 01"
 			],
-			"requires": "|Progressive Chapter:1| and |@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Junkyard Isles Perfection",
@@ -2880,7 +2880,7 @@
 				"Perfection",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:2| and |@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Rumbletown Perfection",
@@ -2889,7 +2889,7 @@
 				"Perfection",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:3| and |@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Life| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Life| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Cutthroat Carnival Perfection",
@@ -2898,7 +2898,7 @@
 				"Perfection",
 				"Chapter 04"
 			],
-			"requires": "|Progressive Chapter:4| and |@Skylander - Giant| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Glacier Gully Perfection",
@@ -2907,7 +2907,7 @@
 				"Perfection",
 				"Chapter 05"
 			],
-			"requires": "|Progressive Chapter:5| and |@Skylander - Giant| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Secret Vault of Secrets Perfection",
@@ -2916,7 +2916,7 @@
 				"Perfection",
 				"Chapter 06"
 			],
-			"requires": "|Progressive Chapter:6| and |@Skylander - Giant| and |@Skylander - Tech| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Tech| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Wilikin Village Perfection",
@@ -2925,7 +2925,7 @@
 				"Perfection",
 				"Chapter 07"
 			],
-			"requires": "|Progressive Chapter:7| and |@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Troll Home Security Perfection",
@@ -2934,7 +2934,7 @@
 				"Perfection",
 				"Chapter 08"
 			],
-			"requires": "|Progressive Chapter:8| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Kaos' Kastle Perfection",
@@ -2943,7 +2943,7 @@
 				"Perfection",
 				"Chapter 09"
 			],
-			"requires": "|Progressive Chapter:9| and |@Skylander - Giant|  and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant|  and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Aerial Attack Perfection",
@@ -2952,7 +2952,7 @@
 				"Perfection",
 				"Chapter 10"
 			],
-			"requires": "|Progressive Chapter:10| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Air| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Air| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Drill-X's Big Rig Perfection",
@@ -2961,7 +2961,7 @@
 				"Perfection",
 				"Chapter 11"
 			],
-			"requires": "|Progressive Chapter:11| and |@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Earth| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Earth| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Molekin Mountain Perfection",
@@ -2970,7 +2970,7 @@
 				"Perfection",
 				"Chapter 12"
 			],
-			"requires": "|Progressive Chapter:12| and |@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Fast|"
 		},
 		{
 			"name": "The Oracle Perfection",
@@ -2979,7 +2979,7 @@
 				"Perfection",
 				"Chapter 13"
 			],
-			"requires": "|Progressive Chapter:13|"
+			"requires": []
 		},
 		{
 			"name": "Autogyro Adventure Perfection",
@@ -2988,7 +2988,7 @@
 				"Perfection",
 				"Chapter 14"
 			],
-			"requires": "|Progressive Chapter:14| and |@Skylander - Undead| and |@Skylander - Water| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Undead| and |@Skylander - Water| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Lost City of Arkus Perfection",
@@ -2997,7 +2997,7 @@
 				"Perfection",
 				"Chapter 15"
 			],
-			"requires": "|Progressive Chapter:15| and |@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Bringing Order to Kaos Perfection",
@@ -3006,7 +3006,7 @@
 				"Perfection",
 				"Chapter 16"
 			],
-			"requires": "|Progressive Chapter:16| and |@Skylander - Earth| and |@Skylander - Magic| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Earth| and |@Skylander - Magic| and |@Skylander - Fast|"
 		},
 		{
 			"name": "Empire of Ice Perfection",
@@ -3059,7 +3059,7 @@
 			"category": [
 				"Goal"
 			],
-			"requires": "|Progressive Chapter:22| and ({YamlDisabled(include_crypt)} or |Darklight Crypt|) and ({YamlDisabled(include_empire)} or |Empire of Ice|) and ({YamlDisabled(include_ship)} or |Pirate Seas|) and ({YamlDisabled(include_peak)} or |Dragon's Peak|) and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic|"
+			"requires": "({YamlDisabled(include_crypt)} or |Darklight Crypt|) and ({YamlDisabled(include_empire)} or |Empire of Ice|) and ({YamlDisabled(include_ship)} or |Pirate Seas|) and ({YamlDisabled(include_peak)} or |Dragon's Peak|) and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic|"
 		}
 	]
 }

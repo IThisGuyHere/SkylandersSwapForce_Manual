@@ -38,6 +38,22 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
+
+
+    # if playing nonlinear mode, we need to place Map to Arkus Fragments in the chapter locations
+    if not get_option_value(multiworld, player, "linear_mode"):
+
+        extra_map_frags = get_option_value(multiworld, player, "include_empire") + get_option_value(multiworld, player, "include_ship") + get_option_value(multiworld, player, "include_crypt") + get_option_value(multiworld, player, "include_peak")
+        for item in item_table:
+            if item["name"] == 'Map to Arkus Fragment':
+                item["count"] = item["count"] + extra_map_frags
+
+        #from ..Locations import location_name_to_location
+
+        for location in location_table:
+            if "Level Completion" in location["category"]: 
+                location["place_item"] = ["Map to Arkus Fragment"]
+
     pass
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
@@ -56,6 +72,20 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
 
+    # in non-linear mode, we need to make the hub the new starting region and connect it to all chapters
+    if not get_option_value(multiworld, player, "linear_mode"):
+        chapters = []
+        for region in multiworld.regions:
+            if "Chapter" in region.name:
+                region.set_exits([])
+                chapters.append(region.name)
+        manual = multiworld.get_region("Manual", player)
+        manual.set_exits([])
+        manual.add_exits(["Hub"])
+
+        hub = multiworld.get_region("Hub", player)
+        hub.add_exits(chapters)     # need to also turn Hub into the starting region instead of chapter 1
+
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
@@ -67,6 +97,8 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     #
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
+    
+    
     names_to_remove = get_option_value(multiworld, player, "characters_to_exclude")
     use_character_whitelist = get_option_value(multiworld, player, "whitelist_characters")
     # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
@@ -88,15 +120,9 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
             # get rid of heroic challenges for removed characters
             if (get_option_value(multiworld, player, "challenges_as_locations")):
                 locationNamesToRemove.append("Heroic Challenge - " + item_name)
-            #print("Marked for removal: " + item_name)   # debug
-
-
-    #print("doing okay before actual deletion")  # debug
-    #print(itemNamesToRemove)    # debug
 
     for itemName in itemNamesToRemove:
-        #print("got inside removal loop with " + itemName)  # debug
-        item = next(i for i in item_pool if i.name == itemName) # SUNBURN ISN'T IN THE ITEM POOL
+        item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
         print("Successfully removed " + itemName)   # debug
 
@@ -122,10 +148,8 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # to the list multiple times if you want to remove multiple copies of it.
 
     for itemName in itemNamesToRemove:
-        #print("got inside removal loop with " + itemName)  # debug
-        item = next(i for i in item_pool if i.name == itemName) # SUNBURN ISN'T IN THE ITEM POOL
+        item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
-        print("Successfully removed " + itemName)   # debug
 
     return item_pool
 
