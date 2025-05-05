@@ -59,9 +59,12 @@ used. Level, money, and upgrades are reset.
 
 ## Ideas for the Future
 * ~~add chests as locations~~
-* ~~fairy gems as items~~
+* ~~winged sapphires as items~~
 * upgrade fairy as an item?
 * pacifist trap (only kill necessary enemies on next level and restart if you fail)
-* skystones?
+* ~~skystones?~~
+* progressive shops?
 * I don't want to add story scrolls because you rarely have to stray from the main path to get them. In my opinion,\
-most collectable locations should require *some* effort to reach
+most collectable locations should require *some* effort to reach, and there are too many locations right now
+
+Credit to emmet_is_a_birb for adding a bunch of locations and items when I was busy and correcting some of my logic
