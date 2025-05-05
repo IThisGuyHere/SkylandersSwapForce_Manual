@@ -103,11 +103,11 @@
 
   "Hub": {
     "connects_to": [
-      "Darklight Crypt", "Dragon's Peak", "Empire of Ice", "Pirate Seas", "Arena Battles", "Final Boss"
+      "Darklight Crypt", "Dragon's Peak", "Empire of Ice", "Pirate Seas", "Arenas", "Final Boss"
     ],
     "requires": "|Progressive Chapter:2| or {YamlDisabled(linear_mode)}"
   },
-   "Arena Battles": {
+   "Arenas": {
     "connects_to": [],
     "requires": "|Progressive Chapter:3| or {YamlDisabled(linear_mode)}"
   },

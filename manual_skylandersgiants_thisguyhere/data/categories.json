@@ -67,6 +67,10 @@
         "yaml_option": ["challenges_as_locations"],
         "hidden": false
     },
+    "Arena": {
+        "yaml_option": ["arenas_as_locations"],
+        "hidden": false
+    },
     "Shop Item": {
         "yaml_option": ["shopsanity"],
         "hidden": true

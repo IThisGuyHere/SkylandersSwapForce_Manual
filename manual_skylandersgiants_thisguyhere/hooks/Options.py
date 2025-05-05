@@ -64,6 +64,11 @@ class ChallengesAsLocations(Toggle):
     display_name = "Challenges as Locations"
     default = False
 
+class ArenasAsLocations(Toggle):
+    """Add locations for Brock's arena battles."""
+    display_name = "Arenas as Locations"
+    default = True
+
 class Shopsanity(Toggle):
     """Adds shop items as locations"""
     display_name = "Shopsanity"
@@ -164,6 +169,7 @@ def before_options_defined(options: dict) -> dict:
     options["chapters_to_beat"] = NumChaptersToBeat
     options["characters_as_items"] = CharactersAsItems
     options["challenges_as_locations"] = ChallengesAsLocations
+    options["arenas_as_locations"] = ArenasAsLocations
     options["shopsanity"] = Shopsanity
     options["include_empire"] = EmpireOfIceAddon
     options["include_ship"] = PirateShipAddon

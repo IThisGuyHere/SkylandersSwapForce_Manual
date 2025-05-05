@@ -2321,7 +2321,7 @@
 				"Skystones",
 				"Chapter 02"
 			],
-			"requires": []
+			"requires": "|Progressive Chapter:4| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Skystones - Guarded Tower",
@@ -2330,7 +2330,7 @@
 				"Skystones",
 				"Chapter 03"
 			],
-			"requires": []
+			"requires": "|Progressive Chapter:4| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Skystones - House of Cards",
@@ -2698,169 +2698,169 @@
 
 		{
 			"name": "Arena 1 - Stop the Spell",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 1 - Smoke Screen",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 1 - Cloudy Curse",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 1 - Present Protector",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 1 - Spell Dodger",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 1 - Force Field Frenzy",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 1 - The Perfect Game",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": []
 		},
 		{
 			"name": "Arena 2 - Don't Beam Me Up!",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - No Chompies Allowed!",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - Fog of War",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - An Early Fall",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - Losing Ground",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - Sky Lasers",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 2 - One Shot Thrill",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Sticky Situation",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Birthday Bash",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Trog Trouble",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Baaaaaaad Idea!",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Bubble Buster",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - Icy Blast",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Arena 3 - You Only Live Once",
-			"region": "Arena Battles",
+			"region": "Arenas",
 			"category": [
-				"Arena Battles"
+				"Arena Battle"
 			],
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
