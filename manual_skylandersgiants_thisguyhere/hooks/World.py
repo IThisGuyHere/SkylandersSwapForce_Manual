@@ -151,6 +151,39 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
 
+
+    # since the traps are weight-based, trap and filler generation needs to be overridden here
+    
+    extras = len(MultiWorld.get_unfilled_locations(player=player)) - len(item_pool)
+
+    if extras > 0:
+        traps = [item["name"] for item in item_table if "trap" in item.get("category")]
+        trap_percent = get_option_value(MultiWorld, player, "filler_traps")
+        if not traps:
+            trap_percent = 0
+
+        trap_count = extras * trap_percent // 100
+        filler_count = extras - trap_count
+
+        weights = []
+            
+        for trap in traps:
+            option_name = trap.casefold().replace(" ","_") + "_weight"
+            weights.append(get_option_value(multiworld,player,option_name))
+
+        if sum(weights) == 0:
+            logging.warning(f"{MultiWorld.player_name} thought setting all trap weights to 0 would be funny. They won't be laughing for long.")
+            weights[-1] = 1
+
+        for _ in range(0, trap_count):
+            extra_item = MultiWorld.create_item(MultiWorld.random.choices(traps,weights=weights)[0])
+            item_pool.append(extra_item)
+
+        for _ in range(0, filler_count):
+            extra_item = MultiWorld.create_item(MultiWorld.get_filler_item_name())
+            item_pool.append(extra_item)
+
+
     return item_pool
 
     # Some other useful hook options:
