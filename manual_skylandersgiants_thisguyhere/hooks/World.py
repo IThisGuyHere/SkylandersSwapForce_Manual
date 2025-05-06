@@ -12,7 +12,7 @@ from ..Locations import ManualLocation
 from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
-from ..Helpers import is_option_enabled, get_option_value
+from ..Helpers import is_option_enabled, get_option_value, is_location_name_enabled, is_item_name_enabled
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
@@ -38,22 +38,6 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-
-
-    # if playing nonlinear mode, we need to place Map to Arkus Fragments in the chapter locations
-    if not get_option_value(multiworld, player, "linear_mode"):
-
-        extra_map_frags = get_option_value(multiworld, player, "include_empire") + get_option_value(multiworld, player, "include_ship") + get_option_value(multiworld, player, "include_crypt") + get_option_value(multiworld, player, "include_peak")
-        for item in item_table:
-            if item["name"] == 'Map to Arkus Fragment':
-                item["count"] = item["count"] + extra_map_frags
-
-        #from ..Locations import location_name_to_location
-
-        for location in location_table:
-            if "Level Completion" in location["category"]: 
-                location["place_item"] = ["Map to Arkus Fragment"]
-
     pass
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
@@ -76,7 +60,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     if not get_option_value(multiworld, player, "linear_mode"):
         chapters = []
         for region in multiworld.regions:
-            if "Chapter" in region.name:
+            if region.player == player and "Chapter" in region.name:
                 region.set_exits([])
                 chapters.append(region.name)
         manual = multiworld.get_region("Manual", player)
@@ -101,39 +85,45 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     
     names_to_remove = get_option_value(multiworld, player, "characters_to_exclude")
     use_character_whitelist = get_option_value(multiworld, player, "whitelist_characters")
+    challenges_enabled = get_option_value(multiworld, player, "challenges_as_locations")
     # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
 
     # need to first check if the item is in item_pool
-    for item in item_pool:
-        table_item = next(i for i in item_table if i["name"] == item.name)
-        if ("category" not in table_item or "Skylander" not in table_item.get("category")):
+    for item in item_table:
+        #table_item = next(i for i in item_table if i["name"] == item.name)
+        if not ("Skylander" in item["category"] and is_item_name_enabled(multiworld,player,item["name"])):
             continue
-        item_name = item.name
+        item_name = item["name"]
         character_in_list = False
-        for char_name in names_to_remove:
-            if item_name.casefold() == char_name.casefold():
-                character_in_list = True
-                break
+        #for char_name in names_to_remove:
+        #    if item_name.casefold() == char_name.casefold():
+        #        character_in_list = True
+        #        break
+        if item_name in names_to_remove:
+            character_in_list = True
+            break
+
 
         if (use_character_whitelist ^ character_in_list):
             itemNamesToRemove.append(item_name)
             # get rid of heroic challenges for removed characters
-            if (get_option_value(multiworld, player, "challenges_as_locations")):
-                locationNamesToRemove.append("Heroic Challenge - " + item_name)
+            if (challenges_enabled):
+                locationNamesToRemove.append(f"Heroic Challenge - {item_name}")
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
         print("Successfully removed " + itemName)   # debug
 
-    for region in multiworld.regions:
-        if region.player == player:
-            for location in list(region.locations):
-                if location.name in locationNamesToRemove:
-                    region.locations.remove(location)
-                    print("Successfully removed " + "Heroic Challenge - " + itemName)   # debug
-    if hasattr(multiworld, "clear_location_cache"):
-        multiworld.clear_location_cache()
+    if challenges_enabled:
+        for region in multiworld.regions:
+            if region.player == player:
+                for location in list(region.locations):
+                    if location.name in locationNamesToRemove:
+                        region.locations.remove(location)
+                        print(f"Successfully removed Heroic Challenge - {itemName}")   # debug
+        if hasattr(multiworld, "clear_location_cache"):
+            multiworld.clear_location_cache()
 
     return item_pool
 
@@ -147,6 +137,26 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
+    # if playing nonlinear mode, we need to place Map to Arkus Fragments in the chapter locations and remove any extras
+    if not get_option_value(multiworld, player, "linear_mode"):
+
+        extra_map_frags = (4 - get_option_value(multiworld, player, "include_empire") - 
+                           get_option_value(multiworld, player, "include_ship") - 
+                           get_option_value(multiworld, player, "include_crypt") - 
+                           get_option_value(multiworld, player, "include_peak"))
+        
+        for i in range(extra_map_frags):
+            itemNamesToRemove.append("Map to Arkus Fragment")
+
+        for location in location_table:
+            if "Level Completion" in location["category"] and is_location_name_enabled(multiworld,player,location["name"]): 
+                level = multiworld.get_location(location["name"], player)
+                item_to_place = next(i for i in item_pool if i.name == "Map to Arkus Fragment")
+                level.place_locked_item(item_to_place)
+                item_pool.remove(item_to_place)
+
+
+
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
@@ -154,11 +164,11 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     # since the traps are weight-based, trap and filler generation needs to be overridden here
     
-    extras = len(MultiWorld.get_unfilled_locations(player=player)) - len(item_pool)
+    extras = len(multiworld.get_unfilled_locations(player=player)) - len(item_pool)
 
     if extras > 0:
-        traps = [item["name"] for item in item_table if "trap" in item.get("category")]
-        trap_percent = get_option_value(MultiWorld, player, "filler_traps")
+        traps = [item["name"] for item in item_table if item.get("trap")]
+        trap_percent = get_option_value(multiworld, player, "filler_traps")
         if not traps:
             trap_percent = 0
 
@@ -172,15 +182,15 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
             weights.append(get_option_value(multiworld,player,option_name))
 
         if sum(weights) == 0:
-            logging.warning(f"{MultiWorld.player_name} thought setting all trap weights to 0 would be funny. They won't be laughing for long.")
+            logging.warning(f"{world.player_name} thought setting all trap weights to 0 would be funny. They won't be laughing for long.")
             weights[-1] = 1
 
         for _ in range(0, trap_count):
-            extra_item = MultiWorld.create_item(MultiWorld.random.choices(traps,weights=weights)[0])
+            extra_item = world.create_item(world.random.choices(traps,weights=weights)[0])
             item_pool.append(extra_item)
 
         for _ in range(0, filler_count):
-            extra_item = MultiWorld.create_item(MultiWorld.get_filler_item_name())
+            extra_item = world.create_item(world.get_filler_item_name())
             item_pool.append(extra_item)
 
 
