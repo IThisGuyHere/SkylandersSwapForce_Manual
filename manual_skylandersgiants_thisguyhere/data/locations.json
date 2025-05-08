@@ -2534,12 +2534,12 @@
 		},
 		{
 			"name": "Winged Sapphire - Cap'n Flynn's Ship 1",
-			"region": "Chapter 2",
+			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
-				"Chapter 02"
+				"Hub"
 			],
-			"requires": []
+			"requires": "|Progressive Chapter:2| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Winged Sapphire - Shadow Grove",
@@ -2570,12 +2570,12 @@
 		},
 		{
 			"name": "Winged Sapphire - Cap'n Flynn's Ship 2",
-			"region": "Chapter 5",
+			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
-				"Chapter 05"
+				"Hub"
 			],
-			"requires": []
+			"requires": "|Progressive Chapter:5| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Winged Sapphire - Vault Inner Workings",
@@ -2615,12 +2615,12 @@
 		},
 		{
 			"name": "Winged Sapphire - Cap'n Flynn's Ship 3",
-			"region": "Chapter 9",
+			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
-				"Chapter 09"
+				"Hub"
 			],
-			"requires": []
+			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Winged Sapphire - The Spectral Dreadnought",
@@ -2669,12 +2669,12 @@
 		},
 		{
 			"name": "Winged Sapphire - Cap'n Flynn's Ship 4",
-			"region": "Chapter 14",
+			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
-				"Chapter 14"
+				"Hub"
 			],
-			"requires": []
+			"requires": "|Progressive Chapter:14| or {YamlDisabled(linear_mode)}"
 		},
 		{
 			"name": "Winged Sapphire - Batterson's Stovetop",
