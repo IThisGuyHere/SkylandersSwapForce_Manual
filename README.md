@@ -75,5 +75,10 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * progressive shops? nah
 * I don't want to add story scrolls because you rarely have to stray from the main path to get them. In my opinion, most collectable locations should require *some* effort to reach, and there are too many locations right now anyway
 
+
+## Additional Notes for Non-Linear Mode
+The provided save for non-linear mode was created using leaked debug tools. Those tools trick the game into thinking that every level but the last is complete, but do not collect any items or check off any level progress. As such, you may end up playing a level that expects you to have some item collected from a previous chapter. The biggest example is skystones. Until you beat a skystones match, your deck will be comprised of five Drow Lancemasters. Some battles are impossible to beat with this deck, and many others are extremely difficult. The best workaround I have found is to immediately challenge Dreadbeard in the game room to get your starter deck and a couple of decent stones. Otherwise, check th edocs directory for hints on some of the battles.
+
+
 Credits:
 * emmet_is_a_birb for adding a bunch of locations and items when I was busy and correcting some of my logic
