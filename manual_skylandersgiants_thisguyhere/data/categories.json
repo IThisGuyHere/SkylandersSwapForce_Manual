@@ -15,7 +15,7 @@
     "Soul Gem Collection": {
         "hidden": true
     },
-    "Perfection": {
+    "Speedrun": {
         "hidden": true
     },
     "Chapter": {
@@ -29,13 +29,7 @@
         "yaml_option": ["!linear_mode"],
         "hidden": true
     },
-    "Soul Abilities": {
-        "hidden": false
-    },
     "Winged Sapphire": {
-        "hidden": true
-    },
-    "Luck-O-Tron Wheel Collection": {
         "hidden": true
     },
     "Skystones": {

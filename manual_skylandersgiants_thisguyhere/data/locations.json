@@ -1343,7 +1343,7 @@
 			"requires": []
 		},
 		{
-			"name": "Chest - Cheese Cavern",
+			"name": "Chest - Failing Fields",
 			"region": "Chapter 8",
 			"category": [
 				"Chest Collection",
@@ -1352,7 +1352,7 @@
 			"requires": []
 		},
 		{
-			"name": "Chest - Secret Cave",
+			"name": "Chest - Frightful Filtration Pools",
 			"region": "Chapter 8",
 			"category": [
 				"Chest Collection",
@@ -1631,7 +1631,7 @@
 			"requires": []
 		},
 		{
-			"name": "Chest - The Evershifting Hall #2",
+			"name": "Chest - Magician's Lighthouse",
 			"region": "Chapter 16",
 			"category": [
 				"Chest Collection",
@@ -3026,15 +3026,6 @@
 			"category": [
 				"Speedrun",
 				"Chapter 15"
-			],
-			"requires": "|@Skylander - Fast|"
-		},
-		{
-			"name": "Bringing Order to Kaos Speedrun",
-			"region": "Chapter 16",
-			"category": [
-				"Speedrun",
-				"Chapter 16"
 			],
 			"requires": "|@Skylander - Fast|"
 		},

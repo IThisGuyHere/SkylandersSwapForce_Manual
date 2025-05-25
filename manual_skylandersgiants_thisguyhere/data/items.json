@@ -172,74 +172,194 @@
 
 
 	{
-		"count": "16",
-		"name": "Progressive Soul Abilities",
+		"name": "Soul Ability - Shroomboom",
+		"count": "1",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Hot Head",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Hot Dog",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Swarm",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Thumpback",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Bouncer",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Pop Fizz",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Crusher",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Ninjini",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Fright Rider",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Sprocket",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Tree Rex",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Eye-Brawl",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Jet-Vac",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Chill",
+		"count": "1",
+		"category": [
+			"Upgrade"
+		],
+		"useful": true
+	},
+	{
+		"name": "Soul Ability - Flashwing",
+		"count": "1",
+		"category": [
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Water Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Water",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Fire Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Fire",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Earth Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Earth",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Air Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Air",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Life Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Life",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Undead Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Undead",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Tech Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Tech",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
 	{
 		"count": "1",
-		"name": "Magic Pow-Wow Abilities",
+		"name": "Wow-Pow Abilities - Magic",
 		"category": [
-			"Soul Abilities"
+			"Upgrade"
 		],
 		"useful": true
 	},
