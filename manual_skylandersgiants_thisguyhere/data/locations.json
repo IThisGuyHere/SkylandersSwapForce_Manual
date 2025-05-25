@@ -276,6 +276,36 @@
 			"requires": []
 		},
 		{
+			"name": "Bowler Hat",
+			"region": "Hub",
+			"category": [
+				"Hat Collection",
+				"Hub",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Balloon Hat",
+			"region": "Hub",
+			"category": [
+				"Hat Collection",
+				"Hub",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
+			"name": "Happy Birthday! (Hat)",
+			"region": "Hub",
+			"category": [
+				"Hat Collection",
+				"Hub",
+				"Shop Item"
+			],
+			"requires": []
+		},
+		{
 			"name": "Pilgrim Hat",
 			"region": "Chapter 3",
 			"category": [
@@ -314,7 +344,7 @@
 			"requires": []
 		},
 		{
-			"name": "Birthay Hat",
+			"name": "Birthday Hat",
 			"region": "Chapter 3",
 			"category": [
 				"Hat Collection",
@@ -709,7 +739,7 @@
 				"Hat Collection",
 				"Chapter 14"
 			],
-			"requires": "|@Skylander - Air|"
+			"requires": "|@Skylander - Water|"
 		},
 		{
 			"name": "Anvil Hat",
@@ -1857,7 +1887,7 @@
 				"Soul Gem Collection",
 				"Chapter 07"
 			],
-			"requires": []
+			"requires": "|@Skylander - Giant|"
 		},
 		{
 			"name": "Soul Gem - Crusher",
@@ -2533,7 +2563,7 @@
 			"requires": []
 		},
 		{
-			"name": "Winged Sapphire - Cap'n Flynn's Ship 1",
+			"name": "Winged Sapphire - Cap'n Flynn's Ship - Main Deck",
 			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
@@ -2569,7 +2599,7 @@
 			"requires": []
 		},
 		{
-			"name": "Winged Sapphire - Cap'n Flynn's Ship 2",
+			"name": "Winged Sapphire - Cap'n Flynn's Ship - Crow's Nest",
 			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
@@ -2614,7 +2644,7 @@
 			"requires": "|@Skylander - Tech|"
 		},
 		{
-			"name": "Winged Sapphire - Cap'n Flynn's Ship 3",
+			"name": "Winged Sapphire - Cap'n Flynn's Ship - Game Room",
 			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
@@ -2668,7 +2698,7 @@
 			"requires": []
 		},
 		{
-			"name": "Winged Sapphire - Cap'n Flynn's Ship 4",
+			"name": "Winged Sapphire - Cap'n Flynn's Ship - Crane Deck",
 			"region": "Hub",
 			"category": [
 				"Winged Sapphire",
@@ -2865,201 +2895,201 @@
 			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
 		},
 		{
-			"name": "Time of the Giants Perfection",
+			"name": "Time of the Giants Speedrun",
 			"region": "Chapter 1",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 01"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Junkyard Isles Perfection",
+			"name": "Junkyard Isles Speedrun",
 			"region": "Chapter 2",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 02"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Rumbletown Perfection",
+			"name": "Rumbletown Speedrun",
 			"region": "Chapter 3",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 03"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Life| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Cutthroat Carnival Perfection",
+			"name": "Cutthroat Carnival Speedrun",
 			"region": "Chapter 4",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 04"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Air| and |@Skylander - Undead| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Glacier Gully Perfection",
+			"name": "Glacier Gully Speedrun",
 			"region": "Chapter 5",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 05"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Secret Vault of Secrets Perfection",
+			"name": "Secret Vault of Secrets Speedrun",
 			"region": "Chapter 6",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 06"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Tech| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Wilikin Village Perfection",
+			"name": "Wilikin Village Speedrun",
 			"region": "Chapter 7",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 07"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Earth| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Troll Home Security Perfection",
+			"name": "Troll Home Security Speedrun",
 			"region": "Chapter 8",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 08"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Kaos' Kastle Perfection",
+			"name": "Kaos' Kastle Speedrun",
 			"region": "Chapter 9",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 09"
 			],
-			"requires": "|@Skylander - Giant|  and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Aerial Attack Perfection",
+			"name": "Aerial Attack Speedrun",
 			"region": "Chapter 10",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 10"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Air| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Drill-X's Big Rig Perfection",
+			"name": "Drill-X's Big Rig Speedrun",
 			"region": "Chapter 11",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 11"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Life| and |@Skylander - Earth| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Molekin Mountain Perfection",
+			"name": "Molekin Mountain Speedrun",
 			"region": "Chapter 12",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 12"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "The Oracle Perfection",
+			"name": "The Oracle Speedrun",
 			"region": "Chapter 13",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 13"
 			],
-			"requires": []
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Autogyro Adventure Perfection",
+			"name": "Autogyro Adventure Speedrun",
 			"region": "Chapter 14",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 14"
 			],
-			"requires": "|@Skylander - Undead| and |@Skylander - Water| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Lost City of Arkus Perfection",
+			"name": "Lost City of Arkus Speedrun",
 			"region": "Chapter 15",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 15"
 			],
-			"requires": "|@Skylander - Giant| and |@Skylander - Water| and |@Skylander - Magic| and |@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Bringing Order to Kaos Perfection",
+			"name": "Bringing Order to Kaos Speedrun",
 			"region": "Chapter 16",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Chapter 16"
 			],
-			"requires": "|@Skylander - Earth| and |@Skylander - Magic| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Empire of Ice Perfection",
+			"name": "Empire of Ice Speedrun",
 			"region": "Empire of Ice",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Add-on",
 				"Empire of Ice",
 				"Empire of Ice Pack"
 			],
-			"requires": "|@Skylander - Undead| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Pirate Seas Perfection",
+			"name": "Pirate Seas Speedrun",
 			"region": "Pirate Seas",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Add-on",
 				"Pirate Seas",
 				"Pirate Seas Pack"
 			],
-			"requires": "|@Skylander - Life| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Darklight Crypt Perfection",
+			"name": "Darklight Crypt Speedrun",
 			"region": "Darklight Crypt",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Add-on",
 				"Darklight Crypt",
 				"Darklight Crypt Pack"
 			],
-			"requires": "|@Skylander - Fire| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
-			"name": "Dragon's Peak Perfection",
+			"name": "Dragon's Peak Speedrun",
 			"region": "Dragon's Peak",
 			"category": [
-				"Perfection",
+				"Speedrun",
 				"Add-on",
 				"Dragon's Peak",
 				"Dragon's Peak Pack"
 			],
-			"requires": "|@Skylander - Air| and |@Skylander - Fast|"
+			"requires": "|@Skylander - Fast|"
 		},
 		{
 			"name": "All Levels Perfected",
-			"region": "Chapter 16",
+			"region": "Final Boss",
 			"victory": true,
 			"category": [
 				"Goal"
 			],
-			"requires": "({YamlDisabled(include_crypt)} or |Darklight Crypt|) and ({YamlDisabled(include_empire)} or |Empire of Ice|) and ({YamlDisabled(include_ship)} or |Pirate Seas|) and ({YamlDisabled(include_peak)} or |Dragon's Peak|) and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic|"
+			"requires": "({YamlDisabled(include_crypt)} or |Darklight Crypt|) and ({YamlDisabled(include_empire)} or |Empire of Ice|) and ({YamlDisabled(include_ship)} or |Pirate Seas|) and ({YamlDisabled(include_peak)} or |Dragon's Peak|) and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast|"
 		}
 	]
 }
