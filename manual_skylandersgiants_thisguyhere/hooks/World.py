@@ -91,9 +91,9 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     # need to first check if the item is in item_pool
     for item in item_table:
         #table_item = next(i for i in item_table if i["name"] == item.name)
-        if "category" not in item or "Skylander" not in item.get("category") or not is_item_name_enabled(multiworld,player,item["name"]):
+        if "category" not in item or "Skylander" not in item.get("category") or not is_item_name_enabled(multiworld,player,item.get("name")):
             continue
-        item_name = item["name"]
+        item_name = item.get("name")
         character_in_list = False
         #for char_name in names_to_remove:
         #    if item_name.casefold() == char_name.casefold():
@@ -101,7 +101,6 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
         #        break
         if item_name in names_to_remove:
             character_in_list = True
-            break
 
 
         if (use_character_whitelist ^ character_in_list):
