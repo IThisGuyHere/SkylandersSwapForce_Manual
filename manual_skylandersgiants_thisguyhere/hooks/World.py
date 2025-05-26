@@ -145,12 +145,12 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
                            get_option_value(multiworld, player, "include_peak"))
         
         for i in range(extra_map_frags):
-            itemNamesToRemove.append("Map to Arkus Fragment")
+            itemNamesToRemove.append("Map of Arkus Fragment")
 
         for location in location_table:
             if "Level Completion" in location["category"] and is_location_name_enabled(multiworld,player,location["name"]): 
                 level = multiworld.get_location(location["name"], player)
-                item_to_place = next(i for i in item_pool if i.name == "Map to Arkus Fragment")
+                item_to_place = next(i for i in item_pool if i.name == "Map of Arkus Fragment")
                 level.place_locked_item(item_to_place)
                 item_pool.remove(item_to_place)
 
@@ -167,6 +167,8 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     if extras > 0:
         traps = [item["name"] for item in item_table if item.get("trap")]
+        filler = [item["name"] for item in item_table if item.get("filler")]
+        filler.append(world.get_filler_item_name())
         trap_percent = get_option_value(multiworld, player, "filler_traps")
         if not traps:
             trap_percent = 0
@@ -189,7 +191,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
             item_pool.append(extra_item)
 
         for _ in range(0, filler_count):
-            extra_item = world.create_item(world.get_filler_item_name())
+            extra_item = world.create_item(world.random.choice(filler))
             item_pool.append(extra_item)
 
 

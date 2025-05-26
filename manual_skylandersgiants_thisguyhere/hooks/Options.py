@@ -154,14 +154,14 @@ class ResetCharacterWeight(Range):
     display_name = "Reset Last Skylander trap Weight"
     range_start = 0
     range_end = 100
-    default = 8
+    default = 10
 
 class HeavyHitterWeight(Range):
     """Weight of Heavy Hitter traps. Set to 0 to disable. Don't set all trap weights to 0."""
     display_name = "Heavy Hitter trap Weight"
     range_start = 0
     range_end = 100
-    default = 22
+    default = 20
 
 class FillerTrapPercent(Range):
     """How many fillers will be replaced with traps. 0 means no traps at all, 100 means all fillers are traps."""
