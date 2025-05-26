@@ -129,32 +129,39 @@ class OldGenCharacters(Toggle):
     default = False
 
 class ElementLockWeight(Range):
-    """Weight of Element Lock traps. Set to 0 to disable. Don't set all weights to 0."""
+    """Weight of Element Lock traps. Set to 0 to disable. Don't set all trap weights to 0."""
     display_name = "Element Lock trap Weight"
     range_start = 0
     range_end = 100
-    default = 45
+    default = 35
 
 class RenameSkylanderWeight(Range):
-    """Weight of Rename Skylander traps. Set to 0 to disable. Don't set all weights to 0."""
+    """Weight of Rename Skylander traps. Set to 0 to disable. Don't set all trap weights to 0."""
     display_name = "Rename Skylander trap Weight"
     range_start = 0
     range_end = 100
     default = 20
 
 class SoloWeight(Range):
-    """Weight of Solo traps. Set to 0 to disable. Don't set all weights to 0."""
+    """Weight of Solo traps. Set to 0 to disable. Don't set all trap weights to 0."""
     display_name = "Solo trap Weight"
     range_start = 0
     range_end = 100
-    default = 25
+    default = 15
 
 class ResetCharacterWeight(Range):
-    """Weight of Reset Last Skylander traps. Set to 0 to disable. Don't set all weights to 0."""
+    """Weight of Reset Last Skylander traps. Set to 0 to disable. Don't set all trap weights to 0."""
     display_name = "Reset Last Skylander trap Weight"
     range_start = 0
     range_end = 100
-    default = 10
+    default = 8
+
+class HeavyHitterWeight(Range):
+    """Weight of Heavy Hitter traps. Set to 0 to disable. Don't set all trap weights to 0."""
+    display_name = "Heavy Hitter trap Weight"
+    range_start = 0
+    range_end = 100
+    default = 22
 
 class FillerTrapPercent(Range):
     """How many fillers will be replaced with traps. 0 means no traps at all, 100 means all fillers are traps."""
@@ -183,6 +190,7 @@ def before_options_defined(options: dict) -> dict:
     options["element_lock_trap_weight"] = ElementLockWeight
     options["rename_skylander_trap_weight"] = RenameSkylanderWeight
     options["solo_trap_weight"] = SoloWeight
+    options["heavy_hitter_trap_weight"] = HeavyHitterWeight
     options["reset_last_skylander_trap_weight"] = ResetCharacterWeight
     return options
 

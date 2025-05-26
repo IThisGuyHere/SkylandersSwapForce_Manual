@@ -104,8 +104,5 @@
     },
     "Traps": {
         "hidden": false
-    },
-    "Hard Traps": {
-        "hidden": true
     }
 }

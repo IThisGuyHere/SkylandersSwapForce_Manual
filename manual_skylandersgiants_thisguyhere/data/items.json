@@ -815,6 +815,7 @@
 			"Skylander", 
 			"Skylander - Air",
 			"Skylander - Giant",
+			"Skylander - Fast",
 			"Series 2"
 		],
 		"progression_skip_balancing": true
@@ -942,6 +943,7 @@
 			"Skylander", 
 			"Skylander - Water",
 			"Skylander - Giant",
+			"Skylander - Fast",
 			"Series 2"
 		],
 		"progression_skip_balancing": true
@@ -1117,16 +1119,30 @@
 	},
 	{
 		"count": 0,
-		"name": "Reset Last Skylander Trap",
+		"name": "Heavy Hitter Trap",
 		"category": [
-			"Traps", "Hard Traps"
+			"Traps"
 		],
 		"trap": true
+	},
+	{
+		"count": 0,
+		"name": "Reset Last Skylander Trap",
+		"category": [
+			"Traps"
+		],
+		"trap": true
+	},
+	{
+		"count": 0,
+		"name": "Ship Vault Key",
+		"category": [],
+		"filler": true
 	},
 
 	{
 		"count": 20,
-		"name": "Map to Arkus Fragment",
+		"name": "Map of Arkus Fragment",
 		"category": [
 			"Nonlinear"
 		],
