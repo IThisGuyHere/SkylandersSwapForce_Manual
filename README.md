@@ -4,7 +4,7 @@ Manual Archipelago world for Skylanders: Giants. Created by ThisGuyHere.
 ## Overview
 *Greetings, Portal Master. The evil Lord Kaos threatens Skylands once again, but this time he is not alone. He has discoverered like-minded evildoers from other worlds, and joined forces with them in a dastardly alliance. This council of villains has fractured each of their worlds, including Skylands, and divided their pieces across the multiverse, leaving them to carry out their evil plans unimpeded. But you will not face them alone. Each of those worlds has heroes like you, and you must work with them to rebuild Skylands and stop Kaos before he obtains the Fist of Arkus. The fate of Skylands is up to you now. Good luck.*
 
-This manual requires a new save and at least one Skylander of each element. Any Skylanders you do not own or do not want to use should be included in the characters_to_exclude yaml option. Currently, you start with one random Skylander and the first chapter unlocked (or a random chapter; see yaml options). Depending on the chosen goal, you either need to defeat Kaos in Chapter 16 or get 3 stars on every level (essentially, complete everything). 
+This manual requires a new save and at least one Skylander of each element. Any Skylanders you do not own or do not want to use should be included in the characters_to_exclude yaml option. Currently, you start with one random Skylander and the first chapter unlocked (or a random chapter; see yaml options). Depending on the chosen goal, you either need to defeat Kaos in Chapter 16 or get 3 stars on every level (essentially, complete everything). The second goal is there is you want to play with it, but I don't recommend it unless your multiworld is intended to last a month or longer.
 
 ## Required Hardware/Software
 
@@ -37,7 +37,9 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * Skylanders - Unlocked individually or by element, depending on the yaml configuration. **You will always start with 1**.
 * Active Items - Unlocks the item in question if its corresponding adventure pack is enabled.
 * Luck-o-tron Wheel Slots - Each unlocks the ability to slot one luck-o-tron wheel, up to four.
-* Ship Vault Key (filler) - Each allows you to open the vault in the game room one time.
+* Ship Vault Key (filler) - Each allows you to open the vault in the hub's game room one time.
+* Skystone Cheat (filler) - Each allows you to buy and use one skystone cheat from Auric's shop (recommended if one is too hard or rng-based).
+* Lock Puzzle Key (filler) - Each allows you to buy and use one lock puzzle key from Auric's shop.
 
 ## Locations
 * Completion of each base chapter (Chapter 16 may be considered "complete" when you reach the bridge to the Kaos fight).

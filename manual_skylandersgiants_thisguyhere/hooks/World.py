@@ -168,7 +168,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     if extras > 0:
         traps = [item["name"] for item in item_table if item.get("trap")]
         filler = [item["name"] for item in item_table if item.get("filler")]
-        filler.append(world.get_filler_item_name())
+        #filler.append(world.get_filler_item_name())    # not really necessary anymore
         trap_percent = get_option_value(multiworld, player, "filler_traps")
         if not traps:
             trap_percent = 0
