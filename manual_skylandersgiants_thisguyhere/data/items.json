@@ -435,7 +435,7 @@
 		"count": 1,
 		"name": "All Fire Skylanders",
 		"category": [
-			"Element", "Skylander - Fire"
+			"Element", "Skylander - Fire", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -443,7 +443,7 @@
 		"count": 1,
 		"name": "All Water Skylanders",
 		"category": [
-			"Element", "Skylander - Water"
+			"Element", "Skylander - Water", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -451,7 +451,7 @@
 		"count": 1,
 		"name": "All Earth Skylanders",
 		"category": [
-			"Element", "Skylander - Earth"
+			"Element", "Skylander - Earth", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -459,7 +459,7 @@
 		"count": 1,
 		"name": "All Air Skylanders",
 		"category": [
-			"Element", "Skylander - Air"
+			"Element", "Skylander - Air", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -467,7 +467,7 @@
 		"count": 1,
 		"name": "All Life Skylanders",
 		"category": [
-			"Element", "Skylander - Life"
+			"Element", "Skylander - Life", "Skylander - Giant"
 		],
 		"progression_skip_balancing": true
 	},
@@ -475,7 +475,7 @@
 		"count": 1,
 		"name": "All Undead Skylanders",
 		"category": [
-			"Element", "Skylander - Undead"
+			"Element", "Skylander - Undead", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -483,7 +483,7 @@
 		"count": 1,
 		"name": "All Tech Skylanders",
 		"category": [
-			"Element", "Skylander - Tech"
+			"Element", "Skylander - Tech", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -491,7 +491,7 @@
 		"count": 1,
 		"name": "All Magic Skylanders",
 		"category": [
-			"Element", "Skylander - Magic"
+			"Element", "Skylander - Magic", "Skylander - Giant", "Skylander - Fast"
 		],
 		"progression_skip_balancing": true
 	},
@@ -525,7 +525,8 @@
 			"Skylander", 
 			"Skylander - Fire",
 			"Add-on",
-			"Dragon's Peak Pack"
+			"Dragon's Peak Pack",
+			"Series 1"
 		],
 		"progression_skip_balancing": true
 	},
@@ -921,7 +922,8 @@
 			"Skylander - Undead",
 			"Skylander - Fast",
 			"Add-on",
-			"Darklight Crypt Pack"
+			"Darklight Crypt Pack",
+			"Series 1"
 		],
 		"progression_skip_balancing": true
 	},

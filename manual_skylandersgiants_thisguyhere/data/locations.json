@@ -189,15 +189,6 @@
 			],
 			"requires": []
 		},
-		{
-			"name": "Defeat Kaos",
-			"region": "Final Boss",
-			"victory": true,
-			"category": [
-				"Goal"
-			],
-			"requires": []
-		},
 
 
 		{
@@ -1976,17 +1967,15 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Jet-Vac|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
+			"requires": "|Jet-Vac| or |All Air Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Fright Rider",
 			"region": "Hub",
 			"category": [
-				"Challenge",
-				"Add-on",
-				"Darklight Crypt Pack"
+				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Fright Rider|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
+			"requires": "|Fright Rider| or |All Undead Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Wrecking Ball",
@@ -1994,7 +1983,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Wrecking Ball|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
+			"requires": "|Wrecking Ball| or |All Magic Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Spyro",
@@ -2002,7 +1991,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Spyro|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
+			"requires": "|Spyro| or |All Magic Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Prism Break",
@@ -2010,7 +1999,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Prism Break|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
+			"requires": "|Prism Break| or |All Earth Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Lightning Rod",
@@ -2018,7 +2007,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Lightning Rod|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
+			"requires": "|Lightning Rod| or |All Air Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Hex",
@@ -2026,7 +2015,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Hex|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
+			"requires": "|Hex| or |All Undead Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Flashwing",
@@ -2034,7 +2023,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Flashwing|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
+			"requires": "|Flashwing| or |All Earth Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Bash",
@@ -2042,7 +2031,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Bash|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
+			"requires": "|Bash| or |All Earth Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Cynder",
@@ -2050,7 +2039,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Cynder|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
+			"requires": "|Cynder| or |All Undead Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Ignitor",
@@ -2058,7 +2047,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Ignitor|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
+			"requires": "|Ignitor| or |All Fire Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Stump Smash",
@@ -2066,7 +2055,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Stump Smash|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
+			"requires": "|Stump Smash| or |All Life Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Chop Chop",
@@ -2074,7 +2063,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Chop Chop|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
+			"requires": "|Chop Chop| or |All Undead Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Sonic Boom",
@@ -2082,7 +2071,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Sonic Boom|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
+			"requires": "|Sonic Boom| or |All Air Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Drobot",
@@ -2090,27 +2079,23 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Drobot|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
+			"requires": "|Drobot| or |All Tech Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Terrafin",
 			"region": "Hub",
 			"category": [
-				"Challenge",
-				"Add-on",
-				"Pirate Seas Pack"
+				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Terrafin|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
+			"requires": "|Terrafin| or |All Earth Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Hot Dog",
 			"region": "Hub",
 			"category": [
-				"Challenge",
-				"Add-on",
-				"Dragon's Peak Pack"
+				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Hot Dog|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
+			"requires": "|Hot Dog| or |All Fire Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Trigger Happy",
@@ -2118,7 +2103,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Trigger Happy|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
+			"requires": "|Trigger Happy| or |All Tech Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Eruptor",
@@ -2126,7 +2111,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Eruptor|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
+			"requires": "|Eruptor| or |All Fire Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Double Trouble",
@@ -2134,7 +2119,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Double Trouble|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
+			"requires": "|Double Trouble| or |All Magic Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Stealth Elf",
@@ -2142,7 +2127,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Stealth Elf|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
+			"requires": "|Stealth Elf| or |All Life Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Whirlwind",
@@ -2150,7 +2135,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Whirlwind|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
+			"requires": "|Whirlwind| or |All Air Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Pop Fizz",
@@ -2158,7 +2143,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Pop Fizz|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
+			"requires": "|Pop Fizz| or |All Magic Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Chill",
@@ -2166,7 +2151,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Chill|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
+			"requires": "|Chill| or |All Water Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Shroomboom",
@@ -2174,7 +2159,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Shroomboom|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
+			"requires": "|Shroomboom| or |All Life Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Zook",
@@ -2182,7 +2167,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Zook|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
+			"requires": "|Zook| or |All Life Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Flameslinger",
@@ -2190,7 +2175,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Flameslinger|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
+			"requires": "|Flameslinger| or |All Fire Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Sprocket",
@@ -2198,7 +2183,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Sprocket|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
+			"requires": "|Sprocket| or |All Tech Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Gill Grunt",
@@ -2206,7 +2191,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Gill Grunt|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
+			"requires": "|Gill Grunt| or |All Water Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Drill Sergeant",
@@ -2214,17 +2199,15 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Drill Sergeant|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
+			"requires": "|Drill Sergeant| or |All Tech Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Slam Bam",
 			"region": "Hub",
 			"category": [
-				"Challenge",
-				"Add-on",
-				"Empire of Ice Pack"
+				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Slam Bam|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
+			"requires": "|Slam Bam| or |All Water Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Zap",
@@ -2232,7 +2215,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Zap|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
+			"requires": "|Zap| or |All Water Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Thumpback",
@@ -2240,7 +2223,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Thumpback|) or ({YamlDisabled(characters_as_items)} and |All Water Skylanders|)"
+			"requires": "|Thumpback| or |All Water Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Hot Head",
@@ -2248,7 +2231,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Hot Head|) or ({YamlDisabled(characters_as_items)} and |All Fire Skylanders|)"
+			"requires": "|Hot Head| or |All Fire Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Ninjini",
@@ -2256,7 +2239,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Ninjini|) or ({YamlDisabled(characters_as_items)} and |All Magic Skylanders|)"
+			"requires": "|Ninjini| or |All Magic Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Swarm",
@@ -2264,7 +2247,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Swarm|) or ({YamlDisabled(characters_as_items)} and |All Air Skylanders|)"
+			"requires": "|Swarm| or |All Air Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Crusher",
@@ -2272,7 +2255,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Crusher|) or ({YamlDisabled(characters_as_items)} and |All Earth Skylanders|)"
+			"requires": "|Crusher| or |All Earth Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Bouncer",
@@ -2280,7 +2263,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Bouncer|) or ({YamlDisabled(characters_as_items)} and |All Tech Skylanders|)"
+			"requires": "|Bouncer| or |All Tech Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Tree Rex",
@@ -2288,7 +2271,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Tree Rex|) or ({YamlDisabled(characters_as_items)} and |All Life Skylanders|)"
+			"requires": "|Tree Rex| or |All Life Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Eye-Brawl",
@@ -2296,7 +2279,7 @@
 			"category": [
 				"Challenge"
 			],
-			"requires": "({YamlEnabled(characters_as_items)} and |Eye-Brawl|) or ({YamlDisabled(characters_as_items)} and |All Undead Skylanders|)"
+			"requires": "|Eye-Brawl| or |All Undead Skylanders|"
 		},
 		{
 			"name": "Heroic Challenge - Default",
@@ -2351,7 +2334,7 @@
 				"Skystones",
 				"Chapter 02"
 			],
-			"requires": "|Progressive Chapter:4| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:4)}"
 		},
 		{
 			"name": "Skystones - Guarded Tower",
@@ -2360,7 +2343,16 @@
 				"Skystones",
 				"Chapter 03"
 			],
-			"requires": "|Progressive Chapter:4| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:4)}"
+		},
+		{
+			"name": "Skystones - Stink Breeeze Point",
+			"region": "Chapter 3",
+			"category": [
+				"Skystones",
+				"Chapter 03"
+			],
+			"requires": "{OptOne(Progressive Chapter:4)} and |@Skylander - Undead|"
 		},
 		{
 			"name": "Skystones - House of Cards",
@@ -2569,7 +2561,7 @@
 				"Winged Sapphire",
 				"Hub"
 			],
-			"requires": "|Progressive Chapter:2| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:2)}"
 		},
 		{
 			"name": "Winged Sapphire - Shadow Grove",
@@ -2605,7 +2597,7 @@
 				"Winged Sapphire",
 				"Hub"
 			],
-			"requires": "|Progressive Chapter:5| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:5)}"
 		},
 		{
 			"name": "Winged Sapphire - Vault Inner Workings",
@@ -2650,7 +2642,7 @@
 				"Winged Sapphire",
 				"Hub"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Winged Sapphire - The Spectral Dreadnought",
@@ -2704,7 +2696,7 @@
 				"Winged Sapphire",
 				"Hub"
 			],
-			"requires": "|Progressive Chapter:14| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:14)}"
 		},
 		{
 			"name": "Winged Sapphire - Batterson's Stovetop",
@@ -2788,7 +2780,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 2 - No Chompies Allowed!",
@@ -2796,7 +2788,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 2 - Fog of War",
@@ -2804,7 +2796,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 2 - An Early Fall",
@@ -2812,7 +2804,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 2 - Losing Ground",
@@ -2820,7 +2812,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 2 - Sky Lasers",
@@ -2828,7 +2820,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 2 - One Shot Thrill",
@@ -2836,7 +2828,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:9| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:9)}"
 		},
 		{
 			"name": "Arena 3 - Sticky Situation",
@@ -2844,7 +2836,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Arena 3 - Birthday Bash",
@@ -2852,7 +2844,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Arena 3 - Trog Trouble",
@@ -2860,7 +2852,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Arena 3 - Baaaaaaad Idea!",
@@ -2868,7 +2860,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Arena 3 - Bubble Buster",
@@ -2876,7 +2868,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Arena 3 - Icy Blast",
@@ -2884,7 +2876,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Arena 3 - You Only Live Once",
@@ -2892,7 +2884,7 @@
 			"category": [
 				"Arena Battle"
 			],
-			"requires": "|Progressive Chapter:12| or {YamlDisabled(linear_mode)}"
+			"requires": "{OptOne(Progressive Chapter:12)}"
 		},
 		{
 			"name": "Time of the Giants Speedrun",
@@ -3073,6 +3065,17 @@
 			],
 			"requires": "|@Skylander - Fast|"
 		},
+
+		
+		{
+			"name": "Defeat Kaos",
+			"region": "Final Boss",
+			"victory": true,
+			"category": [
+				"Goal"
+			],
+			"requires": []
+		},
 		{
 			"name": "All Levels Perfected",
 			"region": "Final Boss",
@@ -3080,7 +3083,7 @@
 			"category": [
 				"Goal"
 			],
-			"requires": "({YamlDisabled(include_crypt)} or |Darklight Crypt|) and ({YamlDisabled(include_empire)} or |Empire of Ice|) and ({YamlDisabled(include_ship)} or |Pirate Seas|) and ({YamlDisabled(include_peak)} or |Dragon's Peak|) and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast|"
+			"requires": "{OptAll(|Darklight Crypt| and |Empire of Ice| and |Pirate Seas| and |Dragon's Peak|)} and |@Skylander - Water| and |@Skylander - Earth| and |@Skylander - Fire| and |@Skylander - Air| and |@Skylander - Life| and |@Skylander - Undead| and |@Skylander - Tech| and |@Skylander - Magic| and |@Skylander - Fast| and |@Skylander - Giant|"
 		}
 	]
 }

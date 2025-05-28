@@ -68,7 +68,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         manual.add_exits(["Hub"])
 
         hub = multiworld.get_region("Hub", player)
-        hub.add_exits(chapters)     # need to also turn Hub into the starting region instead of chapter 1
+        hub.add_exits(chapters)    
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
@@ -82,11 +82,11 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
     
-    
+
+    # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
     names_to_remove = get_option_value(multiworld, player, "characters_to_exclude")
     use_character_whitelist = get_option_value(multiworld, player, "whitelist_characters")
     challenges_enabled = get_option_value(multiworld, player, "challenges_as_locations")
-    # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
 
     # need to first check if the item is in item_pool
     for item in item_table:
@@ -135,6 +135,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     #
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
+
 
     # if playing nonlinear mode, we need to place Map to Arkus Fragments in the chapter locations and remove any extras
     if not get_option_value(multiworld, player, "linear_mode"):
