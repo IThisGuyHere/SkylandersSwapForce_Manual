@@ -82,47 +82,51 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
     
+    if get_option_value(multiworld, player, "characters_as_items"):
+        # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
+        names_to_remove = get_option_value(multiworld, player, "characters_to_exclude")
+        use_character_whitelist = get_option_value(multiworld, player, "whitelist_characters")
+        challenges_enabled = get_option_value(multiworld, player, "challenges_as_locations")
 
-    # if a character is not in the list and whitelist is enabled OR a character is in the list and whitelist is disabled, remove that item
-    names_to_remove = get_option_value(multiworld, player, "characters_to_exclude")
-    use_character_whitelist = get_option_value(multiworld, player, "whitelist_characters")
-    challenges_enabled = get_option_value(multiworld, player, "challenges_as_locations")
+        if use_character_whitelist and len(names_to_remove) < 8:
+            raise Exception("Whitelist was enabled, but does not contain enough skylanders. For optimal results, please ensure that the whitelist " + 
+                            "contains at least 8 skylanders, at least one from each element, and at least one giant.")
 
-    # need to first check if the item is in item_pool
-    for item in item_table:
-        #table_item = next(i for i in item_table if i["name"] == item.name)
-        if "category" not in item or "Skylander" not in item.get("category") or not is_item_name_enabled(multiworld,player,item.get("name")):
-            continue
-        item_name = item.get("name")
-        character_in_list = False
-        #for char_name in names_to_remove:
-        #    if item_name.casefold() == char_name.casefold():
-        #        character_in_list = True
-        #        break
-        if item_name in names_to_remove:
-            character_in_list = True
+        # need to first check if the item is in item_pool
+        for item in item_table:
+            #table_item = next(i for i in item_table if i["name"] == item.name)
+            if "category" not in item or "Skylander" not in item.get("category") or not is_item_name_enabled(multiworld,player,item.get("name")):
+                continue
+            item_name = item.get("name")
+            character_in_list = False
+            #for char_name in names_to_remove:
+            #    if item_name.casefold() == char_name.casefold():
+            #        character_in_list = True
+            #        break
+            if item_name in names_to_remove:
+                character_in_list = True
 
 
-        if (use_character_whitelist ^ character_in_list):
-            itemNamesToRemove.append(item_name)
-            # get rid of heroic challenges for removed characters
-            if (challenges_enabled):
-                locationNamesToRemove.append(f"Heroic Challenge - {item_name}")
+            if (use_character_whitelist ^ character_in_list):
+                itemNamesToRemove.append(item_name)
+                # get rid of heroic challenges for removed characters
+                if (challenges_enabled):
+                    locationNamesToRemove.append(f"Heroic Challenge - {item_name}")
+
+        if challenges_enabled:
+            for region in multiworld.regions:
+                if region.player == player:
+                    for location in list(region.locations):
+                        if location.name in locationNamesToRemove:
+                            region.locations.remove(location)
+                            print(f"Successfully removed Heroic Challenge - {itemName}")   # debug
+            if hasattr(multiworld, "clear_location_cache"):
+                multiworld.clear_location_cache()
 
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
         print("Successfully removed " + itemName)   # debug
-
-    if challenges_enabled:
-        for region in multiworld.regions:
-            if region.player == player:
-                for location in list(region.locations):
-                    if location.name in locationNamesToRemove:
-                        region.locations.remove(location)
-                        print(f"Successfully removed Heroic Challenge - {itemName}")   # debug
-        if hasattr(multiworld, "clear_location_cache"):
-            multiworld.clear_location_cache()
 
     return item_pool
 
