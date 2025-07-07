@@ -1,15 +1,15 @@
-# SkylandersGiants_Manual
+# SkylandersSwapForce_Manual
 Manual Archipelago world for Skylanders: Giants. Created by ThisGuyHere.
 
 ## Overview
-*Greetings, Portal Master. The evil Lord Kaos threatens Skylands once again, but this time he is not alone. He has discoverered like-minded evildoers from other worlds, and joined forces with them in a dastardly alliance. This council of villains has fractured each of their worlds, including Skylands, and divided their pieces across the multiverse, leaving them to carry out their evil plans unimpeded. But you will not face them alone. Each of those worlds has heroes like you, and you must work with them to rebuild Skylands and stop Kaos before he obtains the Fist of Arkus. The fate of Skylands is up to you now. Good luck.*
+*Greetings, Portal Master. The evil Lord Kaos threatens Skylands once again, but this time he is not alone. He has discoverered like-minded evildoers from other worlds, and joined forces with them in a dastardly alliance. This council of villains has fractured each of their worlds, including Skylands, and divided their pieces across the multiverse, leaving them to carry out their evil plans unimpeded. But you will not face them alone. Each of those worlds has heroes like you, and you must work with them to rebuild Skylands and stop Kaos before he obtains the ... The fate of Skylands is up to you now. Good luck.*
 
 This manual requires a new save and at least one Skylander of each element. Any Skylanders you do not own or do not want to use should be included in the characters_to_exclude yaml option. Currently, you start with one random Skylander and the first chapter unlocked (or a random chapter; see yaml options). Depending on the chosen goal, you either need to defeat Kaos in Chapter 16 or get 3 stars on every level (essentially, complete everything). The second goal is there is you want to play with it, but I don't recommend it unless your multiworld is intended to last a month or longer.
 
 ## Required Hardware/Software
 
 - Dolphin or another emulator that supports the Portal of Power, or a playable PC/console copy of the game. At least one Skylander from each element is manditory.
-- If you are playing with linear mode disabled, you will need an existing save with all chapters unlocked but minimal other progress. If using Dolphin emulator, you can find such a save in the Releases tab with every chapter available but zero progress on them (making your own save like this requires some third-party files and a bit of technical knowledge).
+- If you are playing with linear mode disabled, you will need an existing save with all chapters unlocked but minimal other progress. If using Dolphin emulator, you can find such a save in the Releases tab with every chapter available but minimal progress on them (making a special save like the one provided for Giants is currently not possible).
 
 ## Installation Procedures
 
@@ -31,7 +31,7 @@ Visit the manual Discord server <a href=https://discord.com/channels/10975325916
 * Progressive Chapters (linear mode): The number of chapters currently available to play. **You will always start with 1**.
 * Chapters (non-linear mode): Individually named chapters based on the levels in the game. **You will always start with 1**.
 * Adventure Pack Levels - If enabled, unlocks the corresponding adventure pack level.
-* Map to Arkus Fragments (non-linear mode) - A pre-defined amount are required to fight Kaos.
+* ... Fragments (non-linear mode) - A pre-defined amount are required to fight Kaos.
 * Progressive Soul Abilities - Unlocks the use of soul abilities collected in the first *n* chapters.
 * Progressive Skylander Upgrades - Unlocks the ability to purchase *n* upgrades for each Skylander (or each Skylander of that element, depending on the yaml configuration).
 * Skylanders - Unlocked individually or by element, depending on the yaml configuration. **You will always start with 1**.
